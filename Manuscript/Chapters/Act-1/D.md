@@ -1,0 +1,1 @@
+D. Allen Norris writes at the intersection of faith, science, and human consciousness. A lifelong student of theology and the history of ideas, he lives with the conviction that the most important questions cannot be answered by any single discipline. *The Quantum Cross* is the first novel in The Quantum Witness Series.
