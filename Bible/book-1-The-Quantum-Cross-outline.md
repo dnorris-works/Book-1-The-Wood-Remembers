@@ -2,6 +2,8 @@
 *The Quantum Cross of The Quantum Witness Series*
 *Last updated: Session 27, March 15, 2026*
 
+**KDP Subtitle:** *A Novel: A Harvard Archaeologist Reads a 2,000-Year-Old Witness to the Crucifixion—and Must Choose Between Data That Makes Her Career and Testimony That Remakes Her*
+
 ---
 
 ## Series Architecture Constraints (fixed — Snowflake Foundational Decisions, Note 13)
