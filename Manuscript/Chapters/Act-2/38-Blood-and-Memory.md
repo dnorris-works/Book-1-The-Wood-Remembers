@@ -4,23 +4,23 @@
 
 *February 25, 2025 - Sarah's Apartment, Rome - 8:47 PM*
 
-Sarah's laptop screen flickered, then resolved into her mother's kitchen in South Boston. The same kitchen where Sarah had learned to make soda bread, where her father had told stories about the old neighborhood, where three generations of Davidsons had gathered for Sunday dinners that always ran too long and too loud.
+Sarah's laptop screen flickered, then resolved into Babcia's kitchen in South Bend. The same kitchen where Sarah had spent summers as a child, where the Polish parish calendar had hung on the wall for four decades, where three generations had gathered around a table her great-grandfather had built with his own hands.
 
-"There's my girl," Catherine Davidson said, her face too close to the camera. "How do I—no, I can see you now. Can you see me?"
+"There's my Sarenka," Maria said, her face too close to the camera. "How do I—no, I can see you now. Can you see me?"
 
-"I can see you, Mom." Sarah smiled despite the knot in her stomach. She'd been putting off this call for three days.
+"I can see you, Maria." Sarah smiled despite the knot in her stomach. She'd been putting off this call for three days.
 
-"You look thin. Are you eating? Rome has wonderful food, you shouldn't—" Catherine stopped, really looking at her daughter's face. "What's wrong?"
+"You look thin. Are you eating? Rome has wonderful food, you shouldn't—" Maria stopped, really looking at her cousin's face. "What's wrong?"
 
 Sarah had planned this conversation. Rehearsed it, even. She was going to explain calmly about the MEMORIA findings, about Harvard's ultimatum, about choosing authentic scholarship over institutional security. Rational. Professional. Adult.
 
 Instead, she started crying.
 
-"Oh, honey." Catherine's voice softened instantly. "What happened?"
+"Oh, kochanie." Maria's voice softened instantly. "What happened?"
 
-"I left Harvard." The words came out in a rush. "They wanted me to suppress my findings. To call the quantum consciousness data 'preliminary' and shelve it indefinitely. So I walked away. Empty boxes, Mom. Eighteen years in three cardboard boxes."
+"I left Harvard." The words came out in a rush. "They wanted me to suppress my findings. To call the quantum consciousness data 'preliminary' and shelve it indefinitely. So I walked away. Empty boxes, Maria. Eighteen years in three cardboard boxes."
 
-Catherine was quiet for a moment. Behind her, Sarah could see the crucifix on the kitchen wall—the same one that had hung there through her childhood, Nana's rosary draped over one arm.
+Maria was quiet for a moment. Behind her, Sarah could see the crucifix on the kitchen wall—the same one that had hung there through her childhood, her great-grandmother's wooden rosary draped over one arm.
 
 "Did Harvard fire you?"
 
@@ -28,29 +28,29 @@ Catherine was quiet for a moment. Behind her, Sarah could see the crucifix on th
 
 "And you said no."
 
-"I said no." Sarah wiped her eyes with her sleeve. "Because the evidence is real, Mom. Wood fragments from the crucifixion showing quantum coherence patterns that suggest consciousness preservation. I can't pretend that doesn't exist because it makes people uncomfortable."
+"I said no." Sarah wiped her eyes with her sleeve. "Because the evidence is real, Maria. Wood fragments from the crucifixion showing quantum coherence patterns that suggest consciousness preservation. I can't pretend that doesn't exist because it makes people uncomfortable."
 
-Catherine sat back in her chair. The camera angle was wrong now—Sarah could only see her mother's chin and the kitchen ceiling fan.
+Maria sat back in her chair. The camera angle was wrong now—Sarah could only see her cousin's chin and the kitchen ceiling fan.
 
-"Mom?"
+"Maria?"
 
-"Your father would be proud of you." Catherine's voice was thick. "Stubborn Irish girl, just like him. Couldn't let something go if it mattered, even when letting go would've saved him—" She stopped.
+"Uncle Bill would be proud of you." Maria's voice was thick. "Stubborn Davidson, just like him. Couldn't let something go if it mattered, even when letting go would've made everything easier—" She stopped.
 
-"Mom, are you okay?"
+"Maria, are you okay?"
 
-"I need to tell you something." Catherine leaned forward again, her face now properly visible. She looked older than Sarah remembered from Christmas. When had those lines appeared around her eyes? "About your great-grandfather. Your Babcia's father."
+"I need to tell you something." Maria leaned forward again, her face now properly visible. She looked older than Sarah remembered from Christmas two years ago. When had those lines appeared around her eyes? "I've been going through Babcia's boxes. The ones in the spare room. I found letters. About your great-grandfather. Babcia's father."
 
 "Stanisław?" Sarah knew the name. Knew he'd emigrated from Poland after the war. But he'd died when she was three—just a vague memory of crooked hands and kind eyes.
 
-"Stanisław Kowalski." Catherine's maiden name. She'd kept it even after marrying Sarah's father, proud of her Polish heritage. "He came to America in 1953. But we never talked about why he left. Your Babcia would change the subject if anyone asked."
+"Stanisław Kowalski." Babcia's maiden name. The name she had kept in her prayers long after she became a Davidson. "He came to America in 1953. But we never talked about why he left. Babcia would change the subject if anyone asked."
 
-Sarah waited. On the screen, her mother's hands twisted together.
+Sarah waited. On the screen, her cousin's hands twisted together.
 
-"After she died—when we were going through her things—I found letters. Hidden in Polish, which she knew none of us could read. I had them translated." Catherine's voice broke slightly. "Sarah, in 1952, Communist authorities were confiscating consecrated hosts from churches. Desecrating them publicly to break the faithful. Your great-grandfather was a sacristan at his parish. When the soldiers came, he hid the ciborium—the container with consecrated hosts—somewhere in the church."
+"The letters had been hidden in Polish she knew most of us couldn't read. I had them translated." Maria's voice broke slightly. "Sarah, in 1952, Communist authorities were confiscating consecrated hosts from churches. Desecrating them publicly to break the faithful. Your great-grandfather was a sacristan at his parish. When the soldiers came, he hid the ciborium—the container with consecrated hosts—somewhere in the church."
 
 Sarah's chest tightened.
 
-"They interrogated him for three days. Beat him. Broke his fingers with rifle butts, one at a time, trying to make him tell where he'd hidden it." Catherine wiped her eyes. "He never told. He let them destroy his hands—carpenter's hands, Sarah, he'd built half the furniture in that church—rather than reveal where the Eucharist was hidden."
+"They interrogated him for three days. Beat him. Broke his fingers with rifle butts, one at a time, trying to make him tell where he'd hidden it." Maria wiped her eyes. "He never told. He let them destroy his hands—carpenter's hands, Sarah, he'd built half the furniture in that church—rather than reveal where the Eucharist was hidden."
 
 "Oh God."
 
@@ -58,7 +58,7 @@ Sarah's chest tightened.
 
 Sarah couldn't speak. Couldn't breathe.
 
-"Wait," Catherine said, standing. The camera showed empty kitchen for a moment. Then she was back, holding her phone. "I'm sending you something."
+"Wait," Maria said, standing. The camera showed empty kitchen for a moment. Then she was back, holding her phone. "I'm sending you something."
 
 Sarah's laptop pinged. An email. She opened it with shaking hands.
 
@@ -66,7 +66,7 @@ The photograph was black and white, grainy. A man in his forties, thin face, dar
 
 Stanisław Kowalski. Her great-grandfather. Smiling at the camera despite hands that had been broken for the Eucharist.
 
-"He never told where it was hidden," Catherine said softly. "Not his family. Not the parish priest who came with him to America. The secret died with him."
+"He never told where it was hidden," Maria said softly. "Not his family. Not the parish priest who came with him to America. The secret died with him."
 
 Sarah stared at the crooked fingers on her screen. Then at her own hands—unmarked, unscarred, holding evidence of crucifixion wood that her great-grandfather had suffered to protect, even if he'd never known his granddaughter would someday hold similar fragments and face a similar choice.
 
@@ -76,23 +76,23 @@ Small stakes compared to Stanisław's.
 
 But the same pattern. The same choice. Witness or safety. Truth or comfort.
 
-"You left Harvard," Catherine said, and now her voice carried something that might have been pride or grief or both. "You gave up everything you worked for to protect evidence about wood that witnessed Christ's crucifixion. And I'm just now realizing—" She stopped. "Sarah, do you understand what you're doing? You're continuing what your great-grandfather started. What your Nana carried. What's in your blood."
+"You left Harvard," Maria said, and now her voice carried something that might have been pride or grief or both. "You gave up everything you worked for to protect evidence about wood that witnessed Christ's crucifixion. And I'm just now realizing—" She stopped. "Sarah, do you understand what you're doing? You're continuing what your great-grandfather started. What Babcia carried. What's in your blood."
 
 "I didn't know," Sarah whispered. "I didn't know about Stanisław."
 
-"I thought you didn't need to know. Thought it was old country tragedy, past suffering we'd left behind in Poland." Catherine's face filled the screen, eyes red but fierce. "But you needed to know. Because you're facing the same choice. Different circumstances, different costs, but the same question: What matters enough to suffer for?"
+"Babcia decided you didn't need to know. She thought it was old country tragedy, past suffering she'd left behind in Poland." Maria's face filled the screen, eyes red but fierce. "But you needed to know. Because you're facing the same choice. Different circumstances, different costs, but the same question: What matters enough to suffer for?"
 
 Sarah looked at the photograph again. Stanisław's crooked fingers. The gentle smile despite everything.
 
-"Mom, I'm scared. What if I'm wrong? What if MEMORIA is detecting artifacts and I've destroyed my career for nothing? What if—"
+"Maria, I'm scared. What if I'm wrong? What if MEMORIA is detecting artifacts and I've destroyed my career for nothing? What if—"
 
-"Your Babcia used to say something." Catherine's voice steadied. "'Niektóre rzeczy są warte cierpienia.' Some things are worth suffering for. I never understood what she meant. We were in America. Safe. Comfortable. What did we need to suffer for?" She smiled through tears. "I never understood until right now. Until I'm watching my daughter make the same choice my grandfather made."
+"Babcia used to say something." Maria's voice steadied. "'Niektóre rzeczy są warte cierpienia.' Some things are worth suffering for. I never understood what she meant. We were in America. Safe. Comfortable. What did we need to suffer for?" She smiled through tears. "I never understood until right now. Until I'm watching Uncle Bill's daughter make the same choice her great-grandfather made."
 
 "He suffered so much more than—"
 
 "He suffered what his moment required. You're suffering what yours requires. It's not the same cost, kochanie. But it's the same faithfulness."
 
-"I wish Nana had told me," Sarah said. "Wish I'd known Stanisław's story before I walked away from Harvard."
+"I wish Babcia had told me," Sarah said. "Wish I'd known Stanisław's story before I walked away from Harvard."
 
 "Would it have changed your choice?"
 
@@ -100,17 +100,17 @@ Sarah thought about that. Thought about the fragments warming under her hands. T
 
 "No," she admitted. "But it would have helped to know I wasn't the first."
 
-"You're never the first, honey. And you won't be the last." Catherine touched the screen as if she could reach through pixels to comfort her daughter. "Your Babcia knew. That's why she gave you her rosary before she died. She knew it was in you—this stubborn faithfulness. This inability to betray what matters."
+"You're never the first, kochanie. And you won't be the last." Maria touched the screen as if she could reach through pixels to comfort her cousin. "Babcia knew. That's why she gave you her rosary before she died. She knew it was in you—this stubborn faithfulness. This inability to betray what matters."
 
-Sarah touched her own screen, matching her mother's gesture across three thousand miles.
+Sarah touched her own screen, matching her cousin's gesture across three thousand miles.
 
-"I miss you, Mom."
+"I miss you, Maria."
 
-"I miss you too. But I'm proud of you." Catherine smiled. "Terrified for you. But proud. Your father would have been impossible to live with—'That's my Sarah! Showed those Harvard snobs!' He'd have been insufferable."
+"I miss you too. But I'm proud of you." Maria smiled. "Terrified for you. But proud. Uncle Bill would have been impossible to live with—'That's my Sarah! Showed those Harvard snobs!' He'd have been insufferable."
 
 Sarah laughed through tears.
 
-"Some things are worth suffering for," Catherine said again, the Polish accent she'd never quite lost making the words sound like benediction. "Your great-grandfather knew it. Your Babcia knew it. And now you know it too."
+"Some things are worth suffering for," Maria said again, the Polish cadence she'd inherited from Babcia making the words sound like benediction. "Your great-grandfather knew it. Babcia knew it. And now you know it too."
 
 "Yeah," Sarah whispered, looking at Stanisław's broken-fingered photograph one more time. "I guess I do."
 
@@ -124,7 +124,7 @@ The same choice across generations.
 
 The same faithfulness despite different costs.
 
-She touched her own straight fingers to the screen, carrying forward what Stanisław had carried, what Nana had known, what was written in her blood and her calling and the fragments of wood that had survived because ordinary people across twenty centuries had refused to betray what mattered most.
+She touched her own straight fingers to the screen, carrying forward what Stanisław had carried, what Babcia had known, what was written in her blood and her calling and the fragments of wood that had survived because ordinary people across twenty centuries had refused to betray what mattered most.
 
 Some things were worth suffering for.
 
@@ -144,13 +144,13 @@ Right: A daguerreotype Father Kowalski had found that morning—Hermann Vogel's 
 
 Two men. Three centuries apart. Both choosing silence when speech would have saved everything.
 
-"Your mother sent the Stanisław photo last night," Michael said, setting a cup of coffee beside her. "And I found Hermann's story in the Magdeburg diocesan records. Parish priest noted his death in 1659: 'Hermann Vogel, printer, died in poverty having never recovered from injuries sustained protecting sacred materials during Swedish occupation.'"
+"Your cousin Maria sent the Stanisław photo last night," Michael said, setting a cup of coffee beside her. "And I found Hermann's story in the Magdeburg diocesan records. Parish priest noted his death in 1659: 'Hermann Vogel, printer, died in poverty having never recovered from injuries sustained protecting sacred materials during Swedish occupation.'"
 
 Sarah traced her great-grandfather's fingers on the photograph. "Hermann never knew if it was worth it. The priest's account says he died uncertain—faithful, but uncertain. Thirty years wondering if he'd made the right choice."
 
 "Faithfulness doesn't require certainty," Michael said quietly. "Sometimes it requires the opposite."
 
-"My great-grandfather never told anyone where he'd hidden the Eucharist. Not his family. Not the priest. He died with the secret." Sarah's voice caught. "His daughter—my grandmother's mother—grew up poor because he wouldn't speak. And he never knew if it mattered."
+"My great-grandfather never told anyone where he'd hidden the Eucharist. Not his family. Not the priest. He died with the secret." Sarah's voice caught. "His daughter—my Babcia—grew up poor because he wouldn't speak. And he never knew if it mattered."
 
 "But he chose it anyway."
 

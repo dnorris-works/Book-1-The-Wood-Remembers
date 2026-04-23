@@ -32,7 +32,7 @@ She called Cardinal Bertoli's office from the airport two weeks later.
 
 The office looked smaller empty.
 
-Sarah wrapped her Notre Dame coffee mug in newspaper, the ceramic cold in her hands. Her father had given it to her the day she'd defended her dissertation, his Irish-Catholic pride in his daughter who'd "made it to the Ivies" radiating from every word. Three years later, cancer had taken him before he could see her get tenure.
+Sarah wrapped her Notre Dame coffee mug in newspaper, the ceramic cold in her hands. Her father had given it to her the day she'd defended her dissertation, his deacon's pride in his daughter who'd "made it to the Ivies" radiating from every word. He had not lived to see her get tenure.
 
 She'd never get tenure now.
 
@@ -54,7 +54,7 @@ Sarah turned to face her mentor directly. "Or my scientific training is finally 
 
 "You sound like a mystic, not a scholar."
 
-Sarah pulled her father's photo from the desk—him in his Boston Police uniform, her as a gap-toothed seven-year-old on his shoulders. "My father used to say, 'The truth doesn't care if it's convenient, Sarah-girl. It just is.'"
+Sarah pulled her father's photo from the desk—him in shirtsleeves on the steps of St. Stanislaus after a Sunday Mass, her as a gap-toothed seven-year-old on his shoulders. "My father used to say, 'The truth doesn't care if it's convenient, Sarenka. It just is.'"
 
 Ellen sighed. "He also would have wanted you to keep your job."
 
@@ -84,9 +84,9 @@ After the call ended, Sarah stood in the silence of her emptying office. Beyond 
 
 She should feel devastated. Instead, she felt light.
 
-The last item sat in her desk drawer—her grandmother's rosary, crystal beads worn smooth by decades of prayer. Nana had clutched these beads through her husband's death, through her son's cancer, through every crisis that threatened to break her.
+The last item sat in her desk drawer—her grandmother's rosary, the carved beads worn smooth by decades of prayer. Babcia had clutched these beads through her daughter's cancer, through every crisis that threatened to break her, and before all of that through a crossing from Kraków she had not made voluntarily.
 
-"Some things you don't compromise on, mo chroí," Nana had whispered on her deathbed. "Some things matter too much."
+"Some things you don't compromise on, Sarenka," Babcia had whispered on her deathbed. "Some things matter too much."
 
 Sarah wrapped the rosary carefully, the beads catching afternoon light like tears frozen in glass. This went in a separate box, smaller, marked simply "Essential."
 

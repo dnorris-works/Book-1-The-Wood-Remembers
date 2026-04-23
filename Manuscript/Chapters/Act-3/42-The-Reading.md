@@ -228,7 +228,7 @@ The lab equipment hummed around them, settling back into baseline operation. The
 
 Sarah didn't know which.
 
-Her phone buzzed. A text from her mother in Boston: *Can't sleep. Keep thinking about Dad's letter. About choosing faithfulness in darkness. Are you okay, honey?*
+Her phone buzzed. A text from cousin Maria in South Bend: *Can't sleep. Keep thinking about Uncle Bill's letter. About choosing faithfulness in darkness. Are you okay, kochanie?*
 
 Sarah looked at the fragment. At Chen hunched over his laptop, building scientific language for an experience that exceeded scientific categories.
 
