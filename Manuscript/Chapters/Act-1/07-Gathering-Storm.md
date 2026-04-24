@@ -42,7 +42,7 @@ The winter rains came and the hillside emptied somewhat, as it always did in the
 
 Spring would bring the Passover. The city filled beyond its walls during Passover and everyone on the roads felt the pressure of that convergence. But this spring would be different from the ones before it. I could feel the approach of it the way I had felt the approach of the dogs on the night I held the girl — something directional, something that knew exactly where it was going.
 
-I had been standing on this hillside for more than thirty years. My roots went deep into the limestone. The martyrs' blood had hardened my heartwood. The scar where I had held the girl was part of my grain.
+I had been standing on this hillside for more than a hundred years. My roots went deep into the limestone. The martyrs' blood had hardened my heartwood. The scar where I had held the girl was part of my grain.
 
 I had been waiting, though I could not have said for what.
 

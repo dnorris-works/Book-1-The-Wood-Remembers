@@ -14,7 +14,7 @@ What I was reading now was fear. Not the ordinary fear of the road — bandits, 
 
 The name I heard most often I had heard before. It was the same name that had been traveling the road in the months before he came to my hillside. Now it traveled with a different quality — less wonder, more urgency. Less the sound of people reporting something astonishing, more the sound of people trying to work something out before time ran out.
 
-I registered all of this with my full consciousness. I am not a passive receiver. I have been aware for over a hundred and thirty years, and that awareness has always been active — noting, comparing, holding one observation against another across decades. What I noted was this: the situation on the road was moving toward something. The pressure was building the way pressure builds before a storm. I did not know what the storm would be. But I had been conscious long enough to know that when pressure builds this way, something always breaks.
+I registered all of this with my full consciousness. I am not a passive receiver. I have been aware for more than a century, and that awareness has always been active — noting, comparing, holding one observation against another across decades. What I noted was this: the situation on the road was moving toward something. The pressure was building the way pressure builds before a storm. I did not know what the storm would be. But I had been conscious long enough to know that when pressure builds this way, something always breaks.
 
 ## What the Road Told Me
 

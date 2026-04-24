@@ -6,9 +6,9 @@
 
 She had come to Jerusalem anyway.
 
-The limestone cave exhaled morning coolness as Dr. Sarah Davidson knelt in the dust, her trowel striking pottery with that distinctive sound—ceramic against tool, archaeology in motion. Three weeks into the dig, and still every shard felt like a small victory.
+The limestone cave exhaled morning coolness as Dr. Sarah Davidson knelt in the dust, her trowel striking pottery with that distinctive sound—ceramic against tool, archaeology in motion. The first day of real excavation, and already every shard felt like a small victory.
 
-"Another storage jar," she called across the cave to Father Michael Kowalski, who was hunched over his documentation station like a medieval scribe. The Jesuit priest looked up from his pottery sherds, forty years of scholarly precision evident in the way he adjusted his wire-rimmed glasses.
+"Another storage jar," she called across the cave to Father Michael Kowalski, who was hunched over his documentation station like a medieval scribe. The Jesuit priest looked up from his pottery sherds, decades of scholarly precision evident in the way he adjusted his wire-rimmed glasses.
 
 "Byzantine period?" he asked, not looking up from his careful measurements.
 

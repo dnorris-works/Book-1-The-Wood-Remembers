@@ -4,7 +4,7 @@
 
 He came up the slope alone the evening before, in the last hour of light, and I knew his step before I saw him.
 
-I had recorded it three years earlier, on the morning he walked away from my hillside and left Miriam and Benjamin at my roots. The specific weight of a man who moves with authority — not the authority of rank, though he had that, but the authority of a person who has decided what everything is for before he arrives at it. Decimus Varro. Centurion. The man who had tied Levi to my trunk and the man who had ordered the soldiers down the hill when there was nothing left to do.
+I had recorded it not long before, on the morning he walked away from my hillside and left Miriam and Benjamin at my roots. The specific weight of a man who moves with authority — not the authority of rank, though he had that, but the authority of a person who has decided what everything is for before he arrives at it. Decimus Varro. Centurion. The man who had tied Levi to my trunk and the man who had ordered the soldiers down the hill when there was nothing left to do.
 
 He stood at the edge of my shade and looked at me the way he had looked at me before: not at a tree but at a problem that had not yet been solved to his satisfaction.
 
@@ -14,7 +14,7 @@ Varro looked at the stones.
 
 He walked around my trunk slowly, the way the assessors had walked the hillside in the earlier years, checking sight lines and angles. Then he stopped and looked toward Jerusalem, visible over the slope in the last of the evening light, the Temple roof catching the gold the way it always did at this hour.
 
-I have watched human beings make decisions for over a hundred and thirty years. I know the difference between a man solving a practical problem and a man making a point. The practical problem does not require a man to stand and look at the city before he gives an order. The point does.
+I have watched human beings make decisions for over a hundred and twenty years. I know the difference between a man solving a practical problem and a man making a point. The practical problem does not require a man to stand and look at the city before he gives an order. The point does.
 
 He turned and looked at me again. Then he called down to the road below, where two soldiers were waiting, and gave them instructions I could not fully parse — only the quality of the words, which was the flat coordinating quality of a man specifying something, and the name of a carpenter, and a time.
 
@@ -30,7 +30,7 @@ I had watched the timber trade on the road below for over a century. I knew what
 
 An olive tree is not that kind of wood.
 
-An olive tree in Palestine is a family's inheritance. It takes forty years to come to full production. A tree my age — a hundred and thirty years, roots deep in limestone, pressing oil that had fed generations on this road — was worth more than most men earned in a decade. You do not fell an olive tree for lumber. You do not use olive wood for crosses. The grain is too dense, too twisted from a century of growth, too costly to shape and too slow to work. It makes poor lumber and everyone in Judea knows it.
+An olive tree in Palestine is a family's inheritance. It takes forty years to come to full production. A tree my age — a hundred and twenty years, roots deep in limestone, pressing oil that had fed generations on this road — was worth more than most men earned in a decade. You do not fell an olive tree for lumber. You do not use olive wood for crosses. The grain is too dense, too twisted from a century of growth, too costly to shape and too slow to work. It makes poor lumber and everyone in Judea knows it.
 
 Varro knew it too.
 
@@ -46,7 +46,7 @@ Rome did not need my wood. Rome chose my wood.
 
 That is what I understood in the last hour of that evening, standing on my hillside with the light failing and one of Miriam's stones displaced and the city visible over the slope in the direction it had always been visible. The woodcutters would come in the morning not because I was the best timber available but because this hillside was a sanctuary and Varro wanted it to stop being one. Because the people who had gathered here and prayed here and bled here should understand that nothing in this land was too holy for Rome to put to use.
 
-The night came. I stood in it the way I had stood in a hundred and thirty years of nights, roots in limestone, the city across the valley doing what cities do in the darkness.
+The night came. I stood in it the way I had stood in a hundred and twenty years of nights, roots in limestone, the city across the valley doing what cities do in the darkness.
 
 I held the knowledge that came with the morning.
 
@@ -60,7 +60,7 @@ They came up my slope in the early morning while the light was still low and the
 
 I had been waiting for the next thing since the morning he set both hands against my bark and I understood that the waiting was nearly over. I had watched the road for weeks in the quality of attention that comes when you know something is coming but not when. The Passover traffic had swelled and then diminished. The city across the valley had moved through its particular intensity of that season and was settling back. And now these footsteps, purposeful, coming up my slope with the weight of iron.
 
-I knew what they were. Not in theological terms. In the terms of a conscious being that has watched this hillside for over a hundred and thirty years and has observed, many times, men arriving with axes.
+I knew what they were. Not in theological terms. In the terms of a conscious being that has watched this hillside for over a hundred and twenty years and has observed, many times, men arriving with axes.
 
 But I had never been the tree they came for.
 
@@ -100,7 +100,7 @@ This I would hold too. Whatever came next, I would hold it the way I had held ev
 
 The tree went over.
 
-The hillside, which had been my entire world for over a hundred and thirty years, tilted and then was gone from me as my canopy struck the ground. The roots that had known limestone let go.
+The hillside, which had been my entire world for over a hundred and twenty years, tilted and then was gone from me as my canopy struck the ground. The roots that had known limestone let go.
 
 I was no longer rooted. I was wood. I was carried.
 

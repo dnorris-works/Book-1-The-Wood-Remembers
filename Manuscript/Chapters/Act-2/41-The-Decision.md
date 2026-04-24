@@ -92,6 +92,14 @@ Sarah smiled, feeling lighter than she had in months. She was unemployed, profes
 
 The decision was made. The real journey was just beginning.
 
+---
+
+## After the Leak
+
+*Early March, 2025 — Cambridge*
+
+The apartment was a different apartment by then — same walls, same window, but the air in it had changed. Rome had receded into the flight she hadn't yet booked. The *Skeptical Inquiry* piece had run. The security report had been filed. Webb had been in her lab for three years and would not be in her lab again.
+
 Her phone rang.
 
 She looked at the screen. Marcus Webb. She let it ring twice, then answered.

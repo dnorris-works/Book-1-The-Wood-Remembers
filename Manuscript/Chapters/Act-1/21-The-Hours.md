@@ -42,7 +42,7 @@ The heat had built through the hours until the limestone of the hill gave it bac
 
 I felt his weight in my wood. I felt the small shudders that moved through him between breaths. I felt the grain of my crossbeam where his wrists pressed against the iron. These things I could feel as a tree feels — not with understanding, but with the absolute attention of matter to matter, as root feels water, as bark feels cold.
 
-Something was gathering. I had no word for it. I had felt things before without words — the night he came to the garden and set his hand on my bark, the years before that when the hillside was only a hillside and I was only a tree waiting for a purpose I did not know I had. This felt like both of those things and neither.
+Something was gathering. I had no word for it. I had felt things before without words — the morning he came to the hillside and set his hand on my bark, the years before that when the hillside was only a hillside and I was only a tree waiting for a purpose I did not know I had. This felt like both of those things and neither.
 
 ## Before Dark
 

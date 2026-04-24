@@ -42,7 +42,7 @@ I am conscious. I know what recognition is. I had never been on the receiving en
 
 He walked toward me and set his hand against my bark.
 
-What happened then I cannot fully account for, even now, even with two thousand years of holding it. Something entered through the contact point. Not heat, though heat was part of it. Not pressure, though pressure was part of it. Something that had no prior equivalent — not in the storms that had tested my roots, not in the martyr-blood that had entered my heartwood years before, not in anything my consciousness had ever received in a century of receiving.
+What happened then I cannot fully account for, even now, even with two thousand years of holding it. Something entered through the contact point. Not heat, though heat was part of it. Not pressure, though pressure was part of it. Something that had no prior equivalent — not in the storms that had tested my roots, not in the night I had bent my branch to hold a child above the dogs, not in anything my consciousness had ever received in a century of receiving.
 
 The nearest I can come to it: my heartwood, which was the oldest and densest part of me, became more itself. Not larger. Not harder in the ordinary sense. More present. As if something that had been potential in the grain was suddenly actual.
 

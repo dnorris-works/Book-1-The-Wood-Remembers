@@ -36,7 +36,7 @@ She grabbed her grandmother's rosary from her desk drawer—a habit that had ret
 
 The Archaeology Department occupied the third floor of the Peabody Museum, its corridors lined with artifacts that had built careers and destroyed theories in equal measure. Sarah had walked these halls for six years, but today they felt like a gauntlet.
 
-Patterson's office door stood open like a judge's chamber. Five senior faculty members sat around his conference table in what could only be described as a tribunal formation. Dr. Williams from Comparative Religion, his face set in academic disapproval. Professor Martinez from Ancient Studies, her usual warmth replaced by scholarly concern. Dr. Chen from the Science Department—the one person who might understand quantum archaeology. And Dr. Elizabeth Harper, the department head whose signature could either approve or deny Sarah's tenure application in eight months.
+Patterson's office door stood open like a judge's chamber. Five senior faculty members sat around his conference table in what could only be described as a tribunal formation. Dr. Williams from Comparative Religion, his face set in academic disapproval. Professor Martinez from Ancient Studies, her usual warmth replaced by scholarly concern. Dr. Park from the Science Department—the one person who might understand quantum archaeology. And Dr. Elizabeth Harper, the department head whose signature could either approve or deny Sarah's tenure application in eight months.
 
 "Sit down, Sarah." Patterson didn't look up from the papers spread across his desk like evidence exhibits. "We've received some... interesting reports about your work in Jerusalem."
 
@@ -54,7 +54,7 @@ Dr. Williams actually laughed. "Sarah, do you hear yourself? You're citing the V
 
 "The methodology is verifiable," Sarah said, hating how defensive she sounded. "The MEMORIA protocol was designed to detect historical information patterns in organic matter—ancient climate data, chemical exposure, and environmental conditions. It's the first successful application of quantum coherence detection to archaeological materials. What we found in these fragments was... unexpected."
 
-"Unexpected how?" Dr. Chen asked, leaning forward with genuine scientific curiosity.
+"Unexpected how?" Dr. Park asked, leaning forward with genuine scientific curiosity.
 
 "The quantum signatures suggest something beyond environmental data." Sarah hesitated. "The patterns resemble information structures consistent with experiential memory rather than passive environmental recording. I'm not claiming consciousness preservation—I'm saying the data shows anomalies that warrant investigation rather than dismissal."
 
@@ -64,19 +64,19 @@ Sarah's hands clenched in her lap. "My personal background doesn't invalidate em
 
 "It does when those findings violate basic scientific principles," Patterson said, finally looking up. "Consciousness preserved in wood for two thousand years? Molecular patterns encoding memories? Sarah, this sounds like something from a Dan Brown novel, not peer-reviewed archaeology."
 
-Dr. Chen cleared his throat. "I've reviewed your published papers on the MEMORIA protocol. The quantum detection methodology for environmental history extraction is sound. But Sarah, we need to talk about the theoretical problems with your consciousness interpretation."
+Dr. Park cleared his throat. "I've reviewed your published papers on the MEMORIA protocol. The quantum detection methodology for environmental history extraction is sound. But Sarah, we need to talk about the theoretical problems with your consciousness interpretation."
 
 Something had shifted. The room wasn't with her — she knew that — but the temperature had changed. Patterson had stopped pressing. Dr. Harper was writing in her legal pad rather than watching Sarah's face with that measured, prosecutorial focus. Even Dr. Williams, who had laughed twenty minutes ago, was looking at the table with an expression that had lost some of its certainty.
 
-*Sound methodology.* That was what Chen had said. In front of all of them.
+*Sound methodology.* That was what Park had said. In front of all of them.
 
-Sarah breathed through it carefully, the way she'd learned to breathe through difficult conference questions — slowly, from the bottom of the lungs, the kind of breath that doesn't show. Chen was still going to press on the consciousness interpretation. They all were. But the methodology was sound, and that was ground she could stand on. If she could hold the line there, she might get out of this room with something still intact.
+Sarah breathed through it carefully, the way she'd learned to breathe through difficult conference questions — slowly, from the bottom of the lungs, the kind of breath that doesn't show. Park was still going to press on the consciousness interpretation. They all were. But the methodology was sound, and that was ground she could stand on. If she could hold the line there, she might get out of this room with something still intact.
 
 She let herself think it: *survivable*. For the first time since she'd walked through that door, she let herself believe that was still the right word.
 
 ## The Ultimatum
 
-"I've run the decoherence calculations." Chen pulled up equations on his tablet. "Even with optimal conditions — near-zero temperature, completely isolated system — quantum coherence in complex organic molecules decays in microseconds. You're claiming preservation for two thousand years. That's sixty-three billion seconds. The theoretical objections aren't just significant, Sarah — they're devastating."
+"I've run the decoherence calculations." Park pulled up equations on his tablet. "Even with optimal conditions — near-zero temperature, completely isolated system — quantum coherence in complex organic molecules decays in microseconds. You're claiming preservation for two thousand years. That's sixty-three billion seconds. The theoretical objections aren't just significant, Sarah — they're devastating."
 
 Sarah felt her stomach drop. "So you think I'm wrong?"
 

@@ -56,7 +56,7 @@ What followed I will not describe in sequence. I heard what I heard and felt wha
 
 The sounds that came from the hill that morning: voices giving names, voices refusing, iron on wood, and the different sounds that followed. Then the blood came into my roots.
 
-I had taken in rain and dissolved minerals for thirty years and I knew what the earth gave. Blood is different. The iron in it is familiar but the other things in it are not — the salt, the compound warmth, the way it moves through soil with a directional quality even after the body it came from has gone still. Eight times that morning. I felt each one arrive and move upward through my grain, spreading into the chambers where my oldest wood lived.
+I had taken in rain and dissolved minerals for over a hundred years and I knew what the earth gave. Blood is different. The iron in it is familiar but the other things in it are not — the salt, the compound warmth, the way it moves through soil with a directional quality even after the body it came from has gone still. Eight times that morning. I felt each one arrive and move upward through my grain, spreading into the chambers where my oldest wood lived.
 
 The soldiers left. The hill went quiet.
 

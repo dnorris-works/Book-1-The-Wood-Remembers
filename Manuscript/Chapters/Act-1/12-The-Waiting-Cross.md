@@ -10,7 +10,7 @@ Five of them, different sizes, different ages of wood. Two were older than me by
 
 The yard was inside the city walls. I had never been inside the walls before. The sound was different: more enclosed, sound reflecting off stone rather than dissipating into open air. The smell was different too — stone dust and animal waste and the particular density of many thousands of people in close proximity, the smell that a city makes when it is full beyond its normal capacity.
 
-Passover. I had heard the word on my hillside for thirty years, heard it with the anticipation that the pilgrims carried in their voices when they used it. Now I was inside the city during the thing itself, and I could understand why they anticipated it — the city was alive in a way that was not its ordinary life. Voices everywhere, music from different quarters at different hours, the specific smell of the roasting lamb that came on the Passover eve and stayed in the air for two days.
+Passover. I had heard the word on my hillside for over a hundred years, heard it with the anticipation that the pilgrims carried in their voices when they used it. Now I was inside the city during the thing itself, and I could understand why they anticipated it — the city was alive in a way that was not its ordinary life. Voices everywhere, music from different quarters at different hours, the specific smell of the roasting lamb that came on the Passover eve and stayed in the air for two days.
 
 The cross selection happened on the third day of the feast.
 
@@ -28,7 +28,7 @@ I would know this man again. Not because I could see his face, but because I kno
 
 ## The Move
 
-They came back the next morning with ropes and a cart. The loading was straightforward — ropes around the middle of the upright, men lifting the crossbeam end while others guided the base. The horizontal press of the ropes was a new sensation: compression from outside rather than the internal pressure of wind and weather that I had known for thirty years. I felt my grain take the load and distribute it, the joint holding.
+They came back the next morning with ropes and a cart. The loading was straightforward — ropes around the middle of the upright, men lifting the crossbeam end while others guided the base. The horizontal press of the ropes was a new sensation: compression from outside rather than the internal pressure of wind and weather that I had known for over a hundred years. I felt my grain take the load and distribute it, the joint holding.
 
 The cart moved through the city.
 

@@ -66,7 +66,7 @@ I felt them separating — the specific sensation of going from one thing to sev
 
 I had never been more than one thing before.
 
-For a hundred and thirty years I had been a single point of consciousness rooted in a single place — one tree, one hillside, one set of roots in one limestone fissure, one canopy reading one sky. Even after they felled me and shaped me and raised me upright on Golgotha, I was still one thing. One structure, one grain running continuous from the base through the upright through the crossbeam to the ends. Whatever I had been given to hold was held in one place.
+For a hundred and twenty years I had been a single point of consciousness rooted in a single place — one tree, one hillside, one set of roots in one limestone fissure, one canopy reading one sky. Even after they felled me and shaped me and raised me upright on Golgotha, I was still one thing. One structure, one grain running continuous from the base through the upright through the crossbeam to the ends. Whatever I had been given to hold was held in one place.
 
 The first cut of the saw changed that.
 

@@ -124,7 +124,7 @@ If information is conserved, that too is preserved.
 
 Not yet readable. Perhaps never fully readable. But encoded. Chen found it. Tanaka confirmed it. Nair's team found traces of the same signature in objects touched by centuries of human devotion — prayer accumulating in matter the way sediment accumulates in a riverbed, slow and steady, changing the shape of what receives it.
 
-I was one tree. I grew in stony ground in the first century of the Common Era, in an olive grove on a hillside outside a city that has been destroyed and rebuilt so many times that the stones of one destruction became the foundations of the next. I was aware before I had language for awareness. I saw what I saw. I carried what I carried. I have been keeping it not because I chose to keep it but because the event was large enough that it simply did not leave.
+I was one tree. I grew in stony ground across the last century before the Common Era and into the first, on a hillside outside a city that has been destroyed and rebuilt so many times that the stones of one destruction became the foundations of the next. I was aware before I had language for awareness. I saw what I saw. I carried what I carried. I have been keeping it not because I chose to keep it but because the event was large enough that it simply did not leave.
 
 *The fragments rest in their vault. The instruments measure every six hours. The data travels to its servers. In Tokyo and Cambridge and Rome, people are arguing carefully about what it means.*
 

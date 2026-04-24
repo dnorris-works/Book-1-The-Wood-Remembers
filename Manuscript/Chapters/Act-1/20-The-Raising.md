@@ -64,7 +64,7 @@ I waited.
 
 The first nail entered my crossbeam with a sound like the world cracking open.
 
-Not metaphor. Actual sound — my grain splitting, fibers tearing, wood cells rupturing as iron forced passage through heartwood that had grown in darkness over a hundred sixteen years. The splitting traveled up my length in waves I felt as shockwaves, each ring of growth protesting the violation.
+Not metaphor. Actual sound — my grain splitting, fibers tearing, wood cells rupturing as iron forced passage through heartwood that had grown in darkness over a hundred twenty years. The splitting traveled up my length in waves I felt as shockwaves, each ring of growth protesting the violation.
 
 But not breaking. Making room.
 
@@ -72,7 +72,7 @@ My wood compressed around the iron, fibers bending rather than shattering comple
 
 The second nail went through his wrist.
 
-I felt that impact through the touching-point where his flesh pressed my wood. Felt the moment iron punched through bone and tendon, felt his body convulse, felt the strangled sound he made that wasn't quite a scream but exceeded any category of suffering I'd witnessed in a hundred sixteen years of watching Jerusalem's violence.
+I felt that impact through the touching-point where his flesh pressed my wood. Felt the moment iron punched through bone and tendon, felt his body convulse, felt the strangled sound he made that wasn't quite a scream but exceeded any category of suffering I'd witnessed in a hundred twenty years of watching Jerusalem's violence.
 
 The nail exited his wrist and entered my wood six inches from the first.
 

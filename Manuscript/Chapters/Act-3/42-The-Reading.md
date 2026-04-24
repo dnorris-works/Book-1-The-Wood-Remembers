@@ -122,7 +122,7 @@ On the quantum correlation display, the coherence wasn't random. It wasn't an in
 
 This looked like encoding. Like information. Like something trying to speak through quantum states that refused to decohere despite every physical law demanding their collapse.
 
-"The correlation window is three meters," Chen breathed. "Sarah, molecules separated by three meters of wood are maintaining quantum correlation. That's beyond anything anyone has ever achieved."
+"The correlation window is three centimeters," Chen breathed. "Sarah, molecules separated by three centimeters of wood are maintaining quantum correlation. That's beyond anything anyone has ever achieved."
 
 "How long?" she asked, her voice shaking.
 

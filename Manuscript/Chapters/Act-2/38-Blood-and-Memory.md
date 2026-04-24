@@ -40,7 +40,7 @@ Maria sat back in her chair. The camera angle was wrong now—Sarah could only s
 
 "I need to tell you something." Maria leaned forward again, her face now properly visible. She looked older than Sarah remembered from Christmas two years ago. When had those lines appeared around her eyes? "I've been going through Babcia's boxes. The ones in the spare room. I found letters. About your great-grandfather. Babcia's father."
 
-"Stanisław?" Sarah knew the name. Knew he'd emigrated from Poland after the war. But he'd died when she was three—just a vague memory of crooked hands and kind eyes.
+"Stanisław?" Sarah knew the name. Knew he'd emigrated from Poland after the war. But he'd died decades before she was born—just a face in a framed photograph on Babcia's sideboard, crooked hands and kind eyes.
 
 "Stanisław Kowalski." Babcia's maiden name. The name she had kept in her prayers long after she became a Davidson. "He came to America in 1953. But we never talked about why he left. Babcia would change the subject if anyone asked."
 

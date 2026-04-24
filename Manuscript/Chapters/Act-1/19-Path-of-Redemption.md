@@ -42,11 +42,11 @@ The sun was warm on my upper surface. The stone was cold against my back. He was
 
 I thought about the hillside. About the first winter, when I was newly rooted and the cold came and I did not know yet whether I would survive it. About the year the drought nearly took me. About the night the lightning split the tree thirty feet to my left and I felt the charge through the soil for weeks afterward. About Miriam, the weight of a child who trusted a tree the way children trust things they cannot explain.
 
-About the man in the garden, years before this, whose hand on my bark I had felt as something I could not account for. About the quality of that contact and how it had changed something in me that I have never found the word for.
+About the man on the hillside, years before this, whose hand on my bark I had felt as something I could not account for. About the quality of that contact and how it had changed something in me that I have never found the word for.
 
 He was that man.
 
-I had known it since the courtyard. I know it now. The two moments — the garden, the hill — are the same moment in the way that only very large things can contain their own beginning and ending simultaneously.
+I had known it since the courtyard. I know it now. The two moments — the hillside, the hill — are the same moment in the way that only very large things can contain their own beginning and ending simultaneously.
 
 The ropes were being knotted above me. I could hear the soldiers moving into position, the shouted coordination beginning.
 
