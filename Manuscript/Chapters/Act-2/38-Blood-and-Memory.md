@@ -144,7 +144,7 @@ Right: A daguerreotype Father Kowalski had found that morning—Hermann Vogel's 
 
 Two men. Three centuries apart. Both choosing silence when speech would have saved everything.
 
-"Your cousin Maria sent the Stanisław photo last night," Michael said, setting a cup of coffee beside her. "And I found Hermann's story in the Magdeburg diocesan records. Parish priest noted his death in 1659: 'Hermann Vogel, printer, died in poverty having never recovered from injuries sustained protecting sacred materials during Swedish occupation.'"
+"Your cousin Maria sent the Stanisław photo last night," Michael said, setting a cup of coffee beside her. "And I found Hermann's story in the Magdeburg diocesan records. Parish priest noted his death in 1659: 'Hermann Vogel, printer, died in poverty having never recovered from injuries sustained protecting sacred materials during the religious enforcement of the war years.'"
 
 Sarah traced her great-grandfather's fingers on the photograph. "Hermann never knew if it was worth it. The priest's account says he died uncertain—faithful, but uncertain. Thirty years wondering if he'd made the right choice."
 
@@ -190,7 +190,7 @@ Sarah turned from the window. "That's what I'm facing, isn't it? Not heroic choi
 
 "Why?" Michael asked, though his smile suggested he already knew.
 
-"Because Hermann couldn't tell the Swedish soldiers. Because Stanisław couldn't tell the Communist interrogators. Because Prisca and Matthias and all the others chose witness over safety, and now I'm holding what they preserved." Sarah returned to the table, placed her hand over both photographs. "I'm not braver than they were. I'm not more certain. But I've touched what they protected, and now I can't pretend I don't know. Can't suppress evidence because it's professionally inconvenient."
+"Because Hermann couldn't tell the soldiers. Because Stanisław couldn't tell the Communist interrogators. Because Prisca and Matthias and all the others chose witness over safety, and now I'm holding what they preserved." Sarah returned to the table, placed her hand over both photographs. "I'm not braver than they were. I'm not more certain. But I've touched what they protected, and now I can't pretend I don't know. Can't suppress evidence because it's professionally inconvenient."
 
 "The chain continues."
 
@@ -204,7 +204,7 @@ Tomorrow she would finalize the paper.
 
 Sarah set down the diocesan record documenting Hermann Vogel's death. Her hands were shaking.
 
-She looked at them—unmarked, unscarred, capable of holding books and typing grant applications and doing all the ordinary work that Hermann's ruined fingers could never do again after that day Swedish soldiers broke them one by one.
+She looked at them—unmarked, unscarred, capable of holding books and typing grant applications and doing all the ordinary work that Hermann's ruined fingers could never do again after that day the soldiers broke them one by one.
 
 Then she looked at the fragment resting on the archive table, safely enclosed in its preservation case.
 
