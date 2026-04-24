@@ -2,7 +2,7 @@
 
 ## The Children
 
-They came first when I was perhaps ten years old — three children from a village below the hill, drawn up the slope by nothing more than the curiosity of children and the particular quality of my hillside that had begun to draw people's eyes.
+They came first when I was perhaps eighty years old — three children from a village below the hill, drawn up the slope by nothing more than the curiosity of children and the particular quality of my hillside that had begun to draw people's eyes.
 
 The girl was the one who saw me first. Her name was Miriam. She walked all the way around my trunk with her hands extended, just barely not touching, the way children test a thing they want to make contact with but haven't decided about yet. Then she put both palms flat against my bark and stood still for a long moment.
 
