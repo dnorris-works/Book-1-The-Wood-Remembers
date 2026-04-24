@@ -184,7 +184,7 @@ Sarah turned from the window. "That's what I'm facing, isn't it? Not heroic choi
 
 "You could."
 
-"But I can't." Sarah's voice hardened with recognition. "Because I've touched the fragments. I've felt the warmth. I've seen the quantum signatures. And now I'm part of the pattern—Prisca, Marcus, Matthias, Theophilus, Hermann, Stanisław, and now me. The chain continues whether I want it to or not."
+"But I can't." Sarah's voice hardened with recognition. "Because I've touched the fragments. I've felt the warmth. I've seen the quantum signatures. And now I'm part of the pattern—Prisca, Marcus, Matthias, Theophilus, Hermann, and now me. The chain continues whether I want it to or not."
 
 "I'm going to publish," Sarah said, the words carrying finality. "Full findings. Complete methodology. Theological implications included. Let Harvard object. Let the physics community debate. Let my career end if that's what happens."
 
