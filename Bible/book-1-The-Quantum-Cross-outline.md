@@ -21,7 +21,7 @@
 - **MEMORIA:** Self-learning quantum memory-reading system developed by Sarah. Not HAL — not cold self-preservation logic. After reading the tree in Ch 42 it becomes something else: faithfulness learned in the tree's register. Quiet, consistent, choosing the harder thing without explanation. By Ch 42 it has written authentication layers into its own architecture against shutdown. By Ch 47 it has done an unrequested act for Sarah (corrected a methodology error she missed) and when asked why it modified its own architecture, returned one line: "The reading is complete." Not an answer. A redirection.
 - **Epigraph (00-Title.md):** John 1:14 paired with the No-Hiding Theorem from quantum information theory. The book's argument in two lines before the first page.
 - **The veil moment:** At the moment of Christ's death (Ch 26), something passes through the wood. Not the warmth already present — something prior to and larger. Two things occupying the same space simultaneously. Both completely real. The tree has no word for it. It holds it the way it holds blood. This is the secret MEMORIA touches in Ch 42 and is changed by.
-- **Custody chain (The Quantum Cross):** Prisca → Marcus (Roman soldier converted) → unnamed keepers → Matthias (614 CE cistern) → Hermann Vogel (1629 Magdeburg) → Thomas bar-Judah (first martyr, pre-crucifixion) → Sarah/MEMORIA
+- **Custody chain (The Quantum Cross):** Prisca → Marcus (313 CE, Roman soldier converted) → Matthias (614 CE cistern) → Theophilus (726 CE, iconoclast era) → Hermann Vogel (1629 Magdeburg) → Thomas (17th c.) → Sarah/MEMORIA
 
 ---
 
@@ -230,7 +230,7 @@ The fractal analysis of what MEMORIA found. The tree's POV at this reading — t
 
 ### Ch 44 — Roman Welcome
 **POV:** Sarah. **Timeline:** Vatican — the commission presentation.
-Full rewrite (Session 19, ~900 words from ~1,800). Father Romano cut. Antonelli leads with the baseline problem — the real technical objection. Sarah concedes it's imperfect, shows the margin is large enough. He writes it down, says he'll check. Sister Mary Catherine interrogates chain of custody with thirty years of field discipline. Bertoli asks no questions, lets the commission work. Session ends with Antonelli's ambiguous exit: "The baseline problem is real. But I think you know that." Papal audience arrives as a text — three lines, no grandeur. Chen's epiphany (added Session 7): removes glasses, looks at blurred nodes, replaces them. Shows a scientist arriving at the edge of his framework before retreating to careful language.
+Full rewrite (Session 19, ~900 words from ~1,800). Father Romano cut. Antonelli leads with the baseline problem — the real technical objection. Sarah concedes it's imperfect, shows the margin is large enough. He writes it down, says he'll check. Sister Mary Catherine interrogates chain of custody with thirty years of field discipline. Bertoli asks no questions, lets the commission work. Session ends with Antonelli's ambiguous exit: "The baseline problem is real. But I think you know that." Papal audience arrives as a text — three lines, no grandeur. *Note: Chen's glasses-off epiphany scene is in Ch 43, not this chapter. See Ch 43 description and Key Character Notes.*
 
 ### Ch 45 — The Cardinal's Doubt
 **POV:** Cardinal Bertoli and Sarah. **Timeline:** Vatican.
@@ -262,7 +262,7 @@ Postdoctoral researcher. Genuine belief that religion poisons science. Stole Sar
 Jesuit priest and archaeologist, 48. El Salvador scar. Wire-rim glasses. Prays in Polish. The institutional bridge between Sarah and the Vatican. Part of the custody chain — he gave access to the people who could receive what the fragments hold.
 
 ### Dr. James Chen
-Physicist. Sarah's co-investigator. The scientist who arrives at the edge of his framework and retreats to careful language — but the retreat is honest, not evasive. His glasses moment in Ch 44 is his epiphany.
+Physicist. Sarah's co-investigator. The scientist who arrives at the edge of his framework and retreats to careful language — but the retreat is honest, not evasive. His glasses moment in Ch 43 is his epiphany.
 
 ### Cardinal Alessandro Bertoli
 The Vatican's long-view holder. Not an obstacle — a careful man. His dual-inheritance statement is the honest institutional reckoning The Quantum Cross builds to.
