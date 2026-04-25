@@ -16,7 +16,7 @@ Father Kowalski waited, recognizing the space between words where grief lived.
 
 "Mom got pancreatic cancer when I was finishing my doctoral coursework," Sarah continued. "Dad held it together through the chemo, the surgeries, all of it. But near the end..."
 
-The specific memory she carried of him was from a Sunday afternoon when she was nine. He had been refinishing the kitchen table — the old one, the one her grandmother had brought over from Poland — and he had let her help sand the edges. He guided her hand the whole time, his palm over her palm, showing her how to go with the grain. When they were done he held her up so she could see the whole surface in the slant of the window light. "See how it comes back?" he said. "It was always this good. It just needed someone to look for it."
+The specific memory she carried of him was from a Sunday afternoon when she was nine. He had been refinishing the kitchen table — the old one, the one her grandmother had brought over from Poland — and he had let her help sand the edges. He guided her hand the whole time, his palm over her palm, showing her how to go with the grain. When they were done, he held her up so she could see the whole surface in the slant of the window light. "See how it comes back?" he said. "It was always this good. It just needed someone to look for it."
 
 She could still see him standing in the ICU hallway after the oncologist had delivered the final verdict. Dad in his clerical collar, his hands shaking.
 
@@ -124,7 +124,7 @@ Father Kowalski waited. There was more weight in the silence than she'd accounte
 
 She picked up her water bottle. Set it back down without drinking.
 
-"He entered seminary. It didn't take." She looked at the olive wood cross in Kowalski's hand rather than at his face. "Daniel Reeves. He writes about faith and science now. Articles, a column somewhere. I haven't read his work."
+"He entered seminary." She looked at the olive wood cross in Kowalski's hand rather than at his face. "Daniel Reeves." A pause that had nothing comfortable in it. "I haven't heard from him since."
 
 She said it the way she'd name a city she'd once lived in and left. The way you named something when the naming was the only part you could manage. Father Kowalski, with the restraint of a confessor, did not press it.
 
