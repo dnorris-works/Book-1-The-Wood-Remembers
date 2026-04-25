@@ -120,13 +120,13 @@ Sarah was quiet for a long moment. "I don't know what I am anymore."
 
 Father Kowalski waited. There was more weight in the silence than she'd accounted for.
 
-"There was someone," Sarah said, before she'd decided to say it. "Before Harvard. He was studying for the priesthood." She kept her voice even. "We thought we could manage it. We couldn't."
+"There was someone," Sarah said, before she'd decided to say it. "Before Harvard. Before any of this." She kept her voice even, the way she kept her voice even when she was reading data she didn't yet know what to do with. "We were close. He was Catholic — serious about it, the whole life. And then he decided the Church was calling him and that I wasn't."
 
-"What happened to him?"
+She picked up her water bottle. Set it back down without drinking.
 
-"He entered seminary." She looked at the olive wood cross in Kowalski's hand rather than at his face. "She picked up her water bottle, set it back down. Daniel Reeves. He didn't finish. He writes about faith and science now, apparently. Articles, a column somewhere. I haven't read his work."
+"He entered seminary. It didn't take." She looked at the olive wood cross in Kowalski's hand rather than at his face. "Daniel Reeves. He writes about faith and science now. Articles, a column somewhere. I haven't read his work."
 
-She said it the way she'd name a city she'd once lived in and left. Father Kowalski, with the restraint of a confessor, did not press it.
+She said it the way she'd name a city she'd once lived in and left. The way you named something when the naming was the only part you could manage. Father Kowalski, with the restraint of a confessor, did not press it.
 
 As afternoon shadows lengthened across the cave floor, Sarah felt her grandmother's influence more strongly than she had in years. *Babcia* had understood something about material objects carrying spiritual significance—not because of magic, but because of love.
 
