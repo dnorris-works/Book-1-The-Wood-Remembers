@@ -1,4 +1,4 @@
-# Chapter 19: Path of Redemption
+# Path of Redemption
 
 ## The Ground
 

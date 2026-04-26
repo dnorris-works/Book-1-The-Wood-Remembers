@@ -1,4 +1,4 @@
-# Chapter 26: Consummatum Est
+# Consummatum Est
 
 ## The Heartwood
 

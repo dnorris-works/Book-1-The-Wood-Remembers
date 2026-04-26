@@ -1,4 +1,4 @@
-# Chapter 25: The Lance
+# The Lance
 
 ## Verification
 

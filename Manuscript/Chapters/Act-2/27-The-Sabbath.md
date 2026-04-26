@@ -1,4 +1,4 @@
-# Chapter 27: The Sabbath
+# The Sabbath
 
 ## Night
 

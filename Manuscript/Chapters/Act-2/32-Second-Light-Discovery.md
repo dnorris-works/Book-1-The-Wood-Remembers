@@ -1,4 +1,4 @@
-# Chapter 32: Second Light (Discovery)
+# Second Light (Discovery)
 
 ## The Initial Find
 

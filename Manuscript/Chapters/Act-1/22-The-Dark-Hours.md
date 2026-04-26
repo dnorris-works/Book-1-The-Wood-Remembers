@@ -1,4 +1,4 @@
-# Chapter 22: The Dark Hours
+# The Dark Hours
 
 ## What the Darkness Did
 

@@ -1,4 +1,4 @@
-# Chapter 21: The Hours
+# The Hours
 
 ## The Weight of Breathing
 

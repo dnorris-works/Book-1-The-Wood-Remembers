@@ -1,4 +1,4 @@
-# Chapter 13: Sacred Waiting
+# Sacred Waiting
 
 ## The Arsenal
 

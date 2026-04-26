@@ -1,4 +1,4 @@
-# Chapter 42: The Reading
+# The Reading
 
 ## Failed Twice Before
 

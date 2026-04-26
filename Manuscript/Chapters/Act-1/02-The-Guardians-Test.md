@@ -1,4 +1,4 @@
-# Chapter 2: The Guardian's Test
+# The Guardian's Test
 
 ## The Children
 

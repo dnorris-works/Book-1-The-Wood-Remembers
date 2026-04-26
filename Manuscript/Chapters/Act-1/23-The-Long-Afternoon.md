@@ -1,4 +1,4 @@
-# Chapter 23: The Long Afternoon
+# The Long Afternoon
 
 ## After the Dark
 

@@ -1,4 +1,4 @@
-# Chapter 24: The Last Words
+# The Last Words
 
 ## I Thirst
 

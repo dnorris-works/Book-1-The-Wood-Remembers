@@ -1,4 +1,4 @@
-# Chapter 8: Forces Converging
+# Forces Converging
 
 ## The Roman Presence
 

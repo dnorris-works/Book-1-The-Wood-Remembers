@@ -1,4 +1,4 @@
-# Chapter 45: The Cardinal's Doubt
+# The Cardinal's Doubt
 
 ## Two A.M. in the Chapel
 

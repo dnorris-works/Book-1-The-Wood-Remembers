@@ -1,4 +1,4 @@
-# Chapter 28: Sacred Preservation
+# Sacred Preservation
 
 ## The Third Morning
 

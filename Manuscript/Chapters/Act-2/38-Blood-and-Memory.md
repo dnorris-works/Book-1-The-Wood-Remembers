@@ -1,4 +1,4 @@
-# Chapter 38: Blood and Memory
+# Blood and Memory
 
 ## The Family Secret (Feb 25, 2025)
 

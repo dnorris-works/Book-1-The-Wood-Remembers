@@ -1,4 +1,4 @@
-# Chapter 40: Vatican Debates
+# Vatican Debates
 
 ## The Argument
 

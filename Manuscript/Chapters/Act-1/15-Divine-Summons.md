@@ -1,4 +1,4 @@
-# Chapter 15: Divine Summons
+# Divine Summons
 
 ## The Courtyard
 

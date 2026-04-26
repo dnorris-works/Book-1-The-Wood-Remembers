@@ -1,4 +1,4 @@
-# Chapter 16: Sacred Assembly
+# Sacred Assembly
 
 ## The Weight
 

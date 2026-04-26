@@ -1,4 +1,4 @@
-# Chapter 20: The Raising
+# The Raising
 
 ## The Raising
 

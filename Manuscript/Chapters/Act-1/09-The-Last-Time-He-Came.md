@@ -1,4 +1,4 @@
-# Chapter 9: The Last Time He Came
+# The Last Time He Came
 
 ## Before Dawn
 

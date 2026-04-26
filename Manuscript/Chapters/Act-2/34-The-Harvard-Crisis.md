@@ -1,4 +1,4 @@
-# Chapter 34: The Harvard Crisis
+# The Harvard Crisis
 
 ## The Committee Meeting
 

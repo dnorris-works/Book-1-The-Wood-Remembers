@@ -1,4 +1,4 @@
-# Chapter 36: Modern Silence
+# Modern Silence
 
 ## The Equation of Love
 

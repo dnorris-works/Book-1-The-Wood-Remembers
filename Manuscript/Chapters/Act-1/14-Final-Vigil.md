@@ -1,4 +1,4 @@
-# Chapter 14: Final Vigil
+# Final Vigil
 
 ## The Long Night
 

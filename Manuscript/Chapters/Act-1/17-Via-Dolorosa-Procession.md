@@ -1,4 +1,4 @@
-# Chapter 17: Via Dolorosa - Procession
+# Via Dolorosa - Procession
 
 ## The Street
 

@@ -1,4 +1,4 @@
-# Chapter 39: The Leak
+# The Leak
 
 ## Five Days Later — Cambridge
 

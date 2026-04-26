@@ -1,4 +1,4 @@
-# Chapter 31: The Last Box
+# The Last Box
 
 ## The Letter That Was Already Written
 

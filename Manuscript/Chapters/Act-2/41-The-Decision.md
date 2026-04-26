@@ -1,4 +1,4 @@
-# Chapter 41: The Decision
+# The Decision
 
 ## Personal Conviction
 

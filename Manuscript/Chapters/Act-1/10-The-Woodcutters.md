@@ -1,4 +1,4 @@
-# Chapter 10: The Woodcutters
+# The Woodcutters
 
 ## The Order
 

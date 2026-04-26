@@ -1,4 +1,4 @@
-# Chapter 5: The Pressure Builds
+# The Pressure Builds
 
 ## Three Years
 

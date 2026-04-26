@@ -1,4 +1,4 @@
-# Chapter 30: Empire's End
+# Empire's End
 
 ## The Breaking
 

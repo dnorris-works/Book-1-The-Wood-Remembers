@@ -1,4 +1,4 @@
-# Chapter 18: Via Dolorosa - Final Ascent
+# Via Dolorosa - Final Ascent
 
 ## The Gate
 

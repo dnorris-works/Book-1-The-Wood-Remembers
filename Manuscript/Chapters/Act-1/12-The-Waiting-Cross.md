@@ -1,4 +1,4 @@
-# Chapter 12: The Waiting Cross
+# The Waiting Cross
 
 ## The Yard
 
