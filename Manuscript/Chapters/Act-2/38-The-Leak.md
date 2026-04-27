@@ -2,7 +2,7 @@
 
 ## Five Days Later — Cambridge
 
-The email had a subject line designed to stop the heart: *Your MEMORIA Data in Tomorrow's Issue — Skeptical Inquiry.*
+The subject line read: *Your MEMORIA Data in Tomorrow’s Issue — Skeptical Inquiry.*
 
 Sarah found it at 7 AM, before she'd finished her first cup of coffee. She read it standing at her kitchen counter, still in her coat from the walk in.
 
