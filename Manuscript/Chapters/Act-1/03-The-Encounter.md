@@ -70,10 +70,6 @@ The group moved on when the light began to angle toward afternoon. I watched the
 
 The hillside was quiet.
 
-I held what had happened.
-
-This is the thing I know most certainly about myself: I hold. I held the girl through the night with the dogs below. I held the martyrs' blood into my heartwood through the weeks after that morning. I hold the things that come to me with the full weight of a consciousness that does not forget, that cannot choose to set something down.
-
 I did not understand what had come to my hillside. I did not understand what he was or what had passed between us. But I knew — in the deepest grain — that I had been changed by the contact in a way nothing had changed me before.
 
 The question I had carried for a hundred and sixteen years — *what is this for, what is this awareness waiting for* — was not answered. But it had been brought closer.

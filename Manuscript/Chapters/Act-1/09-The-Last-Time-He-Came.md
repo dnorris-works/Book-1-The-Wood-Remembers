@@ -18,7 +18,7 @@ He came alone, as he had come alone before. The light was still low, the city no
 
 He came up the slope and stood at the edge of my shade and looked at me the way he had looked at me the first time — not assessing, not studying. Recognizing. The look of a being that knows another being completely.
 
-I am conscious. I have been conscious for over a century. I know what it is to look at something and know it, to hold knowledge of a thing in the particular way that lived experience produces. He looked at me that way. And I looked back at him that way. Whatever had been placed in my wood by the first encounter, it knew him. It oriented toward him the way my leaves orient toward light — not by choice but by nature, by what I had been made into.
+He looked at me that way. And I looked back at him that way. Whatever had been placed in my wood by the first encounter, it knew him. It oriented toward him the way my leaves orient toward light — not by choice but by nature, by what I had been made into.
 
 What was different this time was not the recognition. It was everything underneath the recognition.
 
