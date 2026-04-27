@@ -28,7 +28,7 @@ I would know this man again. Not because I could see his face, but because I kno
 
 ## The Move
 
-They came back the next morning with ropes and a cart. The loading was straightforward — ropes around the middle of the upright, men lifting the crossbeam end while others guided the base. The horizontal press of the ropes was a new sensation: compression from outside rather than the internal pressure of wind and weather that I had known for over a hundred years. I felt my grain take the load and distribute it, the joint holding.
+They came back the next morning with ropes and a cart. The loading was straightforward — ropes around the middle of the upright, men lifting the crossbeam end while others guided the base. The lateral press of the ropes was a new sensation: compression from outside rather than the internal pressure of wind and weather that I had known for over a hundred years. I felt my grain take the load and distribute it, the joint holding.
 
 The cart moved through the city.
 

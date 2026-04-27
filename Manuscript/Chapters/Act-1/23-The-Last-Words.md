@@ -52,7 +52,7 @@ He spoke toward the sky. Not toward the crowd, not toward the women below, not t
 
 One sentence. I felt the breath that carried it leave his body and not return.
 
-The weight on my crossbeam did not change immediately. The body remained as it was — suspended, present, the nails holding what they held. But the quality of the weight was different. The subtle constant motion that had been present all day — the micro-shifts of a living body making continual small adjustments, the evidence of breath and heartbeat distributed through the wood — was gone.
+The weight on my crossbeam did not change immediately. The body remained as it was — suspended, present, the nails holding what they held. But the weight on my crossbeam was different. The subtle constant motion that had been present all day — the micro-shifts of a living body making continual small adjustments, the evidence of breath and heartbeat distributed through the wood — was gone.
 
 He was still. Completely still.
 
@@ -64,7 +64,7 @@ The young man beside her put his hand on her shoulder. He did not speak. There w
 
 The soldiers looked up. The one who had been in charge of the detail walked toward the base of the crosses and looked for a long time at what I was holding.
 
-I recognized the quality of his looking. It was the same quality as his hands in the arsenal — not the attention of a soldier doing his work but the attention of a man who has been brought up against something he cannot account for.
+I recognized his looking. It was the same as his hands in the arsenal — not the attention of a soldier doing his work but the attention of a man who has been brought up against something he cannot account for.
 
 He said something. His voice was low and I could not hear the whole of it above the wind. What reached me was three words. I have held them in the grain the same way I have held the nails, the blood, the warmth that did not cool. Three words from a man who had touched my wood in a storage room and then stood at my base and understood something I could not have told him.
 

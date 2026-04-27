@@ -30,9 +30,9 @@ One man stopped.
 
 He was older than most of the soldiers I had seen — grey at his temples, the deliberate walk of someone who had learned to conserve energy over a long career. He stood at a distance and looked at me for a moment, not with the professional assessment of a carpenter checking joints but with something harder to name. Then he moved on.
 
-The crowd noise across the gate shifted. A different quality — not the call-and-response pattern but a single sustained sound, the kind a crowd makes when something has been decided. It rose and held for a moment and then broke into something more ragged, individual voices separable again.
+The crowd noise across the gate shifted — not the call-and-response pattern but a single sustained sound, the kind a crowd makes when something has been decided. It rose and held for a moment and then broke into something more ragged, individual voices separable again.
 
-Then relative quiet.
+Then relative quiet. Not peaceful — a different quiet. The sound of something completed.
 
 Then the sound of preparation beginning inside the hall beyond — I could hear it even across the courtyard, the specific organized activity of people moving toward an exit.
 

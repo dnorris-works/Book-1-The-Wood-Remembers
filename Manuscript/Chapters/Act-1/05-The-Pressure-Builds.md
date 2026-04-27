@@ -12,9 +12,9 @@ The road below my hillside had always been a reliable text. I knew its rhythms: 
 
 What I was reading now was fear. Not the ordinary fear of the road — bandits, soldiers, bad weather. Something newer, more complicated. People would come up the slope and sit in my shade and speak in voices they kept low for reasons that had nothing to do with the hour. They glanced back toward the road between sentences. They left before they had fully rested, as if staying too long in one place had become its own kind of risk.
 
-The name I heard most often I had heard before. It was the same name that had been traveling the road in the months before he came to my hillside. Now it traveled with a different quality — less wonder, more urgency. Less the sound of people reporting something astonishing, more the sound of people trying to work something out before time ran out.
+The name I heard most often I had heard before. It was the same name that had been traveling the road in the months before he came to my hillside. Now it traveled differently — less wonder, more urgency. Less the sound of people reporting something astonishing, more the sound of people trying to work something out before time ran out.
 
-I registered all of this with my full consciousness. I am not a passive receiver. I have been aware for more than a century, and that awareness has always been active — noting, comparing, holding one observation against another across decades. What I noted was this: the situation on the road was moving toward something. The pressure was building the way pressure builds before a storm. I did not know what the storm would be. But I had been conscious long enough to know that when pressure builds this way, something always breaks.
+I registered all of this. I have been aware for more than a century, and that awareness has always been active — noting, comparing, holding one observation against another across decades. The situation on the road was moving toward something. The pressure was building the way pressure builds before a storm. I did not know what the storm would be. But I had been conscious long enough to know that when pressure builds this way, something always breaks.
 
 ## What the Road Told Me
 
@@ -22,9 +22,9 @@ Through the thirty-first and thirty-second years, the road gave me more informat
 
 The groups that came up to my hillside had begun to divide into two kinds. The first kind spoke of him with fear for him — people who believed what he was doing mattered and were frightened of what the opposition meant. The second kind spoke of him with a fear that was closer to anger — people for whom he had become a problem to be managed, a source of instability in arrangements they depended on.
 
-Both kinds were afraid. They were afraid of different things, but the fear was in both voices, and I had learned to read fear in a human voice the way I read drought in the soil — by the quality of the deprivation, not just its presence.
+Both kinds were afraid. They were afraid of different things, but the fear was in both voices, and I had learned to read fear in a human voice the way I read drought in the soil — by the depth of the deprivation, not just its presence.
 
-What I understood from this — not through theology, but through a century of watching human beings on this hillside — was that something was closing in. Forces were accumulating on either side of a man who had been on this road, who had touched my bark, whose step I knew from all the others. Forces don't accumulate this way and then dissipate. They accumulate and then they resolve. I did not know what resolution looked like. I knew it was coming.
+What I understood from this — not through theology, but through a century of watching human beings on this hillside — was that something was closing in.
 
 His step appeared on the road below three times in the thirty-first year. Each time, the birds in my canopy went still in the way they had gone still the first time he came. Not startled. Attentive. I went still the same way. The step was the same — the specific weight and rhythm I had recorded in my roots since the morning he set his hand against my bark. But it carried something new now. Or perhaps I was able to read it more clearly than before, the way a second encounter with a language teaches you things the first encounter could not.
 
@@ -36,11 +36,11 @@ I held this. I added it to what I was already holding. I grew in the spring and 
 
 By the thirty-second year, Jerusalem had changed in ways I could read from my hillside.
 
-I had been watching this city since before it was the city it was now. I knew its sounds at distance — the particular density of festival crowds, the way the morning traffic sounded different from evening traffic, the quality of quiet that settled over the roads during Sabbath. I had read this city for over a century, the way you read a face you have known for a long time. You do not need to examine every feature. The overall quality tells you what you need to know.
+I had been watching this city since before it was the city it was now. I knew its sounds at distance — the particular density of festival crowds, the way the morning traffic sounded different from evening traffic, the stillness that settled over the roads during Sabbath. I had read this city for over a century, the way you read a face you have known for a long time. You do not need to examine every feature. The overall character of it told you what you needed to know.
 
-The quality I was reading in the thirty-second year was one I had not read before. The city was holding itself tightly, the way a person holds themselves when they are waiting for something they cannot stop and do not want to rush. There was a kind of breathlessness in it. The festival crowds came as they always came, but they moved differently through the streets — more volatile, faster to cluster, faster to disperse.
+What I was reading in the thirty-second year was one I had not read before. The city was holding itself tightly, the way a person holds themselves when they are waiting for something they cannot stop and do not want to rush. There was a kind of breathlessness in it. The festival crowds came as they always came, but they moved differently through the streets — more volatile, faster to cluster, faster to disperse.
 
-I knew, with the full attention of a conscious being who had been watching for a very long time, that what was building was not going to pass. It was going to arrive. And I knew — in the way I had known almost nothing else with such certainty in all my years — that when it arrived, I would be part of it.
+What was building was not going to pass. It was going to arrive. And I knew — in the way I had known almost nothing else with such certainty in all my years — that when it arrived, I would be part of it.
 
 Not a witness. Part of it.
 
@@ -54,9 +54,9 @@ The curved branch was still curved. In the thirty-second year people left more t
 
 He came in the dark before dawn, moving carefully on the hillside path the way people move when they do not want to be heard.
 
-I felt him a long way off. Not because his step was loud — it was not — but because something in his movement had a quality I recognized: the deliberate pace of someone who has made a decision and is carrying it toward its conclusion. He was not fleeing. He was arriving.
+I felt him a long way off. Not because his step was loud — it was not — but because something in his movement I recognized: the deliberate pace of someone who has made a decision and is carrying it toward its conclusion. He was not fleeing. He was arriving.
 
-He was young. A fisherman, from the weight and the particular callused quality of his hands when he knelt at my base and placed them on the stone circle. He knelt in the place where Miriam had placed the first stones twenty years before, in the space that had been a sanctuary before anyone used that word for it.
+He was young. A fisherman, from the weight and the particular callused press of his hands when he knelt at my base and placed them on the stone circle. He knelt in the place where Miriam had placed the first stones twenty years before, in the space that had been a sanctuary before anyone used that word for it.
 
 His name was Thomas. Thomas bar-Judah.
 

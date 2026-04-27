@@ -22,7 +22,7 @@ The city below the fortress grew louder each day as the pilgrims arrived for the
 
 A soldier came through the storage chamber each morning to check the materials. He spent more time near my section than the rest. Not performing any particular task — looking, mostly. The second morning he ran his hand along my grain without looking around to see if anyone was watching. His hand was rough-palmed and warm. He didn't say anything. After a moment he moved on.
 
-I thought about the hillside. I thought about the specific quality of the light in the hour before dawn when Jerusalem's walls caught the first grey rising and the dew on my leaves made the air taste clean. I thought about the three children and the night I held Miriam while the dogs circled below, the way the stars looked from that position, the cold coming up from the ground and the weight of her pressed into my branches.
+I thought about the hillside. I thought about the specific light in the hour before dawn when Jerusalem's walls caught the first grey rising and the dew on my leaves made the air taste clean. I thought about the three children and the night I held Miriam while the dogs circled below, the way the stars looked from that position, the cold coming up from the ground and the weight of her pressed into my branches.
 
 That was a different kind of weight than what was coming. I understood that, though I did not know the shape of what was coming. I could feel it the way I had always felt a particular storm before it arrived — not the content, just the size of it, the quality of the pressure building in the air.
 

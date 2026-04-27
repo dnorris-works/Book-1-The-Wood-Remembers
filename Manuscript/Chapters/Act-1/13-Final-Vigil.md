@@ -6,7 +6,7 @@
 
 The fortress never fully slept.
 
-I had learned that across four days — the watch changes at intervals through the night, the footsteps that meant a new set of men taking over the corridors, the particular quality of sound a building makes when it is occupied but still. But this night was different from the other four. The activity that had started late and woken the corridor guard did not settle. It kept going.
+I had learned that across four days — the watch changes at intervals through the night, the footsteps that meant a new set of men taking over the corridors, the hush a building makes when it is occupied but still. But this night was different from the other four.
 
 More messengers. I could tell by the pace — not the measured tread of patrol but the quick purposeful step of someone carrying something urgent in one direction only. Three of them passed through or near the storage chamber between the deepest hour of the night and whatever came after it. Voices at the far end of the corridor, brief and low, the tone that means orders being given rather than conversation.
 

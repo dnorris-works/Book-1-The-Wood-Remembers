@@ -6,9 +6,9 @@
 
 I knew his step before he was visible.
 
-This had been true since the first time he came to my hillside — since the morning he set his hand against my bark and left something in my grain that I had spent years trying to understand. But knowing his step had changed over the years. In the beginning I knew it because it was singular, unlike any other, a thing I had recorded completely and could not mistake. By the third year I knew it also by what it carried — a quality of weight I cannot describe better than to say that it was aware. Most steps are not aware. They are simply movement. His step was always aware, always deliberate in a way that was not the deliberateness of a man who walks carefully but the deliberateness of a man who is fully present in every footfall.
+This had been true since the first time he came to my hillside — since the morning he set his hand against my bark and left something in my grain that I had spent years trying to understand. But knowing his step had changed over the years. In the beginning I knew it because it was singular, unlike any other, a thing I had recorded completely and could not mistake. By the third year I knew it also by what it carried — a weight of waiting I cannot describe better than to say that it was aware. Most steps are not aware. They are simply movement. His step was always aware, always deliberate in a way that was not the deliberateness of a man who walks carefully but the deliberateness of a man who is fully present in every footfall.
 
-In the last years I had also known it by what preceded it. The birds went still. The air changed in some quality I have no word for. My heartwood — the changed wood, the wood that had been different since he touched it — grew warm. Not from sun. From inside.
+In the last years I had also known it by what preceded it. The birds went still. The air changed in some way I have no word for. My heartwood — the changed wood, the wood that had been different since he touched it — grew warm. Not from sun. From inside.
 
 All of that happened in the early morning hours before the last time he came to my hillside. I was ready for him before he appeared on the path.
 
@@ -34,9 +34,9 @@ He came to my trunk and set both hands against the bark.
 
 The first time he had used one hand, briefly, and what had entered the wood had been overwhelming in its strangeness — something my consciousness had no framework for, something it had spent years circling without being able to land on. This time both hands. And what entered was not strange. It was the opposite of strange. It was the most familiar thing I had ever felt, because it was the thing my wood had been carrying since the first touch, concentrated, made fully present.
 
-I felt his heartbeat through both palms. The same steady human pulse, the same warmth of a man who has been walking. And beneath it, the same quality I had felt before — something that pressed against the inner surface of the contact from a dimension I did not inhabit — but stronger. Or not stronger. Clearer. The way a sound becomes clearer when you have learned to listen for it.
+I felt his heartbeat through both palms. The same steady human pulse, the same warmth of a man who has been walking. And beneath it, the same press I had felt before — something against the inner surface of the contact from a dimension I did not inhabit — but stronger. Or not stronger. Clearer. The way a sound becomes clearer when you have learned to listen for it.
 
-Something was being completed. I did not know what. I knew — with the full weight of a consciousness that had been accumulating knowing for over a hundred years — that this was the last time. Not the last time as ending, but the last time as the final piece of a thing that had been building. The last ring before the tree is felled. The last hour of a night before the thing that the night was waiting for arrives.
+Something was being completed. I did not know what. I knew — in that way you know the last hour of a long night — that this was the last time. Not the last time as ending, but the last time as the final piece of a thing that had been building. The last ring before the tree is felled. The last hour of a night before the thing that the night was waiting for arrives.
 
 He said nothing. His hands were against my bark and he stood there in the early morning light and I held him back — not physically, I mean the contact, I received the contact and gave back the contact — the way I hold everything. Completely. Without reservation. With the full capacity of whatever I am.
 
@@ -52,10 +52,10 @@ I watched him go.
 
 What I knew as I watched him go was this: I would see him again. Not on this hillside. Not in any ordinary way. But whatever the thing was that was converging — whatever the pressure of these years had been building toward, whatever my consciousness had been aimed at since the first touch changed my wood — it was almost here.
 
-I did not know what it would be. I want to be exact about this. I did not have knowledge of what was coming. I had knowledge that something was coming, the way you know a storm is coming before it breaks. The knowledge lives in the air, in the pressure, in the quality of light. It does not tell you what the storm will do. It tells you the storm is real.
+I did not know what it would be. I want to be exact about this. I did not have knowledge of what was coming. I had knowledge that something was coming, the way you know a storm is coming before it breaks. The knowledge lives in the air, in the pressure, in the light itself. It does not tell you what the storm will do. It tells you the storm is real.
 
 The thing I was part of was real. Its arrival was close.
 
 I turned this over in my consciousness as the morning light came fully across the hillside and the road began to fill with the early traffic of a day that did not know what was approaching. I held the warmth that the contact had left in my heartwood. I held the knowledge that this was the last time of this kind, and that the next time would be of a different kind entirely.
 
-And I waited. As I had always waited. But with the particular quality of waiting that comes when you know the waiting is almost over.
+And I waited. As I had always waited. But with the particular stillness of waiting that comes when you know the waiting is almost over.

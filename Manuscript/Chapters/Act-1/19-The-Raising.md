@@ -26,7 +26,7 @@ The wind hit differently up here. Stronger. I hadn't expected that. On the hills
 
 The crowd was larger than I'd realized when I was lying down.
 
-Thousands of them, packed to the edges of the plateau and spreading down the slope. Their noise came up to me in waves. Not uniform noise — different voices doing different things, arguments and weeping and something that might have been prayer, all of it rising and mixing in the hot morning air.
+Thousands of them, packed to the edges of the plateau and spreading down the slope. Their noise came up to me in waves. Not uniform — different voices doing different things, arguments and weeping and something that might have been prayer, all of it rising and mixing in the hot morning air.
 
 I could see Jerusalem from here. All of it. The Temple catching the sun on its western face, the walls, the rooftops packed with people who'd come out to watch from a distance. The hills beyond.
 

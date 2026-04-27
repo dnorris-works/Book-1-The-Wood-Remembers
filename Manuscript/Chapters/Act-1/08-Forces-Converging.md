@@ -38,7 +38,7 @@ In the weeks before Passover the road below my hill was dense with traffic — p
 
 And underneath all of it, the two groups still meeting on my hillside.
 
-Something was close. I could feel it in the quality of the arrangements being made below me — the increasing specificity of the flat coordinating voices, the way their conversations had shortened from the longer discussions of autumn to the brief confirmations of people whose plan is complete.
+Something was close. I could feel it in the tightening of the arrangements being made below me — the increasing specificity of the flat coordinating voices, the way their conversations had shortened from the longer discussions of autumn to the brief confirmations of people whose plan is complete.
 
 My wood had finished its transformation. The heartwood was dense now in a way that had taken years. The grain was tight and dry and deeply saturated with the oil I had been pressing outward since the martyrs' blood came into my roots. I was as strong as I was going to get.
 

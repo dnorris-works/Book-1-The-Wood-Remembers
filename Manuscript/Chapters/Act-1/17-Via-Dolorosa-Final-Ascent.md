@@ -42,7 +42,7 @@ The road curved up to the right and the outcropping rose above us on the left, a
 
 Simon was released at the base. A soldier gestured and spoke and Simon stepped back, letting go of my lower end. The weight returned entirely to the man at my upper length. He took it without visible reaction — a readjustment, a steadying, and then still.
 
-Simon stood to the side. I do not know what his face showed. I felt his hands leave my wood, which after the length of the road felt like a subtraction. He had been a stranger's hands an hour ago. An hour is enough time to know the quality of a grip.
+Simon stood to the side. I do not know what his face showed. I felt his hands leave my wood, which after the length of the road felt like a subtraction. He had been a stranger's hands an hour ago. An hour is enough time to know the grip of a stranger's hands.
 
 The ground here was level enough for what came next. The soldiers knew the site — their movements had the efficiency of a task performed before, each man going to a position without being directed. Ropes, tools, the iron spikes in a leather bag that one of them carried. The ground had been prepared: there was a socket in the rock, cut square, deep enough for the base of a vertical beam to stand in.
 

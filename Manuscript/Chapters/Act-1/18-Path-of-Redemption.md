@@ -28,7 +28,7 @@ The impact of the first spike transmitted through the crossbeam the way sound tr
 
 I felt him receive it.
 
-He did not pull away. His body absorbed the impact and the specific new weight of what had been done and remained still. His breathing did not stop. It changed — a quality of breath I had no prior name for, the breath of a person who is taking something in and holding it rather than expelling it, the breath of pure endurance at its outermost edge.
+He did not pull away. His body absorbed the impact and the specific new weight of what had been done and remained still. His breathing did not stop. It changed — a breath I had no prior name for, the breath of a person who is taking something in and holding it rather than expelling it, the breath of pure endurance at its outermost edge.
 
 The second. Then the third — the feet, both together, the longer spike, the deeper impact.
 
@@ -42,7 +42,7 @@ The sun was warm on my upper surface. The stone was cold against my back. He was
 
 I thought about the hillside. About the first winter, when I was newly rooted and the cold came and I did not know yet whether I would survive it. About the year the drought nearly took me. About the night the lightning split the tree thirty feet to my left and I felt the charge through the soil for weeks afterward. About Miriam, the weight of a child who trusted a tree the way children trust things they cannot explain.
 
-About the man on the hillside, years before this, whose hand on my bark I had felt as something I could not account for. About the quality of that contact and how it had changed something in me that I have never found the word for.
+About the man on the hillside, years before this, whose hand on my bark I had felt as something I could not account for. About that contact and how it had changed something in me that I have never found the word for.
 
 He was that man.
 

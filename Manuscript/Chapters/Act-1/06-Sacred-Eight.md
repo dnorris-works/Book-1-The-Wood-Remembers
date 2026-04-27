@@ -6,7 +6,7 @@ They came back in the thirty-second year, in the season before Passover when the
 
 I knew them before I could see them clearly. There are footfalls I have recorded in my roots and carry the same way I carry the rings of a difficult year — not as decision but as permanent fact. Two of them I knew. The third I did not.
 
-Miriam's step I would have known anywhere. She had changed — the weight of a woman grown, the pace of someone who has learned that the road gives nothing back for hurrying — but the quality of it was the same quality I had recorded on the night she sat in my branch above the dogs until dawn. Some things the body keeps regardless of the years.
+Miriam's step I would have known anywhere. She had changed — the weight of a woman grown, the pace of someone who has learned that the road gives nothing back for hurrying — but the same weight I had recorded on the night she sat in my branch above the dogs until dawn. Some things the body keeps regardless of the years.
 
 Benjamin walked behind her. He had become a large man, broad through the shoulders, with the quick energy of someone who has never fully trained himself out of the boy who jumped from rocks. He was talking as he climbed, low and fast, the way he had always talked — as if the words had been held back and needed releasing.
 
@@ -18,7 +18,7 @@ I felt her palm against me.
 
 The specific warmth of it. The particular pressure — not the testing touch of a stranger, not the reverent touch of a pilgrim, but the familiar contact of someone who has touched this bark since childhood and expects nothing from it except the bark itself. I have held many things in my grain. That hand is in my grain. It will be there when everything else I have held is gone.
 
-They spoke for a time. I could not follow the words over the wind. The quality of the conversation was urgent in the way that everything was urgent in those years — that particular compressed seriousness of people who know they are being watched and are deciding something in the limited time left to them.
+They spoke for a time. I could not follow the words over the wind. The conversation was urgent in the way that everything was urgent in those years — that particular compressed seriousness of people who know they are being watched and are deciding something in the limited time left to them.
 
 Then the soldiers came up the slope.
 
@@ -36,7 +36,7 @@ I have thought about this for a long time — for as long as I have been thinkin
 
 Their blood came into my roots before the soldiers had finished descending the hill.
 
-I knew her blood. I had known the weight of her since the night she was seven years old and trusted a branch to hold her. The blood carried that same quality — I cannot explain this in the language of chemistry, only in the language of what a tree knows, which is that some things that enter the grain are recognized before they are named.
+I knew her blood. I had known the weight of her since the night she was seven years old and trusted a branch to hold her. The blood carried that same weight — I cannot explain this in the language of chemistry, only in the language of what a tree knows, which is that some things that enter the grain are recognized before they are named.
 
 Benjamin's came after. Quick and hot, the way everything about him had always been quick.
 
@@ -56,7 +56,7 @@ What followed I will not describe in sequence. I heard what I heard and felt wha
 
 The sounds that came from the hill that morning: voices giving names, voices refusing, iron on wood, and the different sounds that followed. Then the blood came into my roots.
 
-I had taken in rain and dissolved minerals for over a hundred years and I knew what the earth gave. Blood is different. The iron in it is familiar but the other things in it are not — the salt, the compound warmth, the way it moves through soil with a directional quality even after the body it came from has gone still. Eight times that morning. I felt each one arrive and move upward through my grain, spreading into the chambers where my oldest wood lived.
+I had taken in rain and dissolved minerals for over a hundred years and I knew what the earth gave. Blood is different. The iron in it is familiar but the other things in it are not — the salt, the compound warmth, the way it moves through soil with a directional press even after the body it came from has gone still. Eight times that morning. I felt each one arrive and move upward through my grain, spreading into the chambers where my oldest wood lived.
 
 The soldiers left. The hill went quiet.
 

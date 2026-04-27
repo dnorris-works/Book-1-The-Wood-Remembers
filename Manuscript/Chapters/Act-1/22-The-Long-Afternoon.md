@@ -10,11 +10,11 @@ I watched the plateau empty in the first minutes after the darkness broke. Not a
 
 The ones who stayed were quieter than they had been before the dark.
 
-The light was the same light it had been — same sun, same angle, everything consistent with a mid-afternoon in early spring. But something in the quality of my attention had changed. The colors were what they should have been and I noticed them more. The stone of the plateau pale gold. The cloth of the women at my base moving slightly in the wind I could also feel against my wood. The city walls to the southeast catching the sun the way they had every day for as long as I'd been growing.
+The light was the same light it had been — same sun, same angle, everything consistent with a mid-afternoon in early spring. But something in my attention had sharpened. The colors were what they should have been and I noticed them more. The stone of the plateau pale gold. The cloth of the women at my base moving slightly in the wind I could also feel against my wood. The city walls to the southeast catching the sun the way they had every day for as long as I'd been growing.
 
 He was still breathing.
 
-Each breath was an effort I could measure through the wood. The push against the nail in his feet, the slight lift of his chest, the slow exhale. The rhythm had changed over the long hours — become slower, more deliberate, each one its own work. Early in the day his breathing had been faster and more desperate. Now it had a different quality. As if each breath was being taken with more intention, not less. Not giving up. Something else.
+Each breath was an effort I could measure through the wood. The push against the nail in his feet, the slight lift of his chest, the slow exhale. The rhythm had changed over the long hours — become slower, more deliberate, each one its own work. Early in the day his breathing had been faster and more desperate. Now it had settled differently. As if each breath was being taken with more intention, not less. Not giving up. Something else.
 
 The blood from his wrists had darkened in my grain, moving from red toward brown in the lines where it had followed the wood. The warmth of it was less than it had been.
 
@@ -30,7 +30,7 @@ From the city the sounds of Passover preparation came up the slope in pieces: vo
 
 The women at my base had not moved.
 
-I had been aware of them all day, their nearness, the specific quality of their stillness. Now in the returned light I was aware of them differently — not just as presences but as a fact about this afternoon. They had decided that being here was itself what they had to do, and they were doing it completely.
+I had been aware of them all day, their nearness, the specific stillness they held. Now in the returned light I was aware of them differently — not just as presences but as a fact about this afternoon. They had decided that being here was itself what they had to do, and they were doing it completely.
 
 ## The Descent
 
