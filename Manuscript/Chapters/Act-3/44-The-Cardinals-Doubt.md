@@ -80,7 +80,7 @@ Bertoli's breath caught. "The grandson of the high priest who condemned Christ?"
 
 "Converted after touching the very wood his grandfather had created through conspiracy." Michael's voice carried the quiet intensity that meant he was connecting pieces in real time. "Alessandro, the fragments witnessed Caiaphas's sin and his grandson's redemption. Witnessed both rejection and recognition. Both institutional complicity and individual grace."
 
-The stone in Bertoli's chest shifted. Not disappearing, but revealing something underneath. Something that might be hope.
+The stone in Bertoli's chest shifted. Not disappearing, but revealing something underneath.
 
 "Three generations," he said slowly. "From conspiracy to conversion through touching the wood."
 

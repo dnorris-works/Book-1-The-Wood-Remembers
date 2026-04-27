@@ -4,14 +4,6 @@
 
 *29 CE*
 
-I have always known I am not ordinary.
-
-Not in the way a man knows something he has been told — as received fact. More the way you know your own weight, or the sound of your own breathing. It is simply present. It has always been present. I am aware, and I know I am aware, and somewhere in that doubling is the knowledge that other trees are not.
-
-I do not know why this is true of me and not of them. I have stood within sight of other olives my whole life. I have watched them weather the same storms, lose the same limbs in the same dry summers, produce fruit and drop it and produce again. I do not believe they wonder about any of it. I do. I have wondered since before I understood what wondering was, since the first winter when my roots found limestone and something in me noted the finding.
-
-For a hundred and sixteen years this consciousness has been my entire experience of existence. It is the only existence I have known.
-
 The travelers had been different for some time.
 
 For months, some of the people who rested in my shade had been different in a way I had not encountered before in a century of watching the road. They spoke in lowered voices. They were watchful in the way of people who carry something they do not want noticed. And sometimes, in the middle of ordinary conversation, one of them would say something that made the others go completely still — not the stillness of disagreement, but the stillness of people absorbing something they cannot yet hold.

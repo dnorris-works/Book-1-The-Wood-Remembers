@@ -4,8 +4,6 @@
 
 *30–32 CE*
 
-I have always read this hillside the way I read weather — not through a single sign but through the accumulation of many. The particular weight of air before rain. The specific way light changes in the hour before a storm that will not break until evening. A conscious being with a century of observation learns to recognize convergence before it arrives.
-
 What I was reading in the thirtieth and thirty-first years was unlike anything I had read before.
 
 The road below my hillside had always been a reliable text. I knew its rhythms: the daily movement of merchants between Jerusalem and the coastal towns, the seasonal surge of Passover pilgrims, the particular traffic of the autumn festivals. I knew the difference between a group moving in haste because they were late and a group moving in haste because they were afraid. I knew the difference between a traveler who was thinking hard and a traveler who was frightened.

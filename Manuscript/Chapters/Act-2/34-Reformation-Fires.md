@@ -162,7 +162,7 @@ He meant it as the truest account he had. He left it in the record because he co
 
 She reached for a small tool, something between a scalpel and a spatula. "Watch."
 
-*A century later, different hands. Different empire. Same instinct — that what mattered most was safest out of sight.*
+*A century later, different hands. Different empire.*
 
 She worked at the icon's frame—simple wood, nothing ornate. Her tool found a seam Sarah hadn't noticed. A section of the frame lifted away, revealing a hollow space.
 

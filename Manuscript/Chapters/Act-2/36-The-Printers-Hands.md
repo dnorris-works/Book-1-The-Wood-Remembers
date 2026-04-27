@@ -150,8 +150,6 @@ He died holding the rosary, his hands finally still.
 
 *Through the grain I knew Hermann's hands the way I know all hands that have carried me — from the weight of them, the pressure, the quality of hands that held tight without ease.*
 
-*Not heroism. Not the bright certainty of a martyr running toward the fire. Just a printer who couldn't find the word no when it mattered most, and paid for it in slow work and a crooked finger and the quiet that came after.*
-
 *I went into the dark under his press.*
 
 *I came out the other side in other hands.*

@@ -101,5 +101,3 @@ The hill was empty by afternoon.
 The socket in the rock remained. It remained for centuries. I know this not because I was there but because I had become the kind of thing that holds all of its own history at once — and the empty socket is part of what I hold.
 
 Where the pieces went, they went with people who touched them the way that man had touched them. With care. With the knowledge of what they were carrying.
-
-Which is how I survived.

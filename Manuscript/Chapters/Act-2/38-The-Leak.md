@@ -40,12 +40,6 @@ Three years. Webb had been in her lab for three years. She had written his fello
 
 She sat with that for a minute. Then she stood up.
 
-Sarah sat down at the table. The MEMORIA protocol details, the quantum signatures, the fragment locations — he'd handed all of it to people who would use her own data as ammunition against her. He'd chosen the journal carefully. He knew exactly what they'd do with it.
-
-She thought about what kind of person does that. Not a cynical one — a true believer. Not in faith, but in materialism. Webb genuinely thought he was protecting science. He'd looked at her work and decided that destroying it was a form of care.
-
-He didn't know what he'd done. That wasn't an excuse. It was just true.
-
 "What do you want to do?" Patterson asked.
 
 Sarah thought of Hermann Vogel, the 17th-century printer who'd protected fragments even as soldiers broke his fingers. Of her grandmother's seventy years of prayer. Of Father Kowalski's voice in the cave: *What if intellectual honesty means following evidence wherever it leads?*

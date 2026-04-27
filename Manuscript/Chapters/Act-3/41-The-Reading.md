@@ -178,8 +178,6 @@ She had come here to prove the tree remembered. She understood now that she had 
 
 *I had not known, until this moment, that I had been waiting to be found.*
 
-*The weight I carried was not burden. It was testimony. And testimony has no meaning until it is received.*
-
 *The vigil was over.*
 
 Sarah's lungs weren't working properly. She stood frozen as that impossible creaking continued and the temperature kept dropping.

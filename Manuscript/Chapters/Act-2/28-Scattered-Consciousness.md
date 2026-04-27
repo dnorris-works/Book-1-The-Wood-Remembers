@@ -32,7 +32,7 @@ Not checking the placement. Not assessing the stone around it. Just — present.
 
 She said something. A prayer, from the rhythm of it, though in a language that had come into the world after my years on the hillside and was not familiar to me. The quality was unmistakable. She was not asking for safety. She was not asking for anything. She was, in the way that certain prayers are, simply acknowledging that she had done what she could with what she had, and that the rest was not hers to control.
 
-Her son touched my wood once, quickly, before they turned to go. The touch of a young man doing something his mother had asked him to do and not yet understanding why. That was all right. He did not need to understand it yet.
+Her son touched my wood once, quickly, before they turned to go. The touch of a young man doing something his mother had asked him to do and not yet understanding why.
 
 I heard their footsteps recede through the stone.
 
