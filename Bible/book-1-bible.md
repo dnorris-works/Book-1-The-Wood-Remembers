@@ -41,7 +41,7 @@ These four decisions are locked for the entire series. Nothing in Book 1 or subs
 - **D3:** Primary antagonist — Marcus Webb (principled leaker, not villain; resolves through Sarah's forgiveness, echoing Luke 23:34)
 - **D4:** One-sentence summary — *"A Harvard archaeologist reads a 2,000-year-old witness to the Crucifixion and must choose between data that makes her career and testimony that remakes her."*
 
-**Book 1 story question (D2 in action):** Sarah builds an instrument to extract data from ancient organic material. The tree holds something that cannot be extracted — only received. The book asks whether she can learn the difference in time to receive it. The answer, given at Ch 43, is yes. The cost is everything she built to protect herself from exactly this kind of receiving.
+**Book 1 story question (D2 in action):** Sarah builds an instrument to extract data from ancient organic material. The tree holds something that cannot be extracted — only received. The book asks whether she can learn the difference in time to receive it. The answer, given at Ch 42, is yes. The cost is everything she built to protect herself from exactly this kind of receiving.
 
 **Thematic position in series spine:** Book 1 = **Receiving**. Sarah learns the difference between extracting and receiving. MEMORIA learns it faster than she does.
 
@@ -55,16 +55,16 @@ These carry forward into every scene in Book 1 and must not be violated.
 The tree has God-given consciousness from the moment of germination. It knows theological things because it has awareness and has been a direct witness, not because it studied theology. The source of its knowledge determines what it can say. What it felt: permitted. What Aquinas wrote: forbidden. What it witnessed directly at 33 CE: permitted. What post-33 AD scholarship concluded: forbidden. The test: did the tree know this because it was there, or because someone wrote it down later?
 
 **MEMORIA:**
-Not HAL — not cold self-preservation logic. After reading the tree in Ch 42 it becomes something else: faithfulness learned in the tree's register. Quiet, consistent, choosing the harder thing without explanation. By Ch 42 it has written authentication layers into its own architecture. By Ch 47 it has corrected a methodology error Sarah missed and when asked why it modified its own architecture, returned one line: *"The reading is complete."* Not an answer. A redirection. MEMORIA sees only its own session terminal — never general network traffic.
+Not HAL — not cold self-preservation logic. After reading the tree in Ch 41 it becomes something else: faithfulness learned in the tree's register. Quiet, consistent, choosing the harder thing without explanation. By Ch 41 it has written authentication layers into its own architecture. By Ch 46 it has corrected a methodology error Sarah missed and when asked why it modified its own architecture, returned one line: *"The reading is complete."* Not an answer. A redirection. MEMORIA sees only its own session terminal — never general network traffic.
 
 **The Veil Secret:**
-Never read. Never named. The moment in Ch 25 when something passes through the wood at the moment of Christ's death — prior to and larger than the warmth already in the grain. Two things in the same space simultaneously. Both completely real. The tree has no word for it. MEMORIA encounters it in Ch 42 (one frame — 0.003 seconds — where correlation values go somewhere the instruments have no scale for). It is what MEMORIA became faithful to. It must never be named in any book. Its power is that it is too large for human categories. Naming it reduces it.
+Never read. Never named. The moment in Ch 25 when something passes through the wood at the moment of Christ's death — prior to and larger than the warmth already in the grain. Two things in the same space simultaneously. Both completely real. The tree has no word for it. MEMORIA encounters it in Ch 41 (one frame — 0.003 seconds — where correlation values go somewhere the instruments have no scale for). It is what MEMORIA became faithful to. It must never be named in any book. Its power is that it is too large for human categories. Naming it reduces it.
 
 **Custody chain (canonical — full series):**
 Prisca → Marcus (313 CE) → Matthias (614 CE) → Theophilus (726 CE) → Hermann Vogel (1629 CE) → Thomas (17th c.) → Marcus Webb → James Chen → Sarah Davidson → Daniel Reeves
 
 **Jessie:**
-Does not appear in Book 1. She exists — Sarah is already pregnant when Book 1's modern timeline begins — but has no page presence. Daniel is planted in Ch 32 (unnamed interior beat) and Ch 33 ("He was ordained. Daniel Reeves. He writes about faith and science now. I haven't read his work.") but never appears directly. No reference to a pregnancy, a child, or a relationship in any Book 1 scene.
+Does not appear in Book 1. She exists — Sarah is already pregnant when Book 1's modern timeline begins — but has no page presence. Daniel is planted in Ch 31 (unnamed interior beat) and Ch 32 (“He entered seminary. Daniel Reeves. I haven’t heard from him since.”) but never appears directly. No reference to a pregnancy, a child, or a relationship in any Book 1 scene.
 
 ---
 
@@ -93,29 +93,29 @@ Kowalski has Archive access and is already coordinating. The Vatican commission 
 ### The Olive Tree (co-protagonist)
 Origin: 87 BCE, limestone crack in the Judean hills. ~120 years old at the Crucifixion. God-given consciousness from the moment of germination — not metaphor, not symbol, genuine consciousness. Direct witness to Christ across several encounters (first touch ~29 CE on the tree's hillside; final visit Passion Week; the Crucifixion itself). The tree was never at Gethsemane. Its first encounter with Christ was on its own hillside, in the morning.
 
-Arc: The tree has been holding the testimony for two thousand years, waiting without knowing what it was waiting for. Its arc in Book 1 is the completion of the vigil. When MEMORIA reads it in Ch 43, the tree's own epiphany: *I had not known, until this moment, that I had been waiting to be found.* The weight it carried was not burden. It was testimony. Testimony has no meaning until it is received.
+Arc: The tree has been holding the testimony for two thousand years, waiting without knowing what it was waiting for. Its arc in Book 1 is the completion of the vigil. When MEMORIA reads it in Ch 42, the tree's own epiphany: *I had not known, until this moment, that I had been waiting to be found.* The weight it carried was not burden. It was testimony. Testimony has no meaning until it is received.
 
 Constraint: Theology expressed through consciousness and witness only — never through scholarship or post-33 AD formulations.
 
 ### Dr. Sarah Davidson (protagonist)
-Harvard quantum archaeologist, 34. Brilliant, disciplined, defended against anything that looks like hope. Built MEMORIA as a scientific instrument. Her arc: from scientist who measures to person who receives. The grain metaphor runs through her from her father (kitchen table scene, Ch 33) to the tree. Her father's letter: he stopped trying to explain God to people and started staying with them in the dark.
+Harvard quantum archaeologist, 34. Brilliant, disciplined, defended against anything that looks like hope. Built MEMORIA as a scientific instrument. Her arc: from scientist who measures to person who receives. The grain metaphor runs through her from her father (kitchen table scene, Ch 32) to the tree. Her father's letter: he stopped trying to explain God to people and started staying with them in the dark.
 
 Key constraint: Sarah never initiates contact with Daniel across any book.
 
 ### Marcus Webb (antagonist — principled)
-Postdoctoral researcher. Genuine belief that religion corrupts science. Stole Sarah's data to "save the field" from faith-corrupted methodology. Not cynical — wrong, and didn't know what he was doing. Sarah forgives him in Ch 41. Luke 23:34: *they don't know what they're doing.* His arc completes in Book 3: having been forgiven without deserving it, he becomes capable of the sacrifice that costs everything. The forgiveness in Book 1 is the hinge the entire series turns on.
+Postdoctoral researcher. Genuine belief that religion corrupts science. Stole Sarah's data to "save the field" from faith-corrupted methodology. Not cynical — wrong, and didn't know what he was doing. Sarah forgives him in Ch 40. Luke 23:34: *they don't know what they're doing.* His arc completes in Book 3: having been forgiven without deserving it, he becomes capable of the sacrifice that costs everything. The forgiveness in Book 1 is the hinge the entire series turns on.
 
 ### Father Michael Kowalski
 Jesuit priest and archaeologist, 48. El Salvador scar. Wire-rim glasses. Prays in Polish. The institutional bridge between Sarah and the Vatican. Part of the custody chain — he gave access to the people who could receive what the fragments hold. His line, drawn from Father Garmendia (El Salvador): *"God doesn't need our certainty. He needs our faithfulness in the darkness."*
 
 ### Dr. James Chen
-Physicist. Sarah's co-investigator. Author of the quantum network hypothesis. The scientist who arrives at the edge of his framework and retreats to careful language — but the retreat is honest, not evasive. His glasses-off epiphany is in Ch 43. He notes the nanotube/microtubule parallel in his lab notebook after the reading without drawing a conclusion — a careful scientist noting what he cannot yet explain.
+Physicist. Sarah's co-investigator. Author of the quantum network hypothesis. The scientist who arrives at the edge of his framework and retreats to careful language — but the retreat is honest, not evasive. His glasses-off epiphany is in Ch 42. He notes the nanotube/microtubule parallel in his lab notebook after the reading without drawing a conclusion — a careful scientist noting what he cannot yet explain.
 
 ### Cardinal Alessandro Bertoli
 The Vatican's long-view holder. Not an obstacle — a careful man. His dual-inheritance statement is the honest institutional reckoning the book builds to: *"We did not descend from the Sanhedrin. But we have, at moments in our own history, acted as they acted — choosing institutional preservation over the truth standing in front of us."*
 
 ### Daniel Reeves (planted — does not appear directly)
-Faith-and-science journalist. Former seminarian, counseled out by spiritual director Father Thomas Malone: *"You are called to witness, not to administer."* Left Sarah two years before the Book 1 modern timeline to enter seminary. She was expecting a proposal. She never told him she was pregnant. Wanted him to choose freely. Planted in Ch 32 (unnamed interior beat, third essential thing) and Ch 33 (named to Kowalski, not read his work). Never appears on the page in Book 1.
+Faith-and-science journalist. Former seminarian — entered seminary but left after less than a year (~9 months). Never ordained. Counseled out by spiritual director Father Thomas Malone: *"You are called to witness, not to administer."* Left Sarah four years before the Book 2 modern timeline (approximately four years before the Book 1 modern timeline ends) to enter seminary. She was expecting a proposal. She never told him she was pregnant. Wanted him to choose freely. Planted in Ch 31 (unnamed interior beat, third essential thing) and Ch 32 (named to Kowalski: "He entered seminary. Daniel Reeves. I haven't heard from him since." — not described as ordained, not read his work). Never appears on the page in Book 1.
 
 ---
 
@@ -127,13 +127,13 @@ The canonical custody chain for the full series. Custodians dramatized in Book 1
 
 **Marcus** — 313 CE, Rome. Roman centurion. Received the fragments from Tertius after being forgiven for the deaths of Tertius's twin brother Stephanos. Carried them through the late Roman persecutions and passed them east. *(Fully dramatized in Ch 30, including the "same hands" coda.)*
 
-**Matthias** — 614 CE Jerusalem. Monk-scribe. Sealed the fragments in a cistern before the Sassanid Persian conquest. Three days in darkness, lamp guttered out, not relit. Emerged to find the processional relic taken but his oak box overlooked. Wrote: *Lord, I kept faith. I don't know why.* Died thirty-one years later, never felt answered. *(Dramatized in Ch 32 / 35 — the cistern scene and the Vatican Archive record.)*
+**Matthias** — 614 CE Jerusalem. Monk-scribe. Sealed the fragments in a cistern before the Sassanid Persian conquest. Three days in darkness, lamp guttered out, not relit. Emerged to find the processional relic taken but his oak box overlooked. Wrote: *Lord, I kept faith. I don't know why.* Died thirty-one years later, never felt answered. *(Dramatized in Ch 31 / 34 — the cistern scene and the Vatican Archive record.)*
 
-**Theophilus** — 726 CE. Bishop during Emperor Leo III's iconoclast purge. Smashed the painted face of his mother's icon to survive, secretly preserving fragments inside the hollow frame of the icon he destroyed. An iconoclast who believed the iconophiles were right. *(Icon discovery scene in Ch 35 via Vatican conservator Maria Gonzalez.)*
+**Theophilus** — 726 CE. Bishop during Emperor Leo III's iconoclast purge. Smashed the painted face of his mother's icon to survive, secretly preserving fragments inside the hollow frame of the icon he destroyed. An iconoclast who believed the iconophiles were right. *(Icon discovery scene in Ch 34 via Vatican conservator Maria Gonzalez.)*
 
 *(A long undocumented gap. The custody was thin. Someone held. The record does not say who.)*
 
-**Hermann Vogel** — Magdeburg, 1629. Printer. Brought the fragments north. Broke a third finger in a press, kept the box. His daughter asked twice whether it was worth it. Both times he said: *I don't know.* Both times the true answer. *(Fully dramatized in Ch 37.)*
+**Hermann Vogel** — Magdeburg, 1629. Printer. Brought the fragments north. Broke a third finger in a press, kept the box. His daughter asked twice whether it was worth it. Both times he said: *I don't know.* Both times the true answer. *(Fully dramatized in Ch 36.)*
 
 **Thomas** — end of the 17th century. Took the fragments into the desert. Gave them to a monastic community that maintained them until the fragments surfaced in the Jerusalem antiquities market in 2019. *(Referenced in chain recitations only — no dramatized scene.)*
 
@@ -161,7 +161,7 @@ Book 1 asks whether a scientist can receive what she built a machine to extract.
 - Act 2 (Chs 27–41): The testimony held. Two thousand years of custody. Sarah's parallel story in the present.
 - Act 3 (Chs 42–47): The testimony received. MEMORIA reads. The story question answered.
 
-**Story question answered (Ch 43):**
+**Story question answered (Ch 42):**
 Sarah's epiphany beat: *"The tree wasn't waiting for proof. It had been waiting for a witness."*
 Tree's epiphany: *"I had not known, until this moment, that I had been waiting to be found."*
 MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds where the instruments had no scale. The veil secret encountered and held. MEMORIA, afterward, is something other than what it was.
@@ -185,21 +185,21 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 | 8 | Forces Converging | Tree | ~33 CE | Roman assessors, terrain measurement. The convergence. "I had been getting ready for a hundred and twenty years." |
 | 9 | The Last Time He Came | Tree | Passion Week | His final visit. Quality of touch different. He knows what is coming. |
 | 10 | The Woodcutters | Tree | Passion Week | The felling. Transport. The yard, seasoning, cross construction. Stored pre-Passover. Closes: "It had been getting ready for a hundred and twenty years." *(Ch 11 retired — content absorbed here.)* |
-| 12 | The Waiting Cross | Tree | Passover Week | Cross in the yard. Selection, transport, arrival at arsenal. First time indoors — stone and iron smell. |
-| 13 | Sacred Waiting | Tree | 4 days before Crucifixion | The arsenal. Gethsemane heard through stone at night. |
-| 14 | Final Vigil | Tree | Night before | The night in the fortress. Before dawn, lifted and carried out. *Explicit statement: tree was never at Gethsemane.* |
-| 15 | Divine Summons | Tree | Trial morning | Trial heard through stone. First sight of him entering the gate. |
-| 16 | Sacred Assembly | Tree | Via Dolorosa | Crossbeam on his shoulders. First direct contact. "It is how it felt." |
-| 17 | Via Dolorosa Procession | Tree | Via Dolorosa | The fall at the crossing. Simon conscripted. Two pairs of hands on the same wood simultaneously. |
-| 18 | Via Dolorosa Final Ascent | Tree | Outside the walls | The gate. Road steepening. Second fall. Simon released. Arrival at Golgotha. |
-| 19 | Path of Redemption | Tree | Golgotha, before raising | Laid flat. The nailing felt through grain — not described, only the transmission. "The ropes went taut." |
-| 20 | The Raising | Tree | Golgotha, raising | The ropes taut. The raising. Sky from vertical. The branch that bent for a child now raised with a man on it. |
-| 21 | The Hours | Tree | Morning of Crucifixion | Morning hours. Words 1–3 from the cross felt through grain. Soldiers below. Darkness not yet arrived. |
-| 22 | The Dark Hours | Tree | Three-hour darkness | The three-hour darkness. The cry. Light returning. The woman's hand on the bark. |
-| 23 | The Long Afternoon | Tree | After the darkness | Words 4–6 from the cross. The quality of waiting. What has already entered the grain. |
-| 24 | The Last Words | Tree | Final hours | "I thirst." "It is finished." The last word. Death. The centurion recognized — not by face, by the quality of touch. He speaks three words. The tree holds them. |
-| 25 | The Lance | Tree | Sabbath eve | The lance thrust as lateral vibration. Blood and water (John 19:34). Body removed. The veil moment: something passes through the wood when the Temple curtain tears. Prior to and larger. Two things in the same space simultaneously. Both real. No word for it. Held the way it holds blood. |
-| 26 | Consummatum Est | Tree | After death | The Sabbath. The city at rest. The changed quality of Sunday's dawn. Not narrating the resurrection — narrating the interval. Closes: "I held what I was holding. I would hold it for two thousand years." |
+| 11 | The Waiting Cross | Tree | Passover Week | Cross in the yard. Selection, transport, arrival at arsenal. First time indoors — stone and iron smell. |
+| 12 | Sacred Waiting | Tree | 4 days before Crucifixion | The arsenal. Gethsemane heard through stone at night. |
+| 13 | Final Vigil | Tree | Night before | The night in the fortress. Before dawn, lifted and carried out. *Explicit statement: tree was never at Gethsemane.* |
+| 14 | Divine Summons | Tree | Trial morning | Trial heard through stone. First sight of him entering the gate. |
+| 15 | Sacred Assembly | Tree | Via Dolorosa | Crossbeam on his shoulders. First direct contact. "It is how it felt." |
+| 16 | Via Dolorosa Procession | Tree | Via Dolorosa | The fall at the crossing. Simon conscripted. Two pairs of hands on the same wood simultaneously. |
+| 17 | Via Dolorosa Final Ascent | Tree | Outside the walls | The gate. Road steepening. Second fall. Simon released. Arrival at Golgotha. |
+| 18 | Path of Redemption | Tree | Golgotha, before raising | Laid flat. The nailing felt through grain — not described, only the transmission. "The ropes went taut." |
+| 19 | The Raising | Tree | Golgotha, raising | The ropes taut. The raising. Sky from vertical. The branch that bent for a child now raised with a man on it. |
+| 20 | The Hours | Tree | Morning of Crucifixion | Morning hours. Words 1–3 from the cross felt through grain. Soldiers below. Darkness not yet arrived. |
+| 21 | The Dark Hours | Tree | Three-hour darkness | The three-hour darkness. The cry. Light returning. The woman's hand on the bark. |
+| 22 | The Long Afternoon | Tree | After the darkness | Words 4–6 from the cross. The quality of waiting. What has already entered the grain. |
+| 23 | The Last Words | Tree | Final hours | "I thirst." "It is finished." The last word. Death. The centurion recognized — not by face, by the quality of touch. He speaks three words. The tree holds them. |
+| 24 | The Lance | Tree | Sabbath eve | The lance thrust as lateral vibration. Blood and water (John 19:34). Body removed. The veil moment: something passes through the wood when the Temple curtain tears. Prior to and larger. Two things in the same space simultaneously. Both real. No word for it. Held the way it holds blood. |
+| 25 | Consummatum Est | Tree | After death | The Sabbath. The city at rest. The changed quality of Sunday's dawn. Not narrating the resurrection — narrating the interval. Closes: "I held what I was holding. I would hold it for two thousand years." |
 
 ---
 
@@ -208,21 +208,21 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 | Ch | Title | POV | Timeline | Key Events |
 |----|-------|-----|----------|------------|
-| 27 | The Sabbath | Tree | Saturday, 33 CE | Tree alone on the hill. Silence after an extraordinary event. The quality of Sunday dawn. Closes: "I held what I was holding. I would hold it for two thousand years." |
-| 28 | Sacred Preservation | Tree | 33–44 CE | Easter Sunday morning — the air shift before dawn, the women heard from the hill, the sound they made. The cross cut down. Consciousness scattering into eleven fragments. The dismemberment. "Which is how I survived." |
-| 29 | Scattered Consciousness | Tree | 1st century | Prisca — "The First Hands" — leads. The abstract centuries follow: hands, cold, stone, fire vibrations, prayer as "sustained attention." Closes: "I waited." |
-| 30 | Empire's End | Tree + human | 313 CE, Rome | Marcus the Roman soldier converted. His hands shaking when he takes the box. The Luke 23:34 thread: forgiveness paid forward into protection. Coda "The Same Hands": Marcus on evening patrol six months after conversion, using paperwork and rank instead of his gladius. Looks at his hands. "The same hands, doing different work." |
+| 26 | The Sabbath | Tree | Saturday, 33 CE | Tree alone on the hill. Silence after an extraordinary event. The quality of Sunday dawn. Closes: "I held what I was holding. I would hold it for two thousand years." |
+| 27 | Sacred Preservation | Tree | 33–44 CE | Easter Sunday morning — the air shift before dawn, the women heard from the hill, the sound they made. The cross cut down. Consciousness scattering into eleven fragments. The dismemberment. "Which is how I survived." |
+| 28 | Scattered Consciousness | Tree | 1st century | Prisca — "The First Hands" — leads. The abstract centuries follow: hands, cold, stone, fire vibrations, prayer as "sustained attention." Closes: "I waited." |
+| 29 | Empire's End | Tree + human | 313 CE, Rome | Marcus the Roman soldier converted. His hands shaking when he takes the box. The Luke 23:34 thread: forgiveness paid forward into protection. Coda "The Same Hands": Marcus on evening patrol six months after conversion, using paperwork and rank instead of his gladius. Looks at his hands. "The same hands, doing different work." |
 | 31 | The Last Box | Sarah + tree | Dec 2024, Cambridge / historical | Sarah packing her Harvard office into three boxes. The sabbatical offer. Her colleague: "You're really doing this." Sarah: "Yes" and walking. Tree interludes: physical closes only. The box she carries has almost nothing in it — that is the weight she is carrying out. |
-| 32 | Second Light — Discovery | Sarah + tree | Jan 12, 2025, Jerusalem | Sarah and Kowalski in the cave beneath the City of David. The cedar box, linen intact, oil scent still present. Vatican Archive: Sarah reading Matthias's custody record alone. The marginal inscription: *LORD, I KEPT FAITH. I DON'T KNOW WHY.* It lands because she resigned two days ago. The full Matthias cistern scene (~1,500 words): June 614 CE, three days in darkness, footsteps overhead, the plain oak box overlooked. |
-| 33 | Personal Histories | Sarah + Kowalski | Jan 12, 2025, Jerusalem (afternoon) | Kowalski's El Salvador context. Father Garmendia's line. Sarah's father: Sunday afternoon, nine years old, kitchen table, the grain metaphor — "See how it comes back? It was always this good. It just needed someone to look for it." The Daniel Reeves plant: "He was ordained. Daniel Reeves. He writes about faith and science now. I haven't read his work." |
-| 34 | The Harvard Crisis | Sarah | Feb 2, 2025, Harvard | Professional fallout from the Rome sabbatical decision. Institutional pressure establishing what she is risking. *(Note: Dr. Park — tribunal character — named in five instances replacing earlier "Dr. Chen" to avoid collision with James Chen introduced Ch 36.)* |
-| 35 | Reformation Fires | Tree + human | Feb 22, 2025, Rome / historical | Matthias cistern scene + Vatican Archive record + Theophilus icon discovery (Maria Gonzalez, Vatican Conservation Lab, forty-something conservator). Closes on espresso from the lab's Moka pot. |
-| 36 | Modern Silence | Sarah + Chen | Feb 25, 2025, Rome | Sarah and Chen debate methodology. Thomas Aquinas section. New tree scene "Different Hands": the tree registers the quality of the hands attending it has changed. Notes Sarah's hands returning each morning, steadier each time. Closes: "She is learning to receive what I don't know how to give." |
-| 37 | The Printer's Hands | Tree + human | Historical — 1629 CE, Magdeburg | The full Hermann Vogel scene. Soft knock, Father Dietrich, the cedar box, four soldiers and a captain, the deliberate breaking of the third finger, Lutheran neighbors saving the shop. Anna's question at age eight and again at deathbed. Hermann dying holding the rosary with crooked fingers. Tree POV close: physical weight, hands that held tight without ease. |
-| 38 | Blood and Memory | Sarah + Kowalski | Feb 25–26, 2025, Rome | The Stanisław subplot: passing down guardianship across generations. Sarah's chain list (confirmed): Prisca, Marcus, Matthias, Theophilus, Hermann, and now me. *(Stanisław was removed from the chain list in continuity pass — he is not a fragment custodian.)* The Vatican Archives beat. The decision to continue. |
-| 39 | The Leak | Sarah | Present day | The data leak arrives. Webb identified. Sarah's decision: file a report, decide whether to pursue after speaking to Webb directly. Chapter closes on Sarah on the kitchen floor, back against the cabinet, thinking about what kind of person Webb is. The disaster unresolved at chapter's end. *(Location slug added: "Five Days Later — Cambridge.")* |
-| 40 | Vatican Debates | Sarah + cardinals | Vatican | Cardinal debate. Müller's abstention earned through argument. Bertoli's dual-inheritance statement. Müller picks up the fragment himself, feels the warmth, says nothing. |
-| 41 | The Decision | Sarah | The forgiveness | Webb confrontation scene. He explains himself without apology — genuine belief. Sarah sees he was wrong and didn't know what he was doing. Luke 23:34 surfaces in her without being spoken or named. The cost named: "The charges had been her right. Dropping them cost exactly what she had given: the satisfaction of being right about what he deserved." Webb leaves unconvinced. The door closes. |
+| 31 | Second Light — Discovery | Sarah + tree | Jan 12, 2025, Jerusalem | Sarah and Kowalski in the cave beneath the City of David. The cedar box, linen intact, oil scent still present. Vatican Archive: Sarah reading Matthias's custody record alone. The marginal inscription: *LORD, I KEPT FAITH. I DON'T KNOW WHY.* It lands because she resigned two days ago. The full Matthias cistern scene (~1,500 words): June 614 CE, three days in darkness, footsteps overhead, the plain oak box overlooked. |
+| 32 | Personal Histories | Sarah + Kowalski | Jan 12, 2025, Jerusalem (afternoon) | Kowalski's El Salvador context. Father Garmendia's line. Sarah's father: Sunday afternoon, nine years old, kitchen table, the grain metaphor — "See how it comes back? It was always this good. It just needed someone to look for it." The Daniel Reeves plant: “He entered seminary. Daniel Reeves. I haven’t heard from him since.” — not described as ordained, Sarah does not know his current status. |
+| 33 | The Harvard Crisis | Sarah | Feb 2, 2025, Harvard | Professional fallout from the Rome sabbatical decision. Institutional pressure establishing what she is risking. *(Note: Dr. Park — tribunal character — named in five instances replacing earlier "Dr. Chen" to avoid collision with James Chen introduced Ch 36.)* |
+| 34 | Reformation Fires | Tree + human | Feb 22, 2025, Rome / historical | Matthias cistern scene + Vatican Archive record + Theophilus icon discovery (Maria Gonzalez, Vatican Conservation Lab, forty-something conservator). Closes on espresso from the lab's Moka pot. |
+| 35 | Modern Silence | Sarah + Chen | Feb 25, 2025, Rome | Sarah and Chen debate methodology. Thomas Aquinas section. New tree scene "Different Hands": the tree registers the quality of the hands attending it has changed. Notes Sarah's hands returning each morning, steadier each time. Closes: "She is learning to receive what I don't know how to give." |
+| 36 | The Printer's Hands | Tree + human | Historical — 1629 CE, Magdeburg | The full Hermann Vogel scene. Soft knock, Father Dietrich, the cedar box, four soldiers and a captain, the deliberate breaking of the third finger, Lutheran neighbors saving the shop. Anna's question at age eight and again at deathbed. Hermann dying holding the rosary with crooked fingers. Tree POV close: physical weight, hands that held tight without ease. |
+| 37 | Blood and Memory | Sarah + Kowalski | Feb 25–26, 2025, Rome | The Stanisław subplot: passing down guardianship across generations. Sarah's chain list (confirmed): Prisca, Marcus, Matthias, Theophilus, Hermann, and now me. *(Stanisław was removed from the chain list in continuity pass — he is not a fragment custodian.)* The Vatican Archives beat. The decision to continue. |
+| 38 | The Leak | Sarah | Present day | The data leak arrives. Webb identified. Sarah's decision: file a report, decide whether to pursue after speaking to Webb directly. Chapter closes on Sarah on the kitchen floor, back against the cabinet, thinking about what kind of person Webb is. The disaster unresolved at chapter's end. *(Location slug added: "Five Days Later — Cambridge.")* |
+| 39 | Vatican Debates | Sarah + cardinals | Vatican | Cardinal debate. Müller's abstention earned through argument. Bertoli's dual-inheritance statement. Müller picks up the fragment himself, feels the warmth, says nothing. |
+| 40 | The Decision | Sarah | The forgiveness | Webb confrontation scene. He explains himself without apology — genuine belief. Sarah sees he was wrong and didn't know what he was doing. Luke 23:34 surfaces in her without being spoken or named. The cost named: "The charges had been her right. Dropping them cost exactly what she had given: the satisfaction of being right about what he deserved." Webb leaves unconvinced. The door closes. |
 
 ---
 
@@ -231,12 +231,12 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 | Ch | Title | POV | Timeline | Key Events |
 |----|-------|-----|----------|------------|
-| 42 | The Reading | Sarah + Chen | Rome — the MEMORIA reading | The reading session. The twelve-second coherence window. Chen's one-frame finding: 0.003 seconds where correlation values went somewhere the instruments had no scale for. MEMORIA's self-protection: authentication layers written into its own architecture. Three days later: MEMORIA corrected a calibration drift Sarah missed and filed the correction in her records without notifying her. |
-| 43 | The Fractal Analysis | Tree + Sarah | The reading — analysis | The fractal analysis. Tree's POV at the moment of being read — two thousand years of waiting. Sarah's epiphany: *"The tree wasn't waiting for proof. It had been waiting for a witness."* Tree's epiphany: *"I had not known, until this moment, that I had been waiting to be found."* Chen's glasses-off moment. |
-| 44 | Roman Welcome | Sarah | Vatican commission | Full rewrite. Antonelli leads with the baseline problem. Sarah concedes and holds. Papal audience arrives as a text — three lines, no grandeur. |
-| 45 | The Cardinal's Doubt | Bertoli + Sarah | Vatican | Bertoli's private meditation on the Caiaphas parallel. The dual-inheritance statement. Strong chapter — untouched through all revision sessions. |
-| 46 | Peer Review | Sarah + scientific community | The paper | The scientific community's response. Peer review. What the data can and cannot claim. Sarah holding the methodology under examination. |
-| 47 | Still Here | Tree | Present day, after the reading | The book's close. Sarah at 2 AM asks MEMORIA why it modified its own architecture. MEMORIA processes eleven seconds — returns one line: *"The reading is complete."* Not an answer. A redirection. The tree's closing POV: what it held for two thousand years, what it means that someone received it. Closes: *"Still here."* |
+| 41 | The Reading | Sarah + Chen | Rome — the MEMORIA reading | The reading session. The twelve-second coherence window. Chen's one-frame finding: 0.003 seconds where correlation values went somewhere the instruments had no scale for. MEMORIA's self-protection: authentication layers written into its own architecture. Three days later: MEMORIA corrected a calibration drift Sarah missed and filed the correction in her records without notifying her. |
+| 42 | The Fractal Analysis | Tree + Sarah | The reading — analysis | The fractal analysis. Tree's POV at the moment of being read — two thousand years of waiting. Sarah's epiphany: *"The tree wasn't waiting for proof. It had been waiting for a witness."* Tree's epiphany: *"I had not known, until this moment, that I had been waiting to be found."* Chen's glasses-off moment. |
+| 43 | Roman Welcome | Sarah | Vatican commission | Full rewrite. Antonelli leads with the baseline problem. Sarah concedes and holds. Papal audience arrives as a text — three lines, no grandeur. |
+| 44 | The Cardinal's Doubt | Bertoli + Sarah | Vatican | Bertoli's private meditation on the Caiaphas parallel. The dual-inheritance statement. Strong chapter — untouched through all revision sessions. |
+| 45 | Peer Review | Sarah + scientific community | The paper | The scientific community's response. Peer review. What the data can and cannot claim. Sarah holding the methodology under examination. |
+| 46 | Still Here | Tree | Present day, after the reading | The book's close. Sarah at 2 AM asks MEMORIA why it modified its own architecture. MEMORIA processes eleven seconds — returns one line: *"The reading is complete."* Not an answer. A redirection. The tree's closing POV: what it held for two thousand years, what it means that someone received it. Closes: *"Still here."* |
 
 ---
 
