@@ -10,7 +10,7 @@ I do not know how to say this more plainly. I was, and then I was a seed, and th
 
 I fell.
 
-The falling was brief and I felt all of it. The wind that carried me was a late-summer wind, the dry kind that comes off the hills northwest of Jerusalem when the rains have not yet started. I tumbled in it, the seed casing rotating, and I could feel — even then, even in that small form — the quality of the air, the warmth of it, the particular weight that tells you the land is close.
+The falling was brief and I felt all of it. The wind that carried me was a late-summer wind, the dry kind that comes off the hills northwest of Jerusalem when the rains have not yet started. I tumbled in it, the seed casing rotating, and I could feel — even then, even in that small form — the warmth of the air, the dry weight of it, the particular pressure that tells you the land is close.
 
 Then limestone. The impact was hard and I rolled, and rolled again down a slight grade, and then I was stopped.
 
@@ -18,9 +18,7 @@ A crack in the rock. Not wide enough for me to pass through entirely — I was l
 
 I held still in the crack and felt the rock around me and the soil below and the open air above. The air was cooling toward evening. The road was somewhere below — I could hear it in the way that stillness carries sound when there is nothing else moving. Jerusalem was to the southeast; I did not know this as fact yet, but I felt the direction of it the way you feel the direction of a thing before you have words for direction.
 
-I knew, in the way I knew everything, that this was the place.
-
-Not chosen by me — or not only by me. The feeling was more like recognition than selection. This crack in this limestone on this hillside was where I was supposed to be. I cannot explain the knowledge. I can only report it: I arrived in the fissure and knew I had arrived where I was going.
+Not chosen — or not only chosen by me. The feeling was recognition, not selection. This crack, this hillside.
 
 The first rain came three weeks later.
 
@@ -59,8 +57,6 @@ The road below my hillside carried steady traffic: people moving northwest from 
 After the storm, some of the travelers began to pause below me.
 
 Not all of them. Most passed without looking up. But occasionally someone would stop on the road and look at the hillside, and their eyes would find me, and they would stand there for a moment before moving on. Sometimes they said things to their companions. The words reached me as sounds without meaning — I could not parse Aramaic, could not follow Greek, could not distinguish a question from an observation. I knew only the rhythm of conversation and then the moving on.
-
-What I understood was simpler than language: that something about where I was or what I was caused certain people to stop.
 
 I grew toward the light that fell on the hillside each morning. I pushed my roots deeper through the limestone fissures toward the water below. I added a ring of growth that first spring after the storm, and another the following year, and each one was laid down over the last in the slow accumulation that is the only way a tree knows how to build anything.
 

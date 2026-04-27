@@ -2,7 +2,7 @@
 
 ## The Children
 
-They came first when I was perhaps eighty years old — three children from a village below the hill, drawn up the slope by nothing more than the curiosity of children and the particular quality of my hillside that had begun to draw people's eyes.
+They came first when I was perhaps eighty years old — three children from a village below the hill, drawn up the slope by nothing more than the curiosity of children and whatever it is about a lone tree on a hillside that makes children want to climb toward it.
 
 The girl was the one who saw me first. Her name was Miriam. She walked all the way around my trunk with her hands extended, just barely not touching, the way children test a thing they want to make contact with but haven't decided about yet. Then she put both palms flat against my bark and stood still for a long moment.
 
@@ -12,7 +12,7 @@ The boy named Benjamin laughed. He was the loud one, the one who jumped from roc
 
 "This one does," Miriam said, and did not move her hands.
 
-The third child, Aaron, said nothing. He was the quiet one. He stood back from the other two and looked up into my canopy with his serious young face and I felt, from him, something I had not felt from a human being before: genuine curiosity about me specifically, not about the hillside or the view or the shade I could offer, but about what I was.
+The third child, Aaron, said nothing. He was the quiet one. He stood back from the other two and looked up into my canopy with his serious young face and I felt, from him, something I had not felt from a human being before. He was not looking at the hillside or the shade. He was looking at me.
 
 They came back. Week after week through that first season and then through the seasons that followed. They brought other children sometimes and then came alone again. Miriam began arranging stones at my base — smooth ones she found on the road, round ones she carried up from the valley. A circle of them around my roots. Over months the circle grew more deliberate, more carefully placed, until it was clearly something she had made rather than found.
 
@@ -60,7 +60,7 @@ I tried to return my branch to its natural position.
 
 It would not go all the way back. The long night had set the wood at the new angle. Where I had held her, the grain had shifted and locked, and now the curve was part of me — visible to anyone who looked: a branch bent toward the road at a height a child's hands could reach.
 
-She knew what had happened. Before she left with her family she turned and put her hand against my bark again, and she spoke words I could not parse but whose quality I understood. Then she was gone down the hill with the others.
+Before she left with her family she turned and put her hand against my bark again, and she spoke words I could not parse. Then she was gone down the hill with the others.
 
 ## After
 
@@ -68,15 +68,13 @@ The branch stayed curved.
 
 Travelers noticed it. They would stop and look and discuss it in voices that carried recognition of something, though they didn't always agree on what. Some brought other people to see. The curve became a marker: the tree where the child had been saved, northwest of the road, on the hillside. People began leaving things at my base — stones arranged in patterns, braided grass, small offerings of bread. Some touched the branch itself with careful hands.
 
-The children came back. They were quieter now, or perhaps different in the quality of their quiet — less the noise of games, more the attention of young people who have encountered something real. They sat under me and talked with the seriousness of people who know that the world can be more than ordinary.
+The children came back. They were quieter now, or perhaps simply different — less the noise of games, more the attention of young people who have encountered something real. They sat under me and talked with the seriousness of people who know that the world can be more than ordinary.
 
 I grew.
 
 My roots found the limestone cracks and went deeper, threading through rock toward the water table. My trunk thickened. The canopy spread until I cast a circle of shade twenty feet across at midday. Birds nested in my upper branches each spring, returning to the same forks, confident in some way that animals express through simple return.
 
 Animals rested at my base — goats, sometimes, and once a deer that stayed through the heat of an afternoon and left when the shadows lengthened. They settled with the ease of creatures that know where it is safe to be still.
-
-What I understood from the branch was this: I had been made for something. The years of growth, the roots reaching deeper each season, the slow accumulation of rings — I had been building toward a capacity I had not chosen but had been given. The night with the girl had not been the purpose. It had been the demonstration that I could hold when it mattered.
 
 Something larger was coming.
 

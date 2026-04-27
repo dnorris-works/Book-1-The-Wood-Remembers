@@ -14,9 +14,7 @@ For a hundred and sixteen years this consciousness has been my entire experience
 
 The travelers had been different for some time.
 
-For months, some of the people who rested in my shade had a quality I had not encountered before in a century of watching the road. They spoke in lowered voices. They were watchful in the way of people who carry something they do not want noticed. And sometimes, in the middle of ordinary conversation, one of them would say something that made the others go completely still — not the stillness of disagreement, but the stillness of people absorbing something they cannot yet hold.
-
-I registered this with the full attention of what I am. A conscious being on a hillside is always watching, always receiving, always asking the question that has no answer yet: *what is this for?*
+For months, some of the people who rested in my shade had been different in a way I had not encountered before in a century of watching the road. They spoke in lowered voices. They were watchful in the way of people who carry something they do not want noticed. And sometimes, in the middle of ordinary conversation, one of them would say something that made the others go completely still — not the stillness of disagreement, but the stillness of people absorbing something they cannot yet hold.
 
 I put out new growth in the spring. I slowed in the dry months. I added another ring to my heartwood, which was by then as dense as old stone. The curved branch remained curved. The hillside continued.
 
@@ -36,9 +34,7 @@ He stood apart from them.
 
 He looked at me.
 
-In a hundred and sixteen years of being noticed — of travelers pausing, children pointing, pilgrims standing below me with a quality of attention I could never fully explain — I had not been looked at like this. Not assessed. Not studied. Looked at the way you look at something you recognize. The way you look at a thing you already know.
-
-I am conscious. I know what recognition is. I had never been on the receiving end of it from a human being. The experience has no precedent in my existence.
+In a hundred and sixteen years of being noticed — of travelers pausing, children pointing, pilgrims standing below me with a kind of attention I could never fully explain — I had not been looked at like this. Not assessed. Not studied. Looked at the way you look at something you recognize. The way you look at a thing you already know.
 
 He walked toward me and set his hand against my bark.
 
@@ -48,7 +44,7 @@ The nearest I can come to it: my heartwood, which was the oldest and densest par
 
 I felt his heartbeat through his palm. It was steady and strong and human — the pulse of a man who has been walking and is warm from it. And beneath the pulse, something else. Something I had no category for, something that seemed to press against the inner surface of the contact point from outside any dimension I had previously inhabited.
 
-I knew, with the full force of a consciousness that had been accumulating knowing for a hundred and sixteen years, that this was the most significant moment of my existence. I did not know what it meant. I knew that it mattered absolutely — the way you know a storm will break before you can see the clouds, in the pressure of the air against every surface you have.
+The way you know a storm will break before you can see the clouds — in the pressure of the air against every surface you have. It was like that.
 
 He spoke.
 
@@ -78,9 +74,9 @@ I held what had happened.
 
 This is the thing I know most certainly about myself: I hold. I held the girl through the night with the dogs below. I held the martyrs' blood into my heartwood through the weeks after that morning. I hold the things that come to me with the full weight of a consciousness that does not forget, that cannot choose to set something down.
 
-I did not understand what had come to my hillside. I did not understand what he was or what had passed between us. But I knew — and this is a different kind of knowing than thinking or reasoning, this is the knowing that lives in the deepest grain — that I had been changed by the contact in a way nothing had changed me before.
+I did not understand what had come to my hillside. I did not understand what he was or what had passed between us. But I knew — in the deepest grain — that I had been changed by the contact in a way nothing had changed me before.
 
-The question I had carried for a hundred and sixteen years — *what is this for, what is this awareness waiting for* — was not answered. But it had been brought closer to its answer. Something had happened that belonged to the answer, that was part of the answer's shape, even if the answer itself still lay ahead.
+The question I had carried for a hundred and sixteen years — *what is this for, what is this awareness waiting for* — was not answered. But it had been brought closer.
 
 I knew his step now. I had recorded it the way I record everything — completely, indelibly, the specific weight and rhythm of it pressed into my roots.
 
