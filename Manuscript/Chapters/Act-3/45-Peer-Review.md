@@ -50,7 +50,7 @@ Bertoli stopped in the doorway. "You knew about that?"
 
 "Paul showed them to me once, years ago. He admired her." A small smile. "The apple doesn't fall far."
 
-Bertoli walked back through the apartments with the initialed statement in his jacket pocket, thinking about a woman who'd prayed through fascism and written letters to popes and never once asked whether her timing was convenient for the institution. He added the paragraph about provisional findings in the car on the way back, dictating to his secretary. It took four minutes. The statement published at nine that evening.
+Bertoli walked back through the apartments with the initialed statement in his jacket pocket, thinking about a woman who'd prayed through fascism and written letters to popes and never once asked whether her timing was convenient for the institution. He had looked up the family record once, not seriously, and found the habit went further back than his grandmother — back through Napoleon’s occupation, back through the Risorgimento, all the way to a fourth-century soldier who had looked at his own hands in a church on the Caelian Hill and decided what to do with them next. He added the paragraph about provisional findings in the car on the way back, dictating to his secretary. It took four minutes. The statement published at nine that evening.
 
 By midnight, his email had three hundred messages.
 

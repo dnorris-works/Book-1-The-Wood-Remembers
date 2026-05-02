@@ -144,40 +144,16 @@ Tertius placed his hand over Marcus's where it gripped the box.
 
 ---
 
-## The Same Hands
+*Six months later his grip was different. Steadier. He was not carrying me — Tertius kept me in the chest behind the altar by then, which was the right arrangement — but I know what happened the way things that have been held long enough come to know: three men outside the church on the Caelian Hill one evening, the particular stillness of Marcus’s arrival, a voice that needed no weight behind it because the weight had moved inward.*
 
-*September, 313 CE — Rome*
+*He didn’t reach for his sword. I know that too.*
 
-Six months into his new assignment, Marcus had learned to read a street the way he used to read a suspect.
+*They left. The psalm continued on the other side of the wall.*
 
-The difference was what he was looking for.
+*I had felt the trembling the morning he held me in the church — not weakness, the shaking of a body finally releasing what it had been holding rigid for years. I had felt the grip underneath it, which was fierce. He had been holding me like something he already knew he would not let go.*
 
-He was crossing the Caelian Hill on the evening inspection route when he heard it — three men, the particular rhythm of men who had decided something and were working themselves toward doing it. He turned the corner and saw them outside the church of San Clemente: off-duty soldiers by their bearing, wine-loose, one of them with his hand already flat against the door.
+*He kept the fragments safe for eleven years, until his hands gave them to the next pair. Whether that was enough he never fully resolved. Tertius had told him it wasn’t a question that got final answers, and that this was probably appropriate.*
 
-He didn’t reach for his gladius. He’d noticed that in himself over these months — the old reflex quieting. What he did instead was keep walking at the same pace until he was close enough that stopping meant something.
+*I think he came to accept that.*
 
-“You’re in my district,” he said.
-
-They turned. The hand came off the door. Three calculations happened behind three sets of eyes: rank, alone, evening, outcome.
-
-“Just looking,” the one nearest the door said.
-
-“At what?”
-
-Silence. The kind that has no good answer.
-
-“Come back through here tonight and I’ll put your names in the morning report,” Marcus said. “All three. Under protected congregation, imperial edict, interference with.” He paused. “The paperwork is tedious. For everyone.”
-
-They left. Not quickly — quickly would have been too much acknowledgment. But they left.
-
-Marcus stood in the street until they rounded the corner, then stayed another moment after. The evening was cooling. Somewhere beyond the church wall someone was singing — low, the kind of singing that isn’t performing. He’d heard it before and hadn’t known what it was. Now he recognized the psalm. The words about the valley were in there somewhere. He couldn’t make them out but he knew they were there.
-
-He looked at his hands.
-
-The same hands. The same bone and sinew that had broken Stephanos’s fingers in a courtyard on a January morning four years ago, that had signed execution orders without reading them carefully enough, that had trembled in a church holding a box of wood until something in the wood steadied them.
-
-The same hands, doing different work.
-
-He didn’t know if it was enough. Tertius had told him, gently, that it wasn’t a question he would ever get a final answer to, and that this was probably appropriate. Marcus was working on accepting that.
-
-He made a note in his tablet — three names, descriptions, the time, the address — and continued his route through the settling dark.
+*The same hands. Different work. That is what it costs, sometimes, to become the thing you were broken into being.*
