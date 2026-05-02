@@ -1,4 +1,4 @@
-# Chapter 33: The Harvard Crisis
+# Chapter 32: The Harvard Crisis
 
 ## The Committee Meeting
 
