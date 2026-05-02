@@ -1,4 +1,4 @@
-# Modern Silence
+# Chapter 35: Modern Silence
 
 ## The Equation of Love
 

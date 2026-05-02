@@ -1,4 +1,4 @@
-# Sacred Assembly
+# Chapter 15: Sacred Assembly
 
 ## The Weight
 

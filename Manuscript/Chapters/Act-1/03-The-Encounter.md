@@ -1,4 +1,4 @@
-# The Encounter
+# Chapter 3: The Encounter
 
 ## Year One Hundred and Sixteen
 

@@ -1,4 +1,4 @@
-# What the Touch Left
+# Chapter 4: What the Touch Left
 
 ## The Changed Wood
 

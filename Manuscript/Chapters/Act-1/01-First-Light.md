@@ -1,4 +1,4 @@
-# First Light
+# Chapter 1: First Light
 
 ## The Seed
 

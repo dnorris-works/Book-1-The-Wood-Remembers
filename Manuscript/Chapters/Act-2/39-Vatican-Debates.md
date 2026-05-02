@@ -1,4 +1,4 @@
-# Vatican Debates
+# Chapter 39: Vatican Debates
 
 ## The Argument
 

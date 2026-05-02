@@ -1,4 +1,4 @@
-# Sacred Eight
+# Chapter 6: Sacred Eight
 
 ## The Return
 

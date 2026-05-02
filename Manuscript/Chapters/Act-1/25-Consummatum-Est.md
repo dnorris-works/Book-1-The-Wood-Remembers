@@ -1,4 +1,4 @@
-# Consummatum Est
+# Chapter 25: Consummatum Est
 
 ## The Heartwood
 

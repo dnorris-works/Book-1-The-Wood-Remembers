@@ -1,4 +1,4 @@
-# The Cardinal's Doubt
+# Chapter 44: The Cardinal's Doubt
 
 ## Two A.M. in the Chapel
 

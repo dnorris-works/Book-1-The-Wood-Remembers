@@ -1,4 +1,4 @@
-# Personal Histories
+# Chapter 32: Personal Histories
 
 ## Sarah's Background
 

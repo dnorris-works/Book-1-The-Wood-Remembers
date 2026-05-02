@@ -1,4 +1,4 @@
-# Second Light (Discovery)
+# Chapter 31: Second Light (Discovery)
 
 ## The Initial Find
 

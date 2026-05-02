@@ -1,4 +1,4 @@
-# Path of Redemption
+# Chapter 18: Path of Redemption
 
 ## The Ground
 

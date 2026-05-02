@@ -1,4 +1,4 @@
-# Scattered Consciousness
+# Chapter 28: Scattered Consciousness
 
 ## February 23, 2025 — Vatican Apostolic Archive
 

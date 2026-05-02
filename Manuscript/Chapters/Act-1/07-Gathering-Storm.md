@@ -1,4 +1,4 @@
-# Gathering Storm
+# Chapter 7: Gathering Storm
 
 ## The New Visitors
 

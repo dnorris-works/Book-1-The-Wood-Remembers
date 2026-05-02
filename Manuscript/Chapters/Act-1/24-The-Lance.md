@@ -1,4 +1,4 @@
-# The Lance
+# Chapter 24: The Lance
 
 ## Verification
 

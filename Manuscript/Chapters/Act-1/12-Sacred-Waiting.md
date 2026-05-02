@@ -1,4 +1,4 @@
-# Sacred Waiting
+# Chapter 12: Sacred Waiting
 
 ## The Arsenal
 

@@ -1,4 +1,4 @@
-# Reformation Fires
+# Chapter 34: Reformation Fires
 
 ## Matter and Memory
 
