@@ -20,7 +20,7 @@ This bible was compiled in April 2026 from the working outline (`book-1-The-Quan
 **Series field (KDP):** The Quantum Witness Series — Book 1 of 3
 **Series position:** Book 1 of 3
 **Genre:** Christian literary fiction
-**Status:** Published. 71,483 words. 47 chapters (Ch 11 retired; content absorbed into Ch 10). AI-detector and continuity passes complete.
+**Status:** Published. 71,483 words. 46 chapters. AI-detector and continuity passes complete.
 
 **One-sentence summary:** *A Harvard archaeologist reads a 2,000-year-old witness to the Crucifixion and must choose between data that makes her career and testimony that remakes her.*
 
@@ -203,7 +203,7 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 ---
 
-### Act Two — The Long Custody (Chs 27–41)
+### Act Two — The Long Custody (Chs 26–40)
 *Two thousand years of fragments passing through human hands. Dual POV: tree interludes and Sarah's present-day story interleaved.*
 
 | Ch | Title | POV | Timeline | Key Events |
@@ -221,12 +221,12 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 | 36 | The Printer's Hands | Tree + human | Historical — 1629 CE, Magdeburg | The full Hermann Vogel scene. Soft knock, Father Dietrich, the cedar box, four soldiers and a captain, the deliberate breaking of the third finger, Lutheran neighbors saving the shop. Anna's question at age eight and again at deathbed. Hermann dying holding the rosary with crooked fingers. Tree POV close: physical weight, hands that held tight without ease. |
 | 37 | Blood and Memory | Sarah + Kowalski | Feb 25–26, 2025, Rome | The Stanisław subplot: passing down guardianship across generations. Sarah's chain list (confirmed): Prisca, Marcus, Matthias, Theophilus, Hermann, and now me. *(Stanisław was removed from the chain list in continuity pass — he is not a fragment custodian.)* The Vatican Archives beat. The decision to continue. |
 | 38 | The Leak | Sarah | Present day | The data leak arrives. Webb identified. Sarah's decision: file a report, decide whether to pursue after speaking to Webb directly. Chapter closes on Sarah on the kitchen floor, back against the cabinet, thinking about what kind of person Webb is. The disaster unresolved at chapter's end. *(Location slug added: "Five Days Later — Cambridge.")* |
-| 39 | Vatican Debates | Sarah + cardinals | Vatican | Cardinal debate. Müller's abstention earned through argument. Bertoli's dual-inheritance statement. Müller picks up the fragment himself, feels the warmth, says nothing. |
+| 39 | Vatican Debates | Sarah + cardinals | Vatican | Cardinal debate. Ostermann's abstention earned through argument. Bertoli's dual-inheritance statement. Ostermann picks up the fragment himself, feels the warmth, says nothing. |
 | 40 | The Decision | Sarah | The forgiveness | Webb confrontation scene. He explains himself without apology — genuine belief. Sarah sees he was wrong and didn't know what he was doing. Luke 23:34 surfaces in her without being spoken or named. The cost named: "The charges had been her right. Dropping them cost exactly what she had given: the satisfaction of being right about what he deserved." Webb leaves unconvinced. The door closes. |
 
 ---
 
-### Act Three — The Reading (Chs 42–47)
+### Act Three — The Reading (Chs 41–46)
 *MEMORIA reads the tree. The story question answered.*
 
 | Ch | Title | POV | Timeline | Key Events |
