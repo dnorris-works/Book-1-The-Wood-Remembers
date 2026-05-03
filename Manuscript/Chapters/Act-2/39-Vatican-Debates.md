@@ -6,27 +6,27 @@
 
 The fragment sat between them on the mahogany table, small and dark under the Apostolic Palace's ornate ceiling frescoes. Eight centuries of Church history had soaked into this wood—the table's, not the fragment's. Though if Dr. Davidson's findings proved accurate, the fragment had witnessed far more.
 
-Cardinal Gerhard Müller's fingers drummed against the armrest. Once. Twice. Three times. The German precision that had made him legendary during his years at the Congregation for the Doctrine of the Faith translated into rhythmic impatience.
+Cardinal Heinrich Ostermann's fingers drummed against the armrest. Once. Twice. Three times. The German precision that had made him legendary during his years at the Congregation for the Doctrine of the Faith translated into rhythmic impatience.
 
 "This is madness, Alessandro."
 
 Cardinal Alessandro Bertoli said nothing. He reached across the table and picked up the fragment, holding it between them like evidence at trial. The wood felt warm against his palm—warmer than room temperature should allow after resting in climate-controlled storage.
 
-"We're talking about endorsing claims that overturn fundamental physics," Müller continued. His fingers kept drumming. "Quantum coherence in biological systems for geological timescales? Consciousness preserved in wood? This isn't archaeology—it's fantasy dressed in laboratory jargon."
+"We're talking about endorsing claims that overturn fundamental physics," Ostermann continued. His fingers kept drumming. "Quantum coherence in biological systems for geological timescales? Consciousness preserved in wood? This isn't archaeology—it's fantasy dressed in laboratory jargon."
 
 "The MEMORIA data—"
 
 "The MEMORIA data could be instrument artifacts. Dr. Davidson is a recent convert undergoing religious enthusiasm. Her colleague Dr. Chen has three months of Vatican funding. Neither has incentive toward skepticism."
 
-Cardinal Luis Tagle's voice came through the video screen, gentle but firm. "Gerhard, the preliminary findings have been reviewed by our own physicists. They found the methodology sound."
+Cardinal Luis Tagle's voice came through the video screen, gentle but firm. "Heinrich, the preliminary findings have been reviewed by our own physicists. They found the methodology sound."
 
-"Sound methodology can still produce unsound conclusions." Müller's fingers stopped drumming. He leaned forward. "Alessandro, if we authenticate these fragments, we face demands to authenticate every relic claim across six continents. We risk reducing mystery to laboratory analysis. The resurrection doesn't require archaeological proof."
+"Sound methodology can still produce unsound conclusions." Ostermann's fingers stopped drumming. He leaned forward. "Alessandro, if we authenticate these fragments, we face demands to authenticate every relic claim across six continents. We risk reducing mystery to laboratory analysis. The resurrection doesn't require archaeological proof."
 
 Bertoli held the fragment up to the light streaming through tall windows. The wood's grain showed dark striations—old blood, perhaps, or mineral staining from fourteen centuries in limestone darkness. His palm registered the warmth more clearly now. Not dramatic. Not miraculous. Just... present.
 
-"Gerhard," he said quietly, "what if God chose to leave evidence? What if incarnational theology means matter can bear witness to divine touch?"
+"Heinrich," he said quietly, "what if God chose to leave evidence? What if incarnational theology means matter can bear witness to divine touch?"
 
-"Then God has poor understanding of epistemology." Müller's voice carried the edge that had terrified heretics for decades. "Physical evidence invites physical scrutiny. We open ourselves to skeptics with better equipment proving our 'miraculous' fragments are medieval forgeries preserved through wishful thinking."
+"Then God has poor understanding of epistemology." Ostermann's voice carried the edge that had terrified heretics for decades. "Physical evidence invites physical scrutiny. We open ourselves to skeptics with better equipment proving our 'miraculous' fragments are medieval forgeries preserved through wishful thinking."
 
 "Or proving them authentic."
 
@@ -44,7 +44,7 @@ Probably.
 
 "Perhaps mysticism was describing science we didn't have mathematics for yet."
 
-Müller's fingers started drumming again. Faster now. "You're asking us to stake Church credibility on wood fragments and quantum physics. On claims that consciousness can be preserved through love's intensity. On—"
+Ostermann's fingers started drumming again. Faster now. "You're asking us to stake Church credibility on wood fragments and quantum physics. On claims that consciousness can be preserved through love's intensity. On—"
 
 "On honesty," Bertoli said.
 
@@ -54,7 +54,7 @@ The drumming stopped.
 
 The room was quiet.
 
-Müller looked at the fragment for a long moment. Then he reached across the table and picked it up himself. Turned it in his hands. Set it back down.
+Ostermann looked at the fragment for a long moment. Then he reached across the table and picked it up himself. Turned it in his hands. Set it back down.
 
 Whatever he had felt or not felt, he kept to himself.
 
@@ -62,7 +62,7 @@ Whatever he had felt or not felt, he kept to himself.
 
 "Confirmed the coherence patterns. Yes."
 
-Müller's hands went flat on the table. "I want it on record that I retain significant doubts about the theoretical framework. The quantum mechanics as proposed has not been adequately explained."
+Ostermann's hands went flat on the table. "I want it on record that I retain significant doubts about the theoretical framework. The quantum mechanics as proposed has not been adequately explained."
 
 "Noted."
 
@@ -70,9 +70,9 @@ Müller's hands went flat on the table. "I want it on record that I retain signi
 
 "Also noted."
 
-Cardinal Sarah leaned forward. "Is there a vote in there, Gerhard?"
+Cardinal Sarah leaned forward. "Is there a vote in there, Heinrich?"
 
-Müller looked at the fragment once more. Something moved through his expression that Bertoli couldn't fully read — not conversion, and not capitulation. Something more like a man who had been given an argument he couldn't answer and had decided not to pretend otherwise.
+Ostermann looked at the fragment once more. Something moved through his expression that Bertoli couldn't fully read — not conversion, and not capitulation. Something more like a man who had been given an argument he couldn't answer and had decided not to pretend otherwise.
 
 "We vote tomorrow," he said. "After we've each spent tonight in prayer rather than debate."
 
@@ -156,13 +156,13 @@ Four cardinals around the table. One on video screen. The fragment resting betwe
 
 Nobody had spoken for three minutes.
 
-Cardinal Müller sat with his hands folded, fingers finally still after yesterday's drumming. His eyes kept returning to the fragment, then away, then back. As if he didn't trust what he'd seen but couldn't deny the seeing.
+Cardinal Ostermann sat with his hands folded, fingers finally still after yesterday's drumming. His eyes kept returning to the fragment, then away, then back. As if he didn't trust what he'd seen but couldn't deny the seeing.
 
 Cardinal Ouellet studied his notes without reading them. Cardinal Sarah prayed silently, lips moving soundlessly through what looked like the Jesus Prayer. Cardinal Tagle watched from Manila via secure connection, his face unreadable.
 
 Bertoli had read his statement aloud ten minutes ago. The words about institutional failure, about dual inheritance, about wood forgiving what they couldn't. The silence that followed had weight.
 
-Finally, Müller spoke: "You're asking us to admit the Church descends from both preservers and destroyers. From both saints and conspirators."
+Finally, Ostermann spoke: "You're asking us to admit the Church descends from both preservers and destroyers. From both saints and conspirators."
 
 "I'm asking us to tell the truth."
 
@@ -170,15 +170,15 @@ Finally, Müller spoke: "You're asking us to admit the Church descends from both
 
 "The full truth."
 
-Müller looked at the fragment again. "Last night, I prayed before that fragment for three hours. Asking God whether what I'd seen was real. Whether the glow was Divine sign or elaborate deception."
+Ostermann looked at the fragment again. "Last night, I prayed before that fragment for three hours. Asking God whether what I'd seen was real. Whether the glow was Divine sign or elaborate deception."
 
 "And?" Cardinal Sarah asked quietly.
 
-"And I received no answer. Just silence. Just the fragment resting in my hands, ordinary wood containing extraordinary implications." Müller met Bertoli's eyes. "I still have doubts, Alessandro. About the physics. About whether consciousness can truly be preserved through quantum mechanisms. About whether we're wise to make pronouncements on evidence this unprecedented."
+"And I received no answer. Just silence. Just the fragment resting in my hands, ordinary wood containing extraordinary implications." Ostermann met Bertoli's eyes. "I still have doubts, Alessandro. About the physics. About whether consciousness can truly be preserved through quantum mechanisms. About whether we're wise to make pronouncements on evidence this unprecedented."
 
 "Then vote your doubts."
 
-"I can't." Müller's voice dropped to whisper. "Because I also have faith. And faith admits that God's creativity might exceed my physics. That matter touched by infinite love might bear traces of that encounter through means my theology hasn't categorized yet."
+"I can't." Ostermann's voice dropped to whisper. "Because I also have faith. And faith admits that God's creativity might exceed my physics. That matter touched by infinite love might bear traces of that encounter through means my theology hasn't categorized yet."
 
 He reached out and touched the fragment with one finger. Withdrew his hand quickly.
 
@@ -194,13 +194,13 @@ Cardinal Ouellet nodded slowly. "I vote to proceed. With full scientific rigor. 
 
 All eyes turned to Bertoli.
 
-He looked at each of them in turn. At Müller's abstention bought with three hours of prayer and intellectual honesty. At Ouellet's measured support. At Sarah's faith that could hold both doubt and belief simultaneously. At Tagle's Asian wisdom that knew some truths required patience rather than certainty.
+He looked at each of them in turn. At Ostermann's abstention bought with three hours of prayer and intellectual honesty. At Ouellet's measured support. At Sarah's faith that could hold both doubt and belief simultaneously. At Tagle's Asian wisdom that knew some truths required patience rather than certainty.
 
 "Gentlemen," he said quietly, "we proceed. Not because we have proof. Not because we've eliminated every doubt. But because truth serves truth, and these fragments deserve investigation matching both their scientific significance and their spiritual implications."
 
 He picked up the fragment one more time. It was warm again—or maybe his imagination supplied warmth because hope demanded it.
 
-"Truth serves truth," Cardinal Müller echoed. His first agreement all morning.
+"Truth serves truth," Cardinal Ostermann echoed. His first agreement all morning.
 
 The vote was recorded. The decision made. The investigation that would either revolutionize Catholic archaeology or mark them all as fools susceptible to mystical delusion would continue under official Vatican authority.
 

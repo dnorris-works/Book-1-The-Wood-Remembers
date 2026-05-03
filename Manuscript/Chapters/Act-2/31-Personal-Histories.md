@@ -120,11 +120,11 @@ Sarah was quiet for a long moment. "I don't know what I am anymore."
 
 Father Kowalski waited. There was more weight in the silence than she'd accounted for.
 
-"There was someone," Sarah said, before she'd decided to say it. "Before Harvard. Before any of this." She kept her voice even, the way she kept her voice even when she was reading data she didn't yet know what to do with. "We were close. He was Catholic — serious about it, the whole life. And then he decided the Church was calling him and that I wasn't."
+"There was someone," Sarah said, before she'd decided to say it. "Before Harvard. Before any of this." She kept her voice even, the way she kept her voice even when she was reading data she didn't yet know what to do with. "We were close. He was Catholic — serious about it, the whole life. He read everything the same way he listened — like he was trying to receive it rather than get through it. I used to watch him at the kitchen table and think: he has no idea how rare that is. And then he decided the Church was calling him and that I wasn't."
 
 She picked up her water bottle. Set it back down without drinking.
 
-"He entered seminary." She looked at the olive wood cross in Kowalski's hand rather than at his face. "Daniel Reeves." A pause that had nothing comfortable in it. "I haven't heard from him since."
+"He entered seminary." She looked at the olive wood cross in Kowalski's hand rather than at his face. "Daniel Reeves." A pause that had nothing comfortable in it. "I picked up the phone a hundred times. I never called."
 
 She said it the way she'd name a city she'd once lived in and left. The way you named something when the naming was the only part you could manage. Father Kowalski, with the restraint of a confessor, did not press it.
 

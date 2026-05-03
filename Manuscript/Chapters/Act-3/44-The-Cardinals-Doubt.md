@@ -108,7 +108,7 @@ He returned to the laptop. Started typing.
 
 *The authenticated fragments of the True Cross bear witness to divine love that triumphed not only over death but over the institutional failures—including religious institutional failures—that made the crucifixion necessary.*
 
-Bertoli paused, reading it back. Hard words. Words that would make Cardinal Müller uncomfortable, that would require explanation in press conferences, that would spark debate in Catholic universities worldwide.
+Bertoli paused, reading it back. Hard words. Words that would make Cardinal Ostermann uncomfortable, that would require explanation in press conferences, that would spark debate in Catholic universities worldwide.
 
 But true words.
 

@@ -4,7 +4,7 @@
 
 The reply from the Congregation for the Doctrine of the Faith came faster than Bertoli expected, which told him the statement had been read at the highest level before the ink was dry.
 
-Cardinal Gerhard Müller called at six the following morning. Six o'clock meant the matter was serious. His voice was measured, which meant he was holding something back.
+Cardinal Heinrich Ostermann called at six the following morning. Six o'clock meant the matter was serious. His voice was measured, which meant he was holding something back.
 
 "Alessandro. The statement."
 
@@ -16,7 +16,7 @@ Cardinal Gerhard Müller called at six the following morning. Six o'clock meant 
 
 "Alessandro — "
 
-"Gerhard. Davidson's fractal encoding results have now been replicated independently by a team in Singapore who didn't know what they were looking for when they started. The coherence patterns are real. The encoding architecture is real. If we produce a statement calibrated to our institutional comfort rather than to the actual state of the evidence, we are not being prudent. We are being dishonest."
+"Heinrich. Davidson's fractal encoding results have now been replicated independently by a team in Singapore who didn't know what they were looking for when they started. The coherence patterns are real. The encoding architecture is real. If we produce a statement calibrated to our institutional comfort rather than to the actual state of the evidence, we are not being prudent. We are being dishonest."
 
 A longer pause. "The Holy Father will want to see you."
 
