@@ -144,7 +144,19 @@ Right: A daguerreotype Father Kowalski had found that morning—Hermann Vogel's 
 
 Two men. Three centuries apart. Both choosing silence when speech would have saved everything.
 
-"Your cousin Maria sent the Stanisław photo last night," Michael said, setting a cup of coffee beside her. "And I found Hermann's story in the Magdeburg diocesan records. Parish priest noted his death in 1659: 'Hermann Vogel, printer, died in poverty having never recovered from injuries sustained protecting sacred materials during the religious enforcement of the war years.'"
+"Your cousin Maria sent the Stanisław photo last night," Michael said, setting a cup of coffee beside her.
+
+She was looking at the name written on the back of the photograph. He saw her looking at it.
+
+"No relation," he said. "Half of South Poland is Kowalski. The diaspora put it everywhere."
+
+"I know," she said. "I just—" She set the photograph down. "Sorry."
+
+"Don't be. I thought the same thing the moment you said it." He sat across from her. "Different Kowalskis. Same country, three generations back. That's all it is."
+
+She nodded. The photograph was on the table.
+
+"And I found Hermann's story in the Magdeburg diocesan records. Parish priest noted his death in 1659: 'Hermann Vogel, printer, died in poverty having never recovered from injuries sustained protecting sacred materials during the religious enforcement of the war years.'"
 
 Sarah traced her great-grandfather's fingers on the photograph. "Hermann never knew if it was worth it. The priest's account says he died uncertain—faithful, but uncertain. Thirty years wondering if he'd made the right choice."
 
