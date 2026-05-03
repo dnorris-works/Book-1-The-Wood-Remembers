@@ -8,10 +8,6 @@ Sarah knelt in the back pew of St. Paul's, staring at the crucifix above the alt
 
 The Gothic architecture reminded her of Notre Dame's Basilica, where she'd attended daily Mass as an undergraduate. Back then, faith had seemed as natural as breathing. Now it felt like learning to breathe underwater.
 
-She thought about the moment that gap had first opened—graduate school orientation at Harvard, when Professor Williams had announced with casual authority that "religious faith represents a failure of intellectual courage." Twenty-two years old and desperate to belong among the academic elite, she had nodded along with everyone else, letting doubt creep in through the back door of pride.
-
-The years that followed had been a slow erosion. Not dramatic rebellion, just gradual drift. Christmas and Easter attendance became Christmas only, then Christmas with her parents, then nothing at all. Prayer became occasional, then desperate, then forgotten. The rosary her grandmother had pressed into her hands at graduation had migrated from nightstand to jewelry box to the bottom of her desk drawer.
-
 Until Jerusalem. Until the fragments had challenged every materialist assumption she'd built her career upon.
 
 "Struggling with something?"

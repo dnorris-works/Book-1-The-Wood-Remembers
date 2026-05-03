@@ -26,13 +26,11 @@ Sarah felt heat rise in her cheeks. She'd been away from the Church for years—
 
 "At Harvard?" Sarah's laugh was bitter. "I learned to stop believing in things that can't be killed."
 
-Father Kowalski set down his measuring tape and looked at her with the particular attention of someone who has learned to distinguish between questions people ask and questions people are actually asking."
-
-The memory hit without warning: *Babcia's* papery hand cupping her cheek during that last visit before graduate school. "Sarenka," the old woman had whispered, "faith is not about understanding everything. Faith is about trusting what you cannot understand."
+Father Kowalski set down his measuring tape and looked at her with the particular attention of someone who has learned to distinguish between questions people ask and questions people are actually asking.
 
 "But academia teaches the opposite," Sarah said, more to herself than to him.
 
-Father Kowalski set down his measuring tape. "Does it? Or does it teach us to understand better so we can trust more deeply?"
+"Does it? Or does it teach us to understand better so we can trust more deeply?"
 
 ## Professional Curiosity
 
@@ -97,9 +95,5 @@ Father Kowalski began packing his equipment with the efficiency of decades in th
 "How far beyond?"
 
 He paused. "If these fragments hold what I think they hold, we will need every instrument we have. And then some."
-
-As they carefully wrapped the fragments for transport, Sarah felt her grandmother's presence as clearly as if the old woman were standing beside her in the cave. *Faith is not about understanding everything,* the memory whispered. *Faith is about trusting what you cannot understand.*
-
-For the first time in years, Sarah thought she might be ready to trust.
 
 She kept her hand on the wrapping a moment longer, then stood and carried the fragments toward the light.
