@@ -64,13 +64,13 @@ Never read. Never named. The moment in Ch 25 when something passes through the w
 Prisca → Marcus (313 CE) → Matthias (614 CE) → Theophilus (726 CE) → Hermann Vogel (1629 CE) → Thomas (17th c.) → Marcus Webb → James Chen → Sarah Davidson → Daniel Reeves
 
 **Jessie:**
-Does not appear in Book 1. She exists — Sarah is already pregnant when Book 1's modern timeline begins — but has no page presence. Daniel is planted in Ch 31 (unnamed interior beat) and Ch 32 (“He entered seminary. Daniel Reeves. I haven’t heard from him since.”) but never appears directly. No reference to a pregnancy, a child, or a relationship in any Book 1 scene.
+Does not appear in Book 1. She exists — Sarah is already pregnant when Book 1's modern timeline begins — but has no page presence. Daniel is planted in Ch 31 (Personal Histories) — unnamed beat (“There was someone… We were close”) immediately followed by named reference (“He entered seminary. Daniel Reeves. I picked up the phone a hundred times. I never called.”) in the same scene. Kowalski does not press. He never appears directly. No reference to a pregnancy, a child, or a relationship in any Book 1 scene.
 
 ---
 
 ## 4. STORY ENTRY
 
-Book 1 opens in 87 BCE with the tree as a seed. Act 1 (Chs 1–26) is entirely tree POV. The modern timeline begins in Act 2 (Ch 27 onward) in December 2024 / January 2025.
+Book 1 opens in 87 BCE with the tree as a seed. Act 1 (Chs 1–25) is entirely tree POV. The modern timeline begins in Act 2 (Ch 27 onward) in December 2024 / January 2025.
 
 **What is true as the modern story opens (Act 2 / Ch 27 transition):**
 
@@ -115,7 +115,7 @@ Physicist. Sarah's co-investigator. Author of the quantum network hypothesis. Th
 The Vatican's long-view holder. Not an obstacle — a careful man. His dual-inheritance statement is the honest institutional reckoning the book builds to: *"We did not descend from the Sanhedrin. But we have, at moments in our own history, acted as they acted — choosing institutional preservation over the truth standing in front of us."*
 
 ### Daniel Reeves (planted — does not appear directly)
-Faith-and-science journalist. Former seminarian — entered seminary but left after less than a year (~9 months). Never ordained. Counseled out by spiritual director Father Thomas Malone: *"You are called to witness, not to administer."* Left Sarah four years before the Book 2 modern timeline (approximately four years before the Book 1 modern timeline ends) to enter seminary. She was expecting a proposal. She never told him she was pregnant. Wanted him to choose freely. Planted in Ch 31 (unnamed interior beat, third essential thing) and Ch 32 (named to Kowalski: "He entered seminary. Daniel Reeves. I haven't heard from him since." — not described as ordained, not read his work). Never appears on the page in Book 1.
+Faith-and-science journalist. Former seminarian — entered seminary but left after less than a year (~9 months). Never ordained. Counseled out by spiritual director Father Thomas Malone: *"You are called to witness, not to administer."* Left Sarah four years before the Book 2 modern timeline (approximately four years before the Book 1 modern timeline ends) to enter seminary. She was expecting a proposal. She never told him she was pregnant. Wanted him to choose freely. Planted in Ch 31 (Personal Histories) — unnamed beat (“There was someone… We were close”) followed immediately by named reference (“He entered seminary. Daniel Reeves. I picked up the phone a hundred times. I never called.”) — not described as ordained, Sarah does not know his current status. Kowalski does not press. Never appears on the page in Book 1.
 
 ---
 
@@ -170,14 +170,14 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 ## 8. CHAPTER OUTLINE
 
-### Act One — The Witness (Chs 1–26)
+### Act One — The Witness (Chs 1–25)
 *The tree's 120 years of life and the Crucifixion. Entirely tree POV.*
 
 | Ch | Title | POV | Timeline | Key Events |
 |----|-------|-----|----------|------------|
 | 1 | First Light | Tree | 87 BCE | The seed. Limestone crack in Judean hills. "I existed before I was a tree." Consciousness begins. |
-| 2 | The Guardian's Test | Tree | Early years | Miriam, Benjamin, Aaron. The branch curves to hold Miriam through the night. Stays curved. Pays off at the raising (Ch 20). |
-| 3 | The Encounter | Tree | ~29–30 CE | Jesus stops on the road, climbs the hill, places his hand on the bark. On the tree's hillside, in the morning. Not at Gethsemane (tree was never at Gethsemane — established explicitly Ch 14). |
+| 2 | The Guardian's Test | Tree | Early years | Miriam, Benjamin, Aaron. The branch curves to hold Miriam through the night. Stays curved. Pays off at the raising (Ch 19). |
+| 3 | The Encounter | Tree | ~29–30 CE | Jesus stops on the road, climbs the hill, places his hand on the bark. On the tree's hillside, in the morning. Not at Gethsemane (tree was never at Gethsemane — established explicitly in Ch 13). |
 | 4 | What the Touch Left | Tree | Following years | Change in the oil, hardening in the grain. The curved branch holds what everyone needs it to hold. |
 | 5 | The Pressure Builds | Tree | ~32–33 CE | Thomas bar-Judah — kneeling before dawn, refusing to flee. His execution. First martyr at this place. |
 | 6 | Sacred Eight | Tree | ~32–33 CE | The gathering and execution of eight people. Blood enters the roots. Closes on the olive oil running heavy and fragrant — physical, no interpretation. |
@@ -212,10 +212,10 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 | 27 | Sacred Preservation | Tree | 33–44 CE | Easter Sunday morning — the air shift before dawn, the women heard from the hill, the sound they made. The cross cut down. Consciousness scattering into eleven fragments. The dismemberment. "Which is how I survived." |
 | 28 | Scattered Consciousness | Tree | 1st century | Prisca — "The First Hands" — leads. The abstract centuries follow: hands, cold, stone, fire vibrations, prayer as "sustained attention." Closes: "I waited." |
 | 29 | Empire's End | Tree + human | 313 CE, Rome | Marcus the Roman soldier converted. His hands shaking when he takes the box. The Luke 23:34 thread: forgiveness paid forward into protection. Coda "The Same Hands": Marcus on evening patrol six months after conversion, using paperwork and rank instead of his gladius. Looks at his hands. "The same hands, doing different work." |
-| 31 | The Last Box | Sarah + tree | Dec 2024, Cambridge / historical | Sarah packing her Harvard office into three boxes. The sabbatical offer. Her colleague: "You're really doing this." Sarah: "Yes" and walking. Tree interludes: physical closes only. The box she carries has almost nothing in it — that is the weight she is carrying out. |
-| 31 | Second Light — Discovery | Sarah + tree | Jan 12, 2025, Jerusalem | Sarah and Kowalski in the cave beneath the City of David. The cedar box, linen intact, oil scent still present. Vatican Archive: Sarah reading Matthias's custody record alone. The marginal inscription: *LORD, I KEPT FAITH. I DON'T KNOW WHY.* It lands because she resigned two days ago. The full Matthias cistern scene (~1,500 words): June 614 CE, three days in darkness, footsteps overhead, the plain oak box overlooked. |
-| 32 | Personal Histories | Sarah + Kowalski | Jan 12, 2025, Jerusalem (afternoon) | Kowalski's El Salvador context. Father Garmendia's line. Sarah's father: Sunday afternoon, nine years old, kitchen table, the grain metaphor — "See how it comes back? It was always this good. It just needed someone to look for it." The Daniel Reeves plant: “He entered seminary. Daniel Reeves. I haven’t heard from him since.” — not described as ordained, Sarah does not know his current status. |
-| 33 | The Harvard Crisis | Sarah | Feb 2, 2025, Harvard | Professional fallout from the Rome sabbatical decision. Institutional pressure establishing what she is risking. *(Note: Dr. Park — tribunal character — named in five instances replacing earlier "Dr. Chen" to avoid collision with James Chen introduced Ch 36.)* |
+| 30 | Second Light — Discovery | Sarah + tree | Jan 12, 2025, Jerusalem | Sarah and Kowalski in the cave beneath the City of David. Cedar box, linen intact after two millennia, oil scent still present. Kowalski’s expression: not wonder exactly, more like a man confirming something he had half believed for a long time. |
+| 31 | Personal Histories | Sarah + Kowalski | Jan 12, 2025, Jerusalem (afternoon) | Kowalski’s El Salvador context. Father Garmendia’s line: *“God doesn’t need our certainty — He needs our faithfulness in the darkness.”* Sarah’s father: Sunday afternoon, nine years old, refinishing kitchen table, grain metaphor (“See how it comes back? It was always this good. It just needed someone to look for it.”). Daniel plant: unnamed beat (“There was someone… We were close”) followed immediately by named reference (“He entered seminary. Daniel Reeves. I picked up the phone a hundred times. I never called.”) — both in this chapter. Kowalski does not press. |
+| 32 | The Harvard Crisis | Sarah | Feb 2, 2025, Harvard | Professional fallout from Rome sabbatical decision. Institutional pressure establishing what she is risking. |
+| 33 | The Last Box | Sarah + tree | Dec 28, 2024 / Feb 18, 2025, Harvard | Patterson’s Sunday-morning call (Dec 28) alerting Sarah to grant reallocation. Harvard departure (Feb 18): Ellen Hartwick in doorway, three boxes, Kowalski’s call from the Vatican Archives naming Prisca, Hermann, Matthias. “You’re really doing this.” “Yes.” Brief Matthias inscription reference. Closes: “The box in her hands had almost nothing in it. That was the weight she was carrying out.” |
 | 34 | Reformation Fires | Tree + human | Feb 22, 2025, Rome / historical | Matthias cistern scene + Vatican Archive record + Theophilus icon discovery (Maria Gonzalez, Vatican Conservation Lab, forty-something conservator). Closes on espresso from the lab's Moka pot. |
 | 35 | Modern Silence | Sarah + Chen | Feb 25, 2025, Rome | Sarah and Chen debate methodology. Thomas Aquinas section. New tree scene "Different Hands": the tree registers the quality of the hands attending it has changed. Notes Sarah's hands returning each morning, steadier each time. Closes: "She is learning to receive what I don't know how to give." |
 | 36 | The Printer's Hands | Tree + human | Historical — 1629 CE, Magdeburg | The full Hermann Vogel scene. Soft knock, Father Dietrich, the cedar box, four soldiers and a captain, the deliberate breaking of the third finger, Lutheran neighbors saving the shop. Anna's question at age eight and again at deathbed. Hermann dying holding the rosary with crooked fingers. Tree POV close: physical weight, hands that held tight without ease. |
