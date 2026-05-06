@@ -381,3 +381,9 @@ Chen was quiet for a long moment, looking between the Summa and the spectral ana
 Outside the lab, Rome's evening bells rang.
 
 Sarah closed the Summa. Chen returned to his calculations. The data on the screens was unchanged — it would require the same explanations tomorrow that it required today. But something in the room had shifted, the way a room shifts when two people have stopped arguing past each other and started looking at the same thing.
+
+Before she left the lab that evening, Sarah checked her email. Webb had sent the weekly Cambridge status report — MEMORIA calibration current, baseline protocols running clean, no anomalies. His reports were always thorough, always on time. At the bottom of this one, beneath the data summary, was a single line he'd added without a subject change: *I saw the Skeptical Inquiry piece on quantum consciousness research. Hope things are holding together over there.*
+
+She started to type a reply, then stopped. Deleted it. He was being supportive. That was what it was.
+
+She closed her laptop and went to find dinner.

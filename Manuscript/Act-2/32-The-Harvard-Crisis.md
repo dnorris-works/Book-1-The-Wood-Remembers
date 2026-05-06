@@ -113,3 +113,17 @@ The ultimatum hung in the air like incense at a funeral Mass. Sarah looked aroun
 The meeting ended with handshakes that felt like condolences. Sarah walked back to her office through corridors that now seemed foreign, hostile. She didn't call anyone. She sat at her desk for a long time looking at the stack of analysis printouts she'd brought back from Jerusalem, and then she went home.
 
 Over the next few days she went through the motions. Answered email. Reviewed a graduate student's draft. Made coffee. Looked at the data — the quantum coherence maps, the molecular stress profiles, the numbers that were either everything or nothing — and thought about what it meant to stake a career on something you couldn't make other people see.
+
+On the third day, Marcus Webb knocked on her open office door.
+
+He was her best postdoc — the one who showed up early, stayed late, and caught errors before she did. Three years in the lab and he'd never once needed supervision that felt like supervision. She'd written his Stanford application letter herself, put real effort into it.
+
+"I heard about the meeting," he said. He didn't come in, just stood in the doorway with his hands in his jacket pockets, his expression the careful, measured kind that took some work to read. "I'm sorry they're doing this to you."
+
+"It's institutional risk management," Sarah said. "I can't blame them."
+
+Webb nodded slowly. "Sure." A pause. "I just — I want to make sure the lab is okay. While you figure out next steps. I can run the baseline protocols, keep the MEMORIA server maintained. You shouldn't have to think about that right now."
+
+She thanked him, and meant it. After he left she sat for a moment thinking there was something almost too careful in his sympathy — but she was exhausted and still half-numb from the tribunal and she let the thought go.
+
+She gave him full server access the following morning.

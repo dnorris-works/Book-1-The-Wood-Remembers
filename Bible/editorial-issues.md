@@ -21,7 +21,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 5 | Character Arc — Sarah's faith shown not told | 🔴 High | ✅ Done |
 | 6 | Character Arc — Kowalski has no present-tense arc | 🟡 Medium | ✅ Done |
 | 7 | Character Arc — Chen's transformation is off-page | 🟡 Medium | ✅ Done |
-| 8 | Antagonist — Webb introduced and resolved too fast | 🟡 Medium | Open |
+| 8 | Antagonist — Webb introduced and resolved too fast | 🟡 Medium | ✅ Done |
 | 9 | MEMORIA / AI — Self-modification thread unresolved | 🟡 Medium | Open |
 | 10 | Theology/Science Balance — Aquinas chapter too long | 🟡 Medium | Open |
 | 11 | Repetition — "Preservation through sacrifice" pattern over-named | 🟡 Medium | Open |
