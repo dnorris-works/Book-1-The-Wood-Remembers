@@ -128,6 +128,16 @@ She picked up her water bottle. Set it back down without drinking.
 
 She said it the way she'd name a city she'd once lived in and left. The way you named something when the naming was the only part you could manage. Father Kowalski, with the restraint of a confessor, did not press it.
 
+A few minutes later she excused herself and walked out to the cave entrance. Kowalski had been careful not to watch her go.
+
+The sun was lower than she'd realized, laying long orange light across the hillside. Jerusalem was visible below — the walls, the gold, the specific geometry of a city that had been standing here while everything else had come and gone. She sat down on a flat stone at the edge of the shade and looked at it.
+
+Her grandmother's rosary was still clipped to her kit. She unclipped it without quite deciding to, turned the worn beads in her fingers. The bone had been smoothed by Babcia's thumb through seventy years of prayer, and through Sarah's fingers now through — what. A year of carrying it without praying. Habit. Proximity. She didn't know what to call it.
+
+She didn't say anything. Didn't shape words. There was the rosary in her hands, and Jerusalem in the light, and inside the cave the fragments she had no category for yet, and underneath all of it something that felt — she searched for the honest word — like being addressed. Not by the city or the light or the fragments specifically. By something those things were part of that was larger than any of them.
+
+She sat with it for a few minutes. Then she clipped the rosary back to her kit and went inside.
+
 As afternoon shadows lengthened across the cave floor, Sarah felt her grandmother's influence more strongly than she had in years. *Babcia* had understood something about material objects carrying spiritual significance—not because of magic, but because of love.
 
 "Michael, can I ask you something?"
@@ -146,4 +156,4 @@ Sarah looked at the fragments one more time. "Then let's take them to Rome. Let'
 
 "Especially if it costs me everything." Sarah stood up, feeling something she hadn't felt in years—not certainty, but trust. "Because if *Babcia* and Dad taught me anything, it's that the things worth having are usually the things that cost everything."
 
-As they prepared to leave the cave, Sarah touched the rosary hanging from her kit. For the first time since graduate school, she said a prayer—not for answers, but for courage to live faithfully with whatever questions lay ahead.
+As they prepared to leave the cave, Sarah touched the rosary hanging from her kit. Whatever had happened on the stone outside, she found she was ready to go.

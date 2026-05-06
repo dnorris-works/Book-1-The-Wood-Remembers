@@ -106,9 +106,9 @@ Ellen left without another word.
 
 Sarah sealed the last box with packing tape, the ripping sound somehow final. She looked at her empty bookshelves, her naked walls, the small indentations in the carpet where her desk had stood for six years.
 
-Everything that could be packed was packed. Everything that mattered was in boxes marked for Rome.
+She wasn't sure afterward when exactly she'd gone to her knees. She became aware of it the way you become aware of silence — not at the beginning, only once it's been going on for a while. She was kneeling on the carpet between the empty desk and the packed boxes, her hands loose in her lap, not doing anything she would have called praying. No words. Just the empty room and the afternoon light and the specific quality of being at the end of something, and underneath all of that a presence she didn't have a name for that she had stopped pretending wasn't there.
 
-She picked up the box labeled "Essential"—just her grandmother's rosary and her father's photo—and walked out of her office for the last time.
+She didn't stay long. A minute, maybe two. Then she stood up, brushed her knees, and picked up the box labeled "Essential."
 
 The door closed behind her with a soft click. No ceremony. No farewell party. Just Sarah Davidson, former Harvard professor, walking down an empty hallway toward a future that quantum physics said was impossible and faith insisted was inevitable.
 
