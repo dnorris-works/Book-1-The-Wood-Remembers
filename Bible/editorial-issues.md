@@ -20,7 +20,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 4 | Pacing — Chapters 11–13 redundancy | 🔴 High | ✅ Done |
 | 5 | Character Arc — Sarah's faith shown not told | 🔴 High | ✅ Done |
 | 6 | Character Arc — Kowalski has no present-tense arc | 🟡 Medium | ✅ Done |
-| 7 | Character Arc — Chen's transformation is off-page | 🟡 Medium | Open |
+| 7 | Character Arc — Chen's transformation is off-page | 🟡 Medium | ✅ Done |
 | 8 | Antagonist — Webb introduced and resolved too fast | 🟡 Medium | Open |
 | 9 | MEMORIA / AI — Self-modification thread unresolved | 🟡 Medium | Open |
 | 10 | Theology/Science Balance — Aquinas chapter too long | 🟡 Medium | Open |

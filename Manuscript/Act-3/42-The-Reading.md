@@ -192,6 +192,48 @@ The quantum coherence held for twelve full seconds. Then collapsed—instantaneo
 
 Later, when Chen mapped the data frame by frame, he would find one instant inside those twelve seconds where the correlation values did not simply climb but — for a single frame, 0.003 seconds — went somewhere the instruments had no scale for. Then returned. The rest of the twelve seconds was extraordinary. That one frame was something else. He noted it in the log and did not yet know what to do with the notation.
 
+## The Frame
+
+Sarah left at half past two.
+
+Chen stayed.
+
+He told himself it was standard practice — you didn't leave active data processing unsupervised on Vatican servers, you closed the session properly, archived the logs, confirmed integrity across all three backup nodes. He had done all of that within twenty minutes. Then he sat back down.
+
+The frame was bothering him.
+
+He pulled up the raw data stream and began walking through it at one-tenth speed, watching the coherence values on the left monitor and the correlation architecture on the right. The twelve seconds of impossible coherence moved past him in slow procession — the spike, the structured encoding, the temperature anomaly, the acoustic signatures. All of it extraordinary. All of it, at least, *explicable in principle*, if not yet explained. Quantum network encoding. Extreme stress as encoding energy. Error-correction through molecular redundancy. The pieces were strange but they were pieces. You could hold them in your mind and rotate them and see how they might eventually fit into a framework, even if the framework didn't exist yet.
+
+Then he reached the frame.
+
+0.003 seconds. He paused playback.
+
+The coherence values hadn't simply climbed during that interval. They had left the scale. Not exceeded it — left it. The instrument logged the value as a string of nines followed by a notation his own calibration software had generated automatically: *measurement ceiling reached, actual value unknown.* He had written that ceiling himself, eighteen months ago, when he was configuring MEMORIA's detection parameters. He had set it at a level he considered physically unreachable. The kind of ceiling you built not because anything would ever touch it but because software required a boundary, and you put the boundary somewhere that seemed safely impossible.
+
+He stared at the notation for a long time.
+
+The twelve seconds were extraordinary because they exceeded what organic matter could do. He had frameworks for extraordinary, even if they were incomplete. But this frame exceeded what *he had imagined the universe could do*. That was a different kind of exceeding. That was the instruments reporting something from outside the boundaries of what physics had told him was available to report.
+
+He was a careful man. He did not use words like *impossible* lightly, having learned young that what physics called impossible it usually meant *not yet understood*. He had revised his vocabulary accordingly, years ago, in favor of terms like *anomalous* and *unexplained* and *beyond current theoretical frameworks*.
+
+He sat in the empty lab at three in the morning and found he had no vocabulary at all.
+
+After a while he wrote the timestamp in his notebook and next to it a single word, the most honest thing he could find: *unknown.*
+
+He closed the notebook. Closed the data stream. Sat with the lab's humming quiet for a minute, his hands flat on the bench, looking at nothing in particular.
+
+He was a physicist. He had built his entire adult life on the premise that what was real was what could be measured, described, and eventually explained. He had held that premise through twenty years of difficult data and had been right to hold it — it had led him here, to findings that were extraordinary and anomalous and beyond current frameworks but were still, all of them, findings. Evidence. Things the universe had done that could be written down.
+
+Except that frame.
+
+That frame was not a finding. It was an edge. The place where the instruments stopped speaking because they had nothing left to say.
+
+He didn't know if what was on the other side of that edge was God, or physics he hadn't been born into a world yet capable of describing, or something else entirely. He thought, sitting there in the quiet, that he might not know in his lifetime. He thought the honest position was to say so. He thought the dishonest position was to pretend the frame hadn't happened, or to file it as instrument error, or to build language around it that made it seem smaller than it was.
+
+He picked up his pen. Opened the notebook again. Added three words beneath *unknown*: *and that's enough.*
+
+He didn't know yet if he believed that. But he wrote it down, the way you write down the thing you're trying to move toward, and closed the notebook, and went to bed.
+
 The alarm finally stopped. In the sudden silence, Sarah could hear her own heartbeat.
 
 ## Learning to Be Okay with Mystery
