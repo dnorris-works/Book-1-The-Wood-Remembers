@@ -1,4 +1,4 @@
-# Chapter 45: Peer Review
+# Chapter 46: Peer Review
 
 ## The Congregation Responds
 

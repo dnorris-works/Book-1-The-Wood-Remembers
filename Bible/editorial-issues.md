@@ -19,7 +19,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 3 | Pacing — Chapters 6–8 redundancy | 🔴 High | ✅ Done |
 | 4 | Pacing — Chapters 11–13 redundancy | 🔴 High | ✅ Done |
 | 5 | Character Arc — Sarah's faith shown not told | 🔴 High | ✅ Done |
-| 6 | Character Arc — Kowalski has no present-tense arc | 🟡 Medium | Open |
+| 6 | Character Arc — Kowalski has no present-tense arc | 🟡 Medium | ✅ Done |
 | 7 | Character Arc — Chen's transformation is off-page | 🟡 Medium | Open |
 | 8 | Antagonist — Webb introduced and resolved too fast | 🟡 Medium | Open |
 | 9 | MEMORIA / AI — Self-modification thread unresolved | 🟡 Medium | Open |

@@ -1,4 +1,4 @@
-# Chapter 42: The Fractal Analysis
+# Chapter 43: The Fractal Analysis
 
 Three days later, Chen called Sarah back into the lab at seven in the morning without explaining why.
 

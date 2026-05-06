@@ -1,4 +1,4 @@
-# Chapter 46: Still Here
+# Chapter 47: Still Here
 
 ## Return to Jerusalem
 
