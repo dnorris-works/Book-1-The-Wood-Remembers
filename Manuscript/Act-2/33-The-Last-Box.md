@@ -100,11 +100,7 @@ Ellen was still watching from the doorway.
 
 "Or," Sarah said quietly, fitting the lid on the box containing her grandmother's rosary, "as the scholar who let science finally catch up to faith."
 
----
-
 *The box in her hands had almost nothing in it. That was the weight she was carrying out.*
-
----
 
 Ellen left without another word.
 
@@ -147,10 +143,6 @@ He looked at the box she was carrying. She could see him deciding whether to say
 "Yes." She shifted the box to her other hip and kept walking.
 
 He didn't follow.
----
-
 *She thought of Matthias writing his complaint into the custody record and then giving the fragments to the next pair of hands. She was doing the same kind of thing. The next pair of hands was Rome.*
-
----
 
 Sarah got in the car. The highway to Logan was gray and straight in the winter afternoon, and Rome was at the end of it, and she drove.

@@ -76,12 +76,9 @@ Tertius knelt beside him, this man whose brother Marcus had murdered, and put bo
 
 "He knows," Tertius whispered. "He knew before you did it. He knows, and He forgives."
 
----
-
 *His hands were shaking when he took the box. Not the slow tremor of age — the shaking that comes after a body has held itself rigid too long and finally lets go.*
 
 *I felt both: the grip, which was fierce, and the trembling beneath it.*
----
 
 Marcus didn't know how long he knelt there, but when the sobs finally subsided, his face was wet and his throat raw.
 
@@ -140,9 +137,6 @@ Finally, Marcus spoke: "Teach me. The prayers, the beliefs, all of it. I need to
 Tertius placed his hand over Marcus's where it gripped the box.
 
 "Then welcome home," he said. "Christ has been waiting for you."
-
-
----
 
 *Six months later his grip was different. Steadier. He was not carrying me — Tertius kept me in the chest behind the altar by then, which was the right arrangement — but I know what happened the way things that have been held long enough come to know: three men outside the church on the Caelian Hill one evening, the particular stillness of Marcus’s arrival, a voice that needed no weight behind it because the weight had moved inward.*
 

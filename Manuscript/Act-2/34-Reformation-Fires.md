@@ -146,8 +146,6 @@ He went inside and found his record book on the shelf where he'd left it. Added 
 
 He meant it as the truest account he had. He left it in the record because he couldn't think of anything more useful to say.
 
----
-
 *The hands that placed me in the dark were quick and certain. Pitch-stained, practiced, the hands of a man with work to do.*
 
 *The hands that carried me out were shaking.*
@@ -157,8 +155,6 @@ He meant it as the truest account he had. He left it in the record because he co
 *The city above had burned. The great relic had gone east.*
 
 *I had gone into the dark with a monk who was afraid and come out the other side.*
-
----
 
 She reached for a small tool, something between a scalpel and a spatula. "Watch."
 
@@ -195,8 +191,6 @@ Father Kowalski had been quiet for the last several minutes, just watching the f
 *The monk who had smashed Mary's face wrapped my splinters in that same blessed linen, hid them in the very frame his hammer had scarred.*
 
 *The tree does not argue. The tree waits.*
-
----
 
 Sarah looked up from the fragments to Maria's face. "This is the same pattern. Prisca hiding fragments during persecution. Matthias sealing them in caves during Persian conquest. Now this—an iconoclast concealing what he was ordered to destroy."
 

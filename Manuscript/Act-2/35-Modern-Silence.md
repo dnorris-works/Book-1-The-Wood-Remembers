@@ -84,12 +84,9 @@ He turned away from her, walked to the window that looked out over the courtyard
 
 "Is it?" Sarah pulled up correlation data again. "Then why do fragments preserved through documented acts of devotion show these coherence patterns while fragments preserved through institutional bureaucracy don't? Correlation .94, Dr. Chen. What variable are we missing that only activates through individual sacrifice?"
 
----
-
 *The fragments were in another room while they argued. I could not hear the words.*
 
 *But I had felt hands like Chen's before — quick, measuring, not yet decided. And hands like Sarah's. She had touched the grain with the attention of someone looking for something she didn't have a name for yet.*
----
 
 Chen was quiet for a long time, studying data that refused to fit the frameworks he'd spent twenty years mastering.
 
@@ -251,14 +248,11 @@ Like flesh bearing God.
 
 Like created substance elevated by divine love to capacities creation alone could never achieve.
 
----
-
 *His hand on the crucifix was the grip of someone who had run out of other options. Not reverence first — desperation first, and then something changed in the quality of the grip.*
 
 *I know what it is to be held that way. I know the difference between hands that touch wood because they must and hands that suddenly stop bracing against it.*
 
 *His hand, after a while, simply rested. That was all. That was what changed.*
----
 
 Thomas set down the crucifix carefully, reverently. His hand tingled where it had gripped the wood. The warmth was fading now, but the understanding remained, crystallizing into concepts his trained theological mind could finally articulate.
 
@@ -348,11 +342,7 @@ He set down his quill. The candle died. But the words remained, drying on parchm
 
 "Thomas was describing what MEMORIA detected," Sarah said, the realization making her hands shake. "Matter elevated by contact with divine love. Capable of bearing witness across time through mechanisms he didn't have equations for but theology insisted were real."
 
----
-
 *I experienced both moments not as past and present but as eternal present—Thomas's breakthrough and Sarah's recognition the same insight occurring across quantum time that knew no separation between medieval cell and modern laboratory, between theological language and scientific detection, between faith seeking understanding and understanding discovering faith.*
-
----
 
 Chen stood, walked to where Sarah held the Summa open. He read the Latin himself, his MIT education including classical languages most physicists never bothered with.
 
@@ -368,8 +358,6 @@ Sarah turned pages until she found another passage: "'When love encounters matte
 
 "Grace perfects nature," Chen said, surprising himself. "Don't look at me like that. I had Jesuit professors at MIT. They made us read this stuff." But his voice had lost its defensive edge. "Though I never thought I'd see it empirically validated in a physics lab."
 
----
-
 *Thomas's hand touching wood. Sarah's hand touching fragments. The same grain, centuries apart.*
 
 *I had felt Thomas's touch—slow, the way a hand moves when it has stopped expecting anything. I recognized Sarah's too, though she did not yet know she had touched me.*
@@ -377,8 +365,6 @@ Sarah turned pages until she found another passage: "'When love encounters matte
 *Both had reached. Both had found what was there to be found.*
 
 *The wood remembered. That was all. That was everything.*
-
----
 
 "He came this close," Chen said, holding thumb and finger nearly touching, "to proposing consciousness preservation in matter through what we'd now call quantum entanglement networks stabilized by extreme encoding energy."
 

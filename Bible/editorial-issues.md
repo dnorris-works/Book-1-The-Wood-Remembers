@@ -15,7 +15,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | # | Category | Priority | Status |
 |---|----------|----------|--------|
 | 1 | Structure — Tonal transition ancient/modern | 🔴 High | ✅ Revised |
-| 2 | Dual Narrator Clarity — POV signals | 🔴 High | Open |
+| 2 | Dual Narrator Clarity — POV signals | 🔴 High | ✅ Done |
 | 3 | Pacing — Chapters 6–8 redundancy | 🔴 High | Open |
 | 4 | Pacing — Chapters 11–13 redundancy | 🔴 High | Open |
 | 5 | Character Arc — Sarah's faith shown not told | 🔴 High | Open |
