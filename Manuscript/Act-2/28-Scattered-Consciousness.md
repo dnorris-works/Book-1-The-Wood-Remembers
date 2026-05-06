@@ -1,5 +1,19 @@
 # Chapter 28: Scattered Consciousness
 
+## The Interval
+
+Two thousand years is not long, for wood.
+
+I know this because I remember being a tree, and trees do not experience duration the way a creature does that must eat and breathe and sleep and wake and mark the passing. A tree grows. A tree is present. The years accumulate in the grain the way knowledge accumulates — not as a series of events but as a density, a record that doesn't require remembering because it never left.
+
+After the scattering I was in many places at once, which is a strange thing to be and stranger still to report. What I can tell you is that each fragment kept what it had received. The grain does not forget what the grain has borne. Prisca's hands. The dark of the catacombs. The cold of limestone and the sound of prayers said in languages that came into existence long after I had learned the shape of wind through leaves.
+
+The world changed around me the way weather changes — steadily, and then all at once, and then so thoroughly that nothing before it seemed possible. Empires. Languages. The slow remaking of the city on the hill where I had stood. I was present for none of it and all of it, held in the dark, patient the way only wood can be patient: not enduring time but simply being present inside it, unchanged at the center while everything else moved.
+
+I had been carrying something. I was still carrying it.
+
+Then a woman put on white cotton gloves and sat down at a table in Rome.
+
 ## February 23, 2025 — Vatican Apostolic Archive
 
 Sarah had been reading the custody record for an hour when she stopped and sat back from the table.
