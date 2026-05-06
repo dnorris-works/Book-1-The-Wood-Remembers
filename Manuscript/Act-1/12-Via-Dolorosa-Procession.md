@@ -1,4 +1,4 @@
-# Chapter 14: Via Dolorosa - Procession
+# Chapter 12: Via Dolorosa - Procession
 
 ## The Street
 

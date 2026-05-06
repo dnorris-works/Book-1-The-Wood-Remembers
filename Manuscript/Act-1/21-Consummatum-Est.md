@@ -1,4 +1,4 @@
-# Chapter 23: Consummatum Est
+# Chapter 21: Consummatum Est
 
 ## The Heartwood
 

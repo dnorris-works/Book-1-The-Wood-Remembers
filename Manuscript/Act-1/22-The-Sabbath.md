@@ -1,4 +1,4 @@
-# Chapter 24: The Sabbath
+# Chapter 22: The Sabbath
 
 ## Night
 

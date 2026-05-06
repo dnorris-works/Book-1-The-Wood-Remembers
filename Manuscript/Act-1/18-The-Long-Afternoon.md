@@ -1,4 +1,4 @@
-# Chapter 20: The Long Afternoon
+# Chapter 18: The Long Afternoon
 
 ## After the Dark
 

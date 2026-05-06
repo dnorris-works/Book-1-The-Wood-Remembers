@@ -1,4 +1,4 @@
-# Chapter 15: Via Dolorosa - Final Ascent
+# Chapter 13: Via Dolorosa - Final Ascent
 
 ## The Gate
 

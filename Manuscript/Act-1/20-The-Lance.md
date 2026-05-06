@@ -1,4 +1,4 @@
-# Chapter 22: The Lance
+# Chapter 20: The Lance
 
 ## Verification
 

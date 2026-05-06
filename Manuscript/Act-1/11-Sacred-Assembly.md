@@ -1,4 +1,4 @@
-# Chapter 13: Sacred Assembly
+# Chapter 11: Sacred Assembly
 
 ## The Weight
 

@@ -1,4 +1,4 @@
-# Chapter 16: Path of Redemption
+# Chapter 14: Path of Redemption
 
 ## The Ground
 
