@@ -1,4 +1,4 @@
-# Chapter 19: The Raising
+# Chapter 17: The Raising
 
 ## The Raising
 

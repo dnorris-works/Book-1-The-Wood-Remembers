@@ -1,4 +1,4 @@
-# Chapter 14: Divine Summons
+# Chapter 12: Divine Summons
 
 ## The Courtyard
 

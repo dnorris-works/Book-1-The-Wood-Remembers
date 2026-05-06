@@ -1,4 +1,4 @@
-# Chapter 11: The Waiting Cross
+# Chapter 9: The Waiting Cross
 
 ## The Yard
 

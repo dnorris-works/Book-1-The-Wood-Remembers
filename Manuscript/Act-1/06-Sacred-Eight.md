@@ -67,3 +67,47 @@ The children's stones were still in their circle at my base.
 The crosses were still upright on the hill above them.
 
 The olive oil from my bark ran heavier that season. Fragrant in a way that pilgrims paused to notice when the wind was right.
+
+## Two Kinds of Visitors
+
+Something changed in the people who came to my hillside after that.
+
+More of them came. They came at different hours, not just travelers resting in midday heat but people arriving before dawn and staying through the dark. They came in small groups that moved carefully and spoke in the lowered voices of people being watched. Sometimes they sang, quietly, in the register that carries more inward than outward. They came after him — the one whose footstep I had come to know on the road below, the specific even press and release of weight that settled the birds in my canopy rather than scattering them.
+
+The other kind of visitor began appearing around the same time.
+
+These were different in their bearing and in the way they moved across my hillside. They came in delegations rather than groups — a composed, official purposefulness about their arrival that I had learned over decades to associate with authority. They sat under me on the flat stones and their conversation had the cadence of things being coordinated: the back and forth of position and counter-position, the particular rhythm of a plan being assembled.
+
+The pilgrims and followers spoke with voices that climbed — wonder, argument, something like joy. The official visitors spoke with voices that went flat and horizontal, the sound of people who have decided and are now arranging. Where the followers lingered, these men moved efficiently and left.
+
+In the autumn of the thirty-second year a group arrived mid-morning: four soldiers and two men in civilian clothes whose bearing was still entirely military, carrying tablets and measuring instruments. They walked the perimeter of my hillside in a systematic pattern, noting positions, testing sight lines. One of them stood at my base and looked southeast toward the Temple Mount for a long time without moving.
+
+Then they sat under me and the conversation was the flat-voiced coordinating kind — the sound of logistics. Not the questioning voices of the followers. Pure arrangement. Schedule. Specification.
+
+By winter the two streams were meeting. The religious authorities came with greater frequency. The Roman assessors came with greater frequency. And then in the cold wet weeks before Passover they began arriving together — robed men and armored men sitting on the children's flat stones and talking with the specific evenness of people who have found an agreement and are now making it practical. Their voices did not waver. There was no argument in the cadence. Something had been decided between them and what remained was arrangement.
+
+The followers were still coming too.
+
+On an afternoon in the last weeks before Passover, both groups were on my hillside at the same time. The followers had come first, settling near my roots in the way they always did — backs against my trunk or cross-legged at the stone circle, voices low and serious. The delegation came up the south slope while they were still there, moving in their efficient deliberate way toward the flat stones under my lower branches.
+
+For a moment neither group spoke.
+
+I felt it pass through the air the way I feel the pause before a weather change — a stillness that was not ordinary stillness, a quality of attention turned suddenly outward. One of the followers, a young man I had seen many times before, raised his eyes as the delegation passed. He did not speak. He did not move. He only watched with a steadiness that was not defiance and not fear but something older than either, the look of someone who already knows how the story ends and has decided to be present for it anyway.
+
+The delegate who passed nearest to him did not look back.
+
+But he slowed.
+
+Only for a step — barely perceptible, the kind of hesitation that a man might not notice himself making. Then he kept walking, and the delegation reached the flat stones, and the followers bent their heads again and spoke quietly, and the hill held both groups in its ordinary afternoon light as if nothing had passed between them.
+
+Something had passed between them.
+
+He walked the road below less frequently now. I could always identify his step and had grown accustomed to its presence as a kind of calibration — when it appeared, the birds in my canopy settled. When it was absent there was nothing wrong exactly, only an ordinariness that felt ordinary the way a quiet house feels ordinary after music has been playing.
+
+The city below was filling toward Passover. Cart wheels and sandals and animals and the raised voices of families navigating crowds. Jerusalem pressing toward its walls.
+
+And on my hillside the brief confirmations of people whose plan is complete.
+
+My wood had finished its transformation. The heartwood was dense now in a way that had taken years. The grain was tight and dry and deeply saturated with the oil I had been pressing outward since the martyrs' blood came into my roots. I was as strong as I was going to get.
+
+I did not know what was coming. But the storm was nearly here.

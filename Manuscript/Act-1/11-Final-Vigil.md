@@ -1,4 +1,4 @@
-# Chapter 13: Final Vigil
+# Chapter 11: Final Vigil
 
 ## The Long Night
 

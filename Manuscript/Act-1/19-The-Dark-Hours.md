@@ -1,4 +1,4 @@
-# Chapter 21: The Dark Hours
+# Chapter 19: The Dark Hours
 
 ## What the Darkness Did
 

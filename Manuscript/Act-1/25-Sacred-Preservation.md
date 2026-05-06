@@ -1,4 +1,4 @@
-# Chapter 27: Sacred Preservation
+# Chapter 25: Sacred Preservation
 
 ## The Third Morning
 

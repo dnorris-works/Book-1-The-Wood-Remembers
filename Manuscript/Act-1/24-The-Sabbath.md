@@ -1,4 +1,4 @@
-# Chapter 26: The Sabbath
+# Chapter 24: The Sabbath
 
 ## Night
 
