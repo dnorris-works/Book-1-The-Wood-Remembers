@@ -1,4 +1,4 @@
-# Chapter 32: Personal Histories
+# Chapter 28: Personal Histories
 
 *January 12, 2025 — Jerusalem, afternoon*
 

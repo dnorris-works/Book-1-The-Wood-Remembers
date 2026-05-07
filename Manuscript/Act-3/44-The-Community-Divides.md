@@ -1,4 +1,4 @@
-# Chapter 48: The Community Divides
+# Chapter 44: The Community Divides
 
 *March 2026 — ongoing*
 

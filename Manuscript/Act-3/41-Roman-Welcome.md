@@ -1,4 +1,4 @@
-# Chapter 45: Roman Welcome
+# Chapter 41: Roman Welcome
 
 *March 5, 2025 — Pontifical Biblical Institute, Rome*
 

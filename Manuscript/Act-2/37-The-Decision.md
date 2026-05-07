@@ -1,4 +1,4 @@
-# Chapter 41: The Decision
+# Chapter 37: The Decision
 
 *February 18, 2025 — Cambridge, Massachusetts*
 

@@ -1,4 +1,4 @@
-# Chapter 35: Reformation Fires
+# Chapter 31: Reformation Fires
 
 ## Matter and Memory
 

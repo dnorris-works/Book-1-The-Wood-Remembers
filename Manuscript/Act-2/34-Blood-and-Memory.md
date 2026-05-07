@@ -1,4 +1,4 @@
-# Chapter 38: Blood and Memory
+# Chapter 34: Blood and Memory
 
 ## The Family Secret
 

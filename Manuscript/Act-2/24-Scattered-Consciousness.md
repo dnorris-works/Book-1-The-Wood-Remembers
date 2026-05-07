@@ -1,4 +1,4 @@
-# Chapter 28: Scattered Consciousness
+# Chapter 24: Scattered Consciousness
 
 ## The Interval
 

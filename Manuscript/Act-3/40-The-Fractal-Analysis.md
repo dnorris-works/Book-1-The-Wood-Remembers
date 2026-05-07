@@ -1,4 +1,4 @@
-# Chapter 44: The Fractal Analysis
+# Chapter 40: The Fractal Analysis
 
 *March 15, 2025 — Pontifical Biblical Institute, Rome*
 

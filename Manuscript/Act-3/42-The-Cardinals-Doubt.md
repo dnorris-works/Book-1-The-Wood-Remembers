@@ -1,4 +1,4 @@
-# Chapter 46: The Cardinal's Doubt
+# Chapter 42: The Cardinal's Doubt
 
 *March 8–9, 2025 — Vatican Apostolic Palace, Rome*
 

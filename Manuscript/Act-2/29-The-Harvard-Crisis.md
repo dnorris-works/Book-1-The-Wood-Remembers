@@ -1,4 +1,4 @@
-# Chapter 33: The Harvard Crisis
+# Chapter 29: The Harvard Crisis
 
 *February 2, 2025 — Cambridge, Massachusetts*
 

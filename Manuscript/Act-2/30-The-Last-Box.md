@@ -1,4 +1,4 @@
-# Chapter 34: The Last Box
+# Chapter 30: The Last Box
 
 ## The Letter That Was Already Written
 

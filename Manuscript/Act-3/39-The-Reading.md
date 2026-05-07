@@ -1,4 +1,4 @@
-# Chapter 43: The Reading
+# Chapter 39: The Reading
 
 *March 12, 2025 — Pontifical Biblical Institute, Rome*
 

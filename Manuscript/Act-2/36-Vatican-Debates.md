@@ -1,4 +1,4 @@
-# Chapter 40: Vatican Debates
+# Chapter 36: Vatican Debates
 
 *March 3–4, 2025 — Vatican Apostolic Palace, Rome*
 

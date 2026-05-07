@@ -1,4 +1,4 @@
-# Chapter 42: The Night Before
+# Chapter 38: The Night Before
 
 *March 11, 2025 — Pontifical Biblical Institute, Rome*
 

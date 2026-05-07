@@ -1,4 +1,4 @@
-# Chapter 31: Second Light (Discovery)
+# Chapter 27: Second Light (Discovery)
 
 *January 12, 2025 — Jerusalem*
 
