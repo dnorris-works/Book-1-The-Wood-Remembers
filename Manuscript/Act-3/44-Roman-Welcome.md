@@ -46,7 +46,21 @@ The question landed in the room and stayed there. Sarah had thought about this m
 
 "Decoding," she said. "Moving from structure to content. Reading what's stored rather than detecting that something is stored. We're nowhere near that. We may never be there. What we have is a structural argument that something was encoded — not what."
 
-Antonelli nodded slowly. He didn't look satisfied, but he looked like a man engaging honestly with an answer he hadn't expected her to give.
+Antonelli set down his pen. He looked at her for a long moment, not hostile now but not satisfied either — the look of a man who has heard a good answer and doesn't trust it precisely because it's good. "You're telling me you've detected the architecture of memory in two-thousand-year-old wood and your evidence for that claim is that you can't decode it."
+
+"I'm telling you that the structure is consistent with memory architecture and inconsistent with every alternative explanation I've been able to model. Including yours." She pulled up the supplementary data on her laptop and turned the screen toward him. "Your 2023 paper on decoherence in aged organic matrices — your own Hausdorff values for non-information-bearing cellulose cluster between 1.84 and 1.96. We're at 1.73. That's not baseline error. That's a different category of structure."
+
+Antonelli reached across and tilted the screen toward himself. He studied it for a moment. Tilted it back. "You used my paper to calibrate your anomaly threshold."
+
+"Yes."
+
+"You didn't cite it."
+
+"It's in the supplementary references. Footnote eleven."
+
+He found it. Read the footnote. Wrote something on his copy again — longer this time. When he looked up his expression had changed in a way she couldn't quite read: not won over, but rearranged. "The baseline problem is real," he said. "But I think you know that."
+
+"I do. I said so in the paper."
 
 Sister Mary Catherine spoke from the far end. "Dr. Davidson, I've worked in field archaeology for thirty years. Provenance is everything. Walk me through your chain of custody from excavation to analysis."
 

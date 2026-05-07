@@ -50,13 +50,9 @@ Bertoli stopped in the doorway. "You knew about that?"
 
 "Paul showed them to me once, years ago. He admired her." A small smile. "The apple doesn't fall far."
 
-Bertoli walked back through the apartments with the initialed statement in his jacket pocket, thinking about a woman who'd prayed through fascism and written letters to popes and never once asked whether her timing was convenient for the institution. He had looked up the family record once, not seriously, and found the habit went further back than his grandmother — back through Napoleon’s occupation, back through the Risorgimento, all the way to a fourth-century soldier who had looked at his own hands in a church on the Caelian Hill and decided what to do with them next. He added the paragraph about provisional findings in the car on the way back, dictating to his secretary. It took four minutes. The statement published at nine that evening.
+Bertoli walked back through the apartments with the initialed statement in his jacket pocket, thinking about a woman who'd prayed through fascism and written letters to popes and never once asked whether her timing was convenient for the institution. He added the paragraph about provisional findings in the car on the way back, dictating to his secretary. It took four minutes. The statement published at nine that evening.
 
-By midnight, his email had three hundred messages.
-
-He read none of them. He already knew what they said, divided between the people who thought he'd gone too far and the smaller number who thought the Church had needed to say this for fifty years. Both groups were probably right. That was usually how these things worked.
-
-He set his phone on his desk and went to pray.
+By midnight, his email had three hundred messages. He read none of them. He set his phone on his desk and went to pray.
 
 The fragments were where they'd always been. Waiting, patient, indifferent to institutional politics, carrying whatever they carried through whatever came next.
 
@@ -64,50 +60,96 @@ Bertoli knelt before the tabernacle and let the silence hold him.
 
 Some things you could only bring this far. The rest was not yours to control.
 
-## What the Physics Community Said
+## The Preprint
 
 The arXiv preprint went up on a Thursday. By Sunday it had nineteen thousand downloads and five hundred comments, which Chen showed Sarah on his phone when she arrived at the lab Monday morning still carrying her coat.
 
 "Read the hostile ones first," he said. "They're more useful."
 
-The hostile comments were thorough and, for the most part, technically serious. Three separate physicists challenged their statistical baseline for decoherence detection in lignin matrices. A condensed matter group in Copenhagen published a rapid rebuttal arguing that fractal signatures in aged biological cellulose were well-documented and implied no encoding mechanism. A science journalist with a large following posted a piece titled *Vatican Buys Physicist, Physics Suffers* that was shared eighty thousand times before noon and which Chen read with an expression Sarah had never seen on his face before — not anger, exactly, but the particular weariness of someone watching something be misunderstood in a way that could not be quickly corrected.
+The hostile comments were thorough and technically serious. Three separate physicists challenged their statistical baseline for decoherence detection in lignin matrices. A condensed matter group in Copenhagen published a rapid rebuttal arguing that fractal signatures in aged biological cellulose were well-documented and implied no encoding mechanism. A science journalist posted a piece titled *Vatican Buys Physicist, Physics Suffers* that was shared eighty thousand times before noon and which Chen read with the particular weariness of someone watching something be misunderstood in a way that could not be quickly corrected.
 
-The curious responses were fewer and more careful. A graduate student at Caltech had spent the weekend running the Hausdorff analysis on her own dataset of thirty historical wood samples and sent a note: none of her control samples produced fractal dimensions below 1.84. A biophysicist in Singapore flagged a paper on long-range quantum coherence in photosynthetic systems that suggested a mechanism Chen and Sarah hadn't considered. Dr. Hiroshi Tanaka at the Tokyo Institute of Technology sent a direct email, not a comment — three sentences, no pleasantries: *We have a fragment of different provenance showing similar encoding architecture. Different nodal count. Same class of structure. Can we talk?*
+Among the curious responses, Dr. Hiroshi Tanaka at the Tokyo Institute of Technology sent a direct email — three sentences, no pleasantries: *We have a fragment of different provenance showing similar encoding architecture. Different nodal count. Same class of structure. Can we talk?*
 
-Sarah called him that afternoon. The call lasted two and a half hours.
+## The Tokyo Call
 
-Tanaka's fragment had arrived through an entirely different chain — not the Judean caves but a reliquary in Kyoto, donated to a monastery in the fifteenth century, reportedly containing wood from a Crusader-era church built over a site venerated since Constantine. He had run the MEMORIA protocol as a methodological test without expectation and found a fractal dimension of 1.69. Not identical to their sample. Close enough that he had spent a week checking his instruments before calling anyone.
+Sarah called him that afternoon from the secondary lab, Chen present at his desk pretending to work on something else.
 
-"I haven't published," he said. "I wanted to confirm the methodology with you first. I don't want to be wrong about this."
+Tanaka was precise from the first sentence. His fragment had arrived through a reliquary in Kyoto, donated to a monastery in the fifteenth century, reportedly containing wood from a Crusader-era church built over a site venerated since Constantine. He had run the MEMORIA protocol as a methodological test — without expectation, he emphasized twice — and found a fractal dimension of 1.69.
 
-"Neither do I," Sarah said.
+"Not identical to yours," he said. His English was careful, each word placed. "But 1.69 is not 1.84. It is not 1.9. It is —" A pause. "It is in the same room as yours. That is not what I expected."
 
-They spent an hour comparing protocol parameters, disagreed on two of them, and agreed to rerun both analyses with a harmonized method before either published further. Chen, who had been listening from his desk, wrote 1.69 on a yellow note and stuck it to his monitor. It stayed there for months.
+"What did you expect?"
 
-## Peer Review
+"I expected to prove the protocol was detecting artifact. I have a reputation for this. My colleagues call me the Skeptic of Shibuya." A brief pause that might have been amusement. "I spent a week checking instruments before I contacted you. I did not want to be wrong in a direction I would regret."
+
+"Neither did I," Sarah said. "I spent six months in Jerusalem before I sent a single email to the Vatican."
+
+"Yes. I read the preprint carefully." A longer pause. "Dr. Davidson, I need to ask you something directly."
+
+"Go ahead."
+
+"Do you believe the fragments contain the consciousness of Christ?"
+
+The lab was quiet. Chen had stopped typing.
+
+"I believe they contain structured information consistent with witnessed traumatic experience," Sarah said. "I believe the encoding architecture exceeds anything I can explain through existing decoherence models. I believe the correlation with documented preservation history is .94 and not noise." She paused. "What I believe beyond the data — I hold separately from what I'm prepared to publish."
+
+A silence on the line. Then: "That is the correct answer. That is the only answer that keeps us both credible." Another pause. "I have not published. I wanted your methodology first. I don't want to make claims the data can't carry."
+
+"Neither do I."
+
+They spent the next ninety minutes comparing protocol parameters. Tanaka had run his calibration sequence differently at two points — not wrong, but different — and the discrepancy meant their Hausdorff values weren't directly comparable without harmonization. They disagreed about which harmonization method was appropriate. They argued it carefully, without heat, two people who both needed to be right about this and knew it.
+
+"Run it both ways," Tanaka said finally. "Publish both results. Let the community argue about the method. The anomaly survives either approach."
+
+"Agreed."
+
+Another pause. "Dr. Davidson. The fragment in Kyoto — when I held it during initial examination." He stopped.
+
+Sarah waited.
+
+"It was warm," he said. "I noted it in my lab log as a temperature anomaly. Ambient conditions could not account for it." His voice was very even. "I have not told anyone this."
+
+"I know," she said. "I understand."
+
+Chen, across the lab, wrote *1.69* on a yellow note and stuck it to his monitor without looking up.
+
+The call ended just before six. Sarah sat for a moment in the quiet lab, thinking about a physicist in Tokyo who had spent a week checking his instruments because he did not want to be wrong in a direction he would regret.
+
+"Same class of structure," Chen said from his desk.
+
+"Yes."
+
+"Different fragment. Different continent. Different chain of custody." He looked at the yellow note. "Same class of structure."
+
+Sarah pulled up the draft paper on her screen. They had eleven weeks of work ahead of them, and the work felt, for the first time, like it had company.
+
+## Eleven Weeks
 
 The full paper took eleven weeks to write.
 
 Not because the science was unclear — by week three Sarah could have written the methodology section in her sleep — but because every sentence in the discussion had to carry two conversations at once: one with physicists who needed decoherence timescales and confidence intervals, and one with anyone willing to consider what it meant that a tree had been holding a memory for two thousand years.
 
-*Nature Physics* assigned three reviewers. The first accepted with minor revisions within a week, calling the statistical methodology "unexpectedly rigorous." The second requested a full rebuild of the decoherence baseline using a different reference dataset, which required six additional weeks and produced results 3.1% different from the original. Chen considered this a vindication. Sarah considered it a month of lost sleep.
+*Nature Physics* assigned three reviewers. The first accepted with minor revisions within a week, calling the statistical methodology "unexpectedly rigorous." The second requested a full rebuild of the decoherence baseline using a different reference dataset, which required six additional weeks and produced results 3.1% different from the original. Chen considered this vindication. Sarah considered it a month of lost sleep.
 
-The third reviewer's report was fourteen pages and opened: *I am deeply skeptical of the conclusions presented here and expect to remain so.* It then proceeded to engage with every figure in the paper with precise technical care, identifying two genuine errors in the supplementary calculations, proposing four alternative interpretations of the fractal data, and ultimately recommending publication with major revisions on the grounds that "the question being asked is legitimate even if the answer proposed is premature."
+The third reviewer's report was fourteen pages and opened: *I am deeply skeptical of the conclusions presented here and expect to remain so.* It then proceeded to engage with every figure with precise technical care, identified two genuine errors in the supplementary calculations, proposed four alternative interpretations of the fractal data, and ultimately recommended publication with major revisions on the grounds that "the question being asked is legitimate even if the answer proposed is premature."
 
-Sarah and Chen spent three days writing the response. It ran twenty-one pages. They addressed every point. Where reviewer three was right, they said so and corrected it. Where they disagreed, they said that too, with full supporting argument and no diplomatic softening.
+Sarah and Chen spent three days on the response. Twenty-one pages. Where reviewer three was right, they said so and corrected it. Where they disagreed, they said that too, with full supporting argument and no diplomatic softening.
 
 Reviewer three accepted.
 
-The paper published on a Tuesday in March. The Pontifical Academy press office sent a one-line email: *We are pleased.* Cardinal Bertoli sent a handwritten note on Vatican stationery: *Your grandmother would have been insufferable about this.* She put both in the same desk drawer.
+## Tuesday
 
-## The Community Divides
+The paper published on a Tuesday in March.
 
-What followed over the next year was not consensus. It was something more interesting: real argument at scale.
+Sarah was in her office at the Institute — she had an office now, with a window onto the courtyard — when the confirmation email arrived at 9:14 AM. She read it twice. Forwarded it to Chen, whose response came back in eleven seconds: a single period. She understood this as the highest expression of emotion he was likely to produce.
 
-The physicists who had spent careers on decoherence theory were largely hostile, and their hostility was mostly earned. Several published papers arguing the MEMORIA results were artifacts of the detection method, that Hausdorff analysis was being applied beyond its validated domain, that fractal self-similarity in aged cellulose had precedent in entirely non-information-bearing contexts. Sarah and Chen took these seriously. They wrote three response papers. One of those responses conceded a point. They published the concession without being asked.
+Cardinal Bertoli's handwritten note arrived by messenger that afternoon, on Vatican stationery: *Your grandmother would have been insufferable about this.*
 
-The younger researchers divided in ways that proved more productive. A team at MIT ran the MEMORIA protocol on forty-seven historical wood samples — Egyptian coffin boards, medieval furniture, architectural remnants from demolished churches. Forty-one produced fractal dimensions between 1.83 and 1.96. Six came in below 1.8. Three of those six were fragments with documented histories of religious significance. The other three were a seventeenth-century Flemish altarpiece, a pre-Columbian carved figure from the Smithsonian collection, and a piece of anonymous oak from a demolished English chapel with no surviving records.
+She put it in the desk drawer beside the Pontifical Academy's one-line email: *We are pleased.*
 
-Dr. Priya Nair, who led the MIT team, published a careful paper that refused to overstate. She wrote: *We cannot explain these six anomalous values. We cannot explain why the anomalies cluster in objects associated with intense and sustained human devotion. We are not claiming that prayer alters quantum decoherence rates in organic matter. We are claiming that something we do not yet understand may be occurring, and that the MEMORIA protocol is precise enough to detect it. Further investigation is warranted.*
+She sat at her desk for a while, looking out at the courtyard where the fountain would run again in summer, and thought about a cave in Jerusalem and a monk who had sealed himself in the dark with three fragments and a custody book and the most honest sentence he could find. Thought about what it meant to publish evidence of something that couldn't be undone by whatever came next.
 
-The paper was cited two hundred and sixty times in six months. It moved more people than anything inflammatory might have, because it was the most honest thing anyone published on the subject, and readers could feel the honesty in it.
+It was out. Whatever it was, it was out.
+
+She went to find Chen. They didn't celebrate exactly — they bought terrible coffee from the machine in the hallway and stood in the courtyard in the March cold, and Chen said "hm" twice, which was something, and they stood there until the cold got unreasonable and then went back inside to work.
