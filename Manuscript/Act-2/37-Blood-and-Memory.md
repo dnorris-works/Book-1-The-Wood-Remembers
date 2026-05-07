@@ -140,9 +140,7 @@ Sarah laid the two photographs side by side on the archive reading table.
 
 Left: Stanisław Kowalski, 1953, black and white, his crooked fingers bent at impossible angles from rifle butts wielded by men who'd wanted him to betray where he'd hidden the Eucharist.
 
-Right: A daguerreotype Father Kowalski had found that morning—Hermann Vogel's printing press, photographed in 1843, long after his death. The wood scarred and abandoned, the shop that had never recovered, visual evidence of a choice made in 1629 that had echoed through poverty for thirty years.
-
-Two men. Three centuries apart. Both choosing silence when speech would have saved everything.
+Right: A daguerreotype Father Kowalski had found that morning—Hermann Vogel's printing press, photographed in 1843, long after his death. The wood scarred and abandoned, the shop that had never recovered.
 
 "Your cousin Maria sent the Stanisław photo last night," Michael said, setting a cup of coffee beside her.
 
@@ -166,47 +164,21 @@ Sarah traced her great-grandfather's fingers on the photograph. "Hermann never k
 
 "But he chose it anyway."
 
-"Yes." Sarah looked up from the photographs. "Why? Why choose suffering without vindication? Why protect fragments of wood or hidden hosts when doing so destroyed their families?"
+"Yes." Sarah looked up from the photographs. "Why? Why choose suffering without vindication?"
 
-Michael sat across from her, his Jesuit training evident in the careful way he considered the question. "What did you tell Dr. Chen yesterday? About why quantum coherence persists in your fragments?"
+Michael was quiet for a moment. "What did you tell Dr. Chen yesterday? About why quantum coherence persists in your fragments?"
 
 "That love might be a force physics hasn't quantified."
 
-"Exactly. And what's the theological term for that force?"
-
-Sarah was quiet for a moment, understanding where he was leading. "Grace."
-
-"Grace. The gift that makes impossible faithfulness possible. That enables ordinary people to make extraordinary choices not because they're heroic but because they encounter something that matters more than safety." Michael gestured at the photographs. "Hermann and Stanisław didn't want to suffer. They wanted normal lives, comfortable families, ordinary faithfulness without cost. But they encountered something—"
-
-"That they couldn't bear to betray."
-
-"Even when they wished it didn't matter so much." Michael's voice was gentle. "That's the pattern, Sarah. Not heroes seeking martyrdom. Ordinary people who touched something sacred and found they couldn't let go, even when letting go would have saved everything they thought they needed."
+"And Hermann and Stanisław didn't want to suffer. They wanted normal lives. But they encountered something they couldn't bear to betray. Even when they wished it didn't matter so much."
 
 Sarah stood, walked to the archive window overlooking Rome. February rain was starting, gray and cold.
 
-"The fragments survived because ordinary people made extraordinary choices," she said, echoing Michael's words from days earlier.
-
-"Or," Michael offered, "because they couldn't bear to betray what mattered, even when they wished it didn't matter so much."
-
-Sarah turned from the window. "That's what I'm facing, isn't it? Not heroic choice. Just inability to betray what I've encountered. The fragments. The evidence. The witness they carry."
-
-"Yes."
-
-"I could withdraw the Nature paper. Take Harvard's sabbatical offer. Wait until I have more data, more certainty, more institutional support."
-
-"You could."
-
-"But I can't." Sarah's voice hardened with recognition. "Because I've touched the fragments. I've felt the warmth. I've seen the quantum signatures. And now I'm part of the pattern—Prisca, Marcus, Matthias, Theophilus, Hermann, and now me. The chain continues whether I want it to or not."
-
-"I'm going to publish," Sarah said, the words carrying finality. "Full findings. Complete methodology. Theological implications included. Let Harvard object. Let the physics community debate. Let my career end if that's what happens."
+"I'm going to publish," she said, the words carrying finality. "Full findings. Complete methodology. Theological implications included. Let Harvard object. Let the physics community debate. Let my career end if that's what happens."
 
 "Why?" Michael asked, though his smile suggested he already knew.
 
-"Because Hermann couldn't tell the soldiers. Because Stanisław couldn't tell the Communist interrogators. Because Prisca and Matthias and all the others chose witness over safety, and now I'm holding what they preserved." Sarah returned to the table, placed her hand over both photographs. "I'm not braver than they were. I'm not more certain. But I've touched what they protected, and now I can't pretend I don't know. Can't suppress evidence because it's professionally inconvenient."
-
-"The chain continues."
-
-"The chain continues," Sarah said.
+She looked at the two photographs on the table — Hermann's ruined press, Stanisław's ruined hands. "Because I've touched what they protected. And now I can't pretend I don't know."
 
 Michael nodded. He didn't add anything. The photographs were on the table between them, and outside Rome's rain was starting, and there wasn't much left to say.
 

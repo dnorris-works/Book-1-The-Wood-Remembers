@@ -218,70 +218,24 @@ Even when empire and theology and terror all demanded their obliteration.
 
 Sarah's hands started shaking.
 
-Not a small tremor. Her whole body shook hard enough that she had to set down the fragment she'd been examining, had to grip the edge of the examination table to steady herself, had to sit before her knees gave out.
+Not a small tremor. Her whole body shook hard enough that she had to set down the fragment she'd been examining and grip the edge of the examination table to steady herself.
 
 "Dr. Davidson?" Maria's voice carried concern. "Are you well?"
 
-"I just—" Sarah stared at the fragments laid out on worn wood. At the hollow in the icon's backing where they'd been hidden for eight centuries. At Maria's calm face, at this woman who'd destroyed her family's most precious heirloom to reveal what it protected.
+Sarah stared at the fragments on their worn cloth. At the hollow in the icon's backing where they'd been hidden for eight centuries. At her own hands, which she did not yet trust.
 
-"Every single one," Sarah whispered. "Every fragment that survived—someone destroyed something else to save it."
+She looked at her bag where her Harvard resignation letter sat, signed and sealed.
 
-Maria waited, silent.
+"I need a moment," she said.
 
-"Prisca destroyed her safety. Buried the wood in catacombs and stayed to be martyred rather than flee." Sarah's voice was shaking now too. "Matthias destroyed his monastery life. Three days sealed in darkness, half-mad when they found him. Theophilus—your ancestor—destroyed this icon. Your mother's icon. Eight hundred years of family heritage, cut open, violated to hide splinters of wood."
+Maria waited, silent, the way a woman waits who has seen other people understand difficult things and knows not to interrupt the process.
 
-She looked at her bag where her Harvard resignation letter sat, signed and sealed, waiting to be mailed.
+Sarah pressed her hands flat against the table until they stilled. She looked at Theophilus's destroyed icon, at the frame he'd cut open, at everything he had dismantled to preserve what was inside. She thought about what kind of faith that required — not the faith of certainty, but the faith that destroys what you love because you believe something survives the destruction.
 
-"I destroyed my career. My reputation. Everything I built."
+Maria set two cups of espresso on the bench beside the examination table.
 
-"Yes," Maria said quietly.
+"Drink," she said. "Better to think with coffee."
 
-"The pattern isn't preservation." Sarah's realization came out like confession. "It's resurrection through death. Every fragment exists because someone died for it. Literally died or figuratively died. Gave up something that couldn't be recovered. Made sacrifice that cost everything."
+Sarah drank. The espresso was bitter and exactly right.
 
-Her hands were still shaking. She pressed them flat against the table.
-
-"Maybe the fragments require it. Maybe that's their nature—death embedded in every preservation. Maybe they can't survive except through people willing to destroy their own lives to protect them."
-
-The words hung in the lab's quiet. Outside, Rome traffic hummed at its midday register. Inside, centuries of sacrifice sat crystallized in wood fragments that had demanded everything from everyone who'd touched them.
-
-Maria reached across the table. Took Sarah's shaking hands in her own.
-
-"Like the Eucharist," Maria said softly. "Body broken so it can be shared. Death that becomes life only through the breaking. The fragments carry that pattern because they carry Him. And He was always about resurrection through death, wasn't He?"
-
-Sarah felt tears on her face without knowing when they'd started.
-
-"Yes," she whispered. "Yes, He was."
-
-Maria squeezed her hands once, then released them. Stood and began making tea, as if Sarah hadn't just articulated the theological pattern that made sense of twenty centuries of sacrifice, as if epiphanies requiring career destruction happened in this kitchen every day.
-
-Maybe they did.
-
-Maybe that's what it meant to guard fragments of the True Cross.
-
-Maybe breakthrough always cost everything.
-
-Sarah pulled out her phone. Took a photo of the fragments on Maria's table, the violated icon beside them, the pattern of death-leading-to-preservation made visible in wood and gold leaf and eight centuries of faithful destruction.
-
-Then she pulled the resignation letter from her bag.
-
-Looked at it for a long moment.
-
-Tore it in half.
-
-Not because she'd changed her mind about resigning. But because she'd already resigned the moment she chose to investigate the fragments honestly. The letter was just formality. The death had already happened.
-
-Now came the part where that death became resurrection.
-
-If the pattern held.
-
-If the fragments' nature was true.
-
-If resurrection through death wasn't just theology but physics, wasn't just spiritual metaphor but material reality written into wood that refused to forget what love required.
-
-Maria set two cups of espresso on the bench beside the examination table — the small Moka pot from the conservation lab's corner counter, the midday habit of the department.
-
-"Drink," she said. "The pattern continues with you or without you. But better with you, I think. Better if you live to see what your sacrifice produces."
-
-Sarah drank.
-
-The espresso was bitter and exactly right.
+Outside, Rome traffic hummed at its midday register. Inside, the fragments sat under the examination lamp, ordinary-looking, waiting for nothing.

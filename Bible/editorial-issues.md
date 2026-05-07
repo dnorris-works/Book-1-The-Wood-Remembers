@@ -24,7 +24,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 8 | Antagonist — Webb introduced and resolved too fast | 🟡 Medium | ✅ Done |
 | 9 | MEMORIA / AI — Self-modification thread unresolved | 🟡 Medium | ✅ Done |
 | 10 | Theology/Science Balance — Aquinas chapter too long | 🟡 Medium | ✅ Done |
-| 11 | Repetition — "Preservation through sacrifice" pattern over-named | 🟡 Medium | Open |
+| 11 | Repetition — "Preservation through sacrifice" pattern over-named | 🟡 Medium | ✅ Done |
 | 12 | Act 3 Compression — Climax is summarized not dramatized | 🔴 High | Open |
 | 13 | Ending — Too closed for Book 1 of a series | 🔴 High | Open |
 | 14 | Historical Chapters — Marcus/Tertius underused | 🟢 Low | Open |
