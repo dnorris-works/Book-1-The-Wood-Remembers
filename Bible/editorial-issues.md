@@ -27,7 +27,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 11 | Repetition — "Preservation through sacrifice" pattern over-named | 🟡 Medium | ✅ Done |
 | 12 | Act 3 Compression — Climax is summarized not dramatized | 🔴 High | ✅ Done |
 | 13 | Ending — Too closed for Book 1 of a series | 🔴 High | ✅ Done |
-| 14 | Historical Chapters — Marcus/Tertius underused | 🟢 Low | Open |
+| 14 | Historical Chapters — Marcus/Tertius underused | 🟢 Low | ✅ Done |
 | 15 | Timeline Clarity — 2025 chapter dates inconsistent | 🟢 Low | Open |
 
 ---
