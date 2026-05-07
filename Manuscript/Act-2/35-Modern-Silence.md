@@ -174,123 +174,33 @@ She is learning to receive what I don't know how to give.
 
 *1266 CE - Dominican Monastery, Naples*
 
-The candle had burned to a stub. Thomas Aquinas stared at it without seeing, his eyes so tired that the flame doubled and tripled in his vision. How long had he been sitting here? Vespers had rung hours ago. He'd missed them. Again.
+The candle had burned to a stub. Thomas Aquinas hadn't moved in hours.
 
-His stomach growled. The bread and cheese someone had left on his desk—Brother Dominic, probably—sat untouched, the cheese hardening in the night air.
+Ink stains covered his fingers. The parchment in front of him was a disaster — crossed-out lines, margins arguing with themselves, circular reasoning eating its own tail. The Eucharist problem: how infinite substance could subsist in finite matter without one destroying the other. Three weeks of circling. No answer that held.
 
-Thomas looked down at his hands. Ink stains covered his fingers like a scribe's stigmata. Black under his nails. Smeared across his right palm where he'd rubbed his face without thinking. The cost of wrestling with God through words that never quite contained what needed containing.
+He stood too quickly. The room spun. He steadied himself against the desk, his hand landing on something smooth and cool.
 
-The parchment in front of him was a disaster. Crossed-out lines. Marginal notes arguing with themselves. Circular reasoning chasing its own tail.
+The crucifix. Simple olive wood, a pilgrim's gift. He'd kept it on his desk for three years. Mostly forgot it was there.
 
-*How can infinite substance subsist in finite accidents without the infinite being diminished or the finite being destroyed?*
-
-The Eucharist problem. He'd been circling it for three weeks now, trying to explain how bread became Christ's body without ceasing to be bread in appearance, how divine essence could dwell in matter without either the divine being limited or the matter being obliterated.
-
-Every answer generated new questions. Every solution created new problems.
-
-Thomas crumpled the latest attempt, threw it toward the corner where a dozen other failures lay scattered. The parchment bounced off the wall, rolled under his prayer desk.
-
-"Infinite and finite cannot occupy the same space," he muttered, the Aristotelian principle he'd built his theology on now feeling like a prison. "Substance cannot be present without accidents corresponding to that substance. Divine transcendence cannot be contained in created matter without—"
-
-He stopped. His head throbbed. The doubled candle flame swam in his vision.
-
-Without what?
-
-Without being diminished, theology insisted. But if not diminished, then how present? If present, then how not contained? If not contained, then how truly present?
-
-His mind was eating itself. Forty-one years old, two decades of theological study, countless disputations won through precision of argument—and he couldn't explain the central mystery of his own faith in terms that satisfied both revelation and reason.
-
-Thomas pushed back from his desk, needing to move, to breathe, to escape the circular trap of his own brilliant mind. He stood too quickly. The room spun. When had he last eaten? Yesterday? The day before?
-
-He steadied himself against the desk, his hand landing on something smooth and cool.
-
-The crucifix.
-
-Simple olive wood, nothing ornate. A gift from his provincial superior who'd made pilgrimage to Jerusalem. Wood from the Holy Land, though whether it actually came from ancient olive groves or was just local timber sold to credulous pilgrims, Thomas had never asked.
-
-He'd kept it on his desk for three years. Prayed before it sometimes. Mostly forgot it was there.
-
-But now his fingers wrapped around it, and—
+But now his fingers wrapped around it, and —
 
 Warmth.
 
-Thomas's eyes snapped open. The crucifix wasn't warm. Olive wood didn't generate heat. But his palm insisted otherwise, insisted that warmth was pulsing from the grain, spreading up his arm, flowing into his chest like—
-
-Like recognition.
-
-Like something in the wood remembering his touch. Or something in his touch remembering the wood. Or—
-
-His mind suddenly cleared. The fog of exhaustion burned away. The candle flame steadied into single brilliance.
-
-And Thomas understood.
-
-Not in words. Not yet. Understanding came first as sensation, as certainty carried through his body before his intellect could catch up. His hand gripped the crucifix tighter, and the warmth intensified, and with it came an insight so obvious he couldn't believe he'd missed it:
-
-*The Incarnation had already solved the problem.*
-
-Infinite God had not been diminished by dwelling in finite flesh. Christ's human nature had not been destroyed by union with divine essence. The mystery wasn't how infinite could occupy finite—the mystery was that love made the question irrelevant.
-
-Divine love didn't shrink to fit created capacity. Divine love expanded created capacity to receive what it could never contain on its own merit.
-
-The bread didn't somehow stretch to hold God. God's love transformed the bread's capacity to bear divine presence beyond the bread's nature while preserving the bread's accidents—its appearance, its taste, its physical properties—because transformation served love's purposes rather than metaphysical necessity.
-
-Thomas's breath came faster. His other hand reached for fresh parchment, found his quill, dipped it in ink that had nearly dried in the hours of failed attempts.
-
-But the words wouldn't come yet. His body was still processing what his mind had just grasped. The warmth from the crucifix pulsed against his palm—steady, insistent, real—and he understood something else:
-
-This wood was teaching him.
-
-Not through words. Not through vision. Through touch. Through the physical experience of warmth that shouldn't exist but did. Through matter bearing presence that exceeded matter's natural capacity.
-
-Like bread bearing Christ.
-
-Like flesh bearing God.
-
-Like created substance elevated by divine love to capacities creation alone could never achieve.
+Not the warmth of wood held in a palm. Something rising from the grain. Spreading up his arm.
 
 *His hand on the crucifix was the grip of someone who had run out of other options. Not reverence first — desperation first, and then something changed in the quality of the grip.*
 
-*I know what it is to be held that way. I know the difference between hands that touch wood because they must and hands that suddenly stop bracing against it.*
+*I know what it is to be held that way.*
 
 *His hand, after a while, simply rested. That was all. That was what changed.*
 
-Thomas set down the crucifix carefully, reverently. His hand tingled where it had gripped the wood. The warmth was fading now, but the understanding remained, crystallizing into concepts his trained theological mind could finally articulate.
+Thomas understood. Not in words — in sensation first, the way a body knows something before the mind catches up. The warmth pulsed against his palm and the answer arrived whole: the Incarnation had already solved the problem. Love didn't shrink to fit created capacity. Love *expanded* created capacity. The question wasn't how infinite could occupy finite. The mystery was that love made the question irrelevant.
 
-He began to write.
+He reached for fresh parchment. Dipped a quill in ink nearly dried.
 
-Not the crossed-out failures of before. Not the circular arguments chasing impossibility. But clear, steady Latin that flowed from some source deeper than his exhausted intellect:
+His hand was shaking, but the first line came steady:
 
-*"Corpus Christi non est in hoc sacramento sicut corpus in loco... sed per modum substantiae."*
-
-The body of Christ is not in this sacrament as a body exists in a place, but by the mode of substance.
-
-His quill scratched across parchment. The words came faster now, revelation catching up to experience, theology finding language for what love had demonstrated through wood grain warming against trembling fingers.
-
-*"The principle of the Incarnation extends to the Eucharist: divine love assumes matter not by being contained within material limits, but by elevating matter's capacity to bear divine presence beyond nature's parameters while preserving the integrity of material properties."*
-
-Yes. That was it. The Incarnation as template. God becoming flesh hadn't meant God shrinking. It meant flesh being sanctified, elevated, transformed into vessel for what flesh alone could never contain.
-
-And the Eucharist—bread becoming body—followed the same principle. Not bread expanding impossibly, but bread being graced with capacity that love bestowed.
-
-Thomas's hand was cramping now, but he kept writing. The candle sputtered, nearly dead, but enough light remained.
-
-*"When divine love encounters created substance, transformation occurs not through natural capacity but through supernatural gift. Matter touched by divine love bears that touch forward, preserving presence through means that exceed material properties yet operate through material reality."*
-
-His quill paused. He read what he'd written, and something clicked into place that he wouldn't fully understand even as he wrote it—something about wood and memory, about matter preserving encounters with the divine, about physical reality bearing witness across time through mechanisms both natural and supernatural, both material and transcendent.
-
-The crucifix sat on his desk, ordinary olive wood catching dying candlelight.
-
-Thomas touched it again. The warmth was gone. Just cool wood under his ink-stained fingers.
-
-But the understanding remained. The breakthrough that had come through touch rather than thought, through matter teaching what mind had failed to grasp alone.
-
-He returned to his parchment, to the passage that would be copied and studied and debated for centuries, that a biblical archaeologist named Sarah would read in a Vatican laboratory while quantum physics detected what Thomas's theology had always insisted was true:
-
-*"Love transforms matter's capacity to bear the divine. Not by destroying matter's nature but by elevating matter's potential through grace that sanctifies created substance for purposes beyond natural capability. The wood of the cross bore divine and human natures united. The bread of the Eucharist bears that same Christ through love's continuing action, transforming without obliterating, elevating without destroying, making present without containing."*
-
-Thomas set down his quill. His hand shook with exhaustion. The candle died.
-
-He laid his head on his arms and did not try to say what it had been. The parchment held what could be said. The rest was just a man in the dark, his fingers still warm from touching wood that had taught him something he couldn't have learned any other way.
+*Corpus Christi non est in hoc sacramento sicut corpus in loco...*
 
 ## Seven Centuries, One Truth
 
