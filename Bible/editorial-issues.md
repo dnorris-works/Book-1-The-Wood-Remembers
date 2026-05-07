@@ -22,7 +22,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 6 | Character Arc — Kowalski has no present-tense arc | 🟡 Medium | ✅ Done |
 | 7 | Character Arc — Chen's transformation is off-page | 🟡 Medium | ✅ Done |
 | 8 | Antagonist — Webb introduced and resolved too fast | 🟡 Medium | ✅ Done |
-| 9 | MEMORIA / AI — Self-modification thread unresolved | 🟡 Medium | Open |
+| 9 | MEMORIA / AI — Self-modification thread unresolved | 🟡 Medium | ✅ Done |
 | 10 | Theology/Science Balance — Aquinas chapter too long | 🟡 Medium | Open |
 | 11 | Repetition — "Preservation through sacrifice" pattern over-named | 🟡 Medium | Open |
 | 12 | Act 3 Compression — Climax is summarized not dramatized | 🔴 High | Open |

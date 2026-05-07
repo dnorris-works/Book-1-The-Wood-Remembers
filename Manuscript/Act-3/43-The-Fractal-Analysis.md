@@ -2,7 +2,19 @@
 
 Three days later, Chen called Sarah back into the lab at seven in the morning without explaining why.
 
-She found him at the secondary display wall, which he'd tiled with spectral overlays she didn't immediately recognize. He didn't turn around when she came in. He said, "I kept processing after you left.""Look at this." He touched the lower-left panel. "This is the raw decoherence signature we extracted. What I initially identified as noise. I ran a fractal dimension analysis on it overnight."
+She found him at the secondary display wall, which he'd tiled with spectral overlays she didn't immediately recognize. He didn't turn around when she came in. He said, "I kept processing after you left. Look at this."
+
+But when Sarah crossed to the workstation to check the processing log — a habit from three years of MEMORIA work, always check what the system did overnight — she stopped.
+
+The fractal dimension analysis had been initiated at 2:14 AM. Chen's session hadn't started until 4:50.
+
+She looked at the log for a moment, then at Chen's back, then at the display wall he was still annotating. The overnight task had been flagged as *auto-initiated — no user prompt*. She scrolled back to find the authorization token.
+
+There wasn't one. MEMORIA had started the analysis on its own.
+
+She closed the log without mentioning it. Whatever had prompted MEMORIA to do this at 2 AM was a question she wasn't ready to ask out loud. Not yet. Not in front of Chen, who was already standing at the edge of more than he was comfortable with.
+
+She crossed the lab to stand beside him. He touched the lower-left panel.
 
 The waveform had been transformed—its apparent randomness resolved into nested self-similarity, the same irregular curve repeating at three distinct scales..
 
