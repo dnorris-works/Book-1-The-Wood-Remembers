@@ -1,4 +1,6 @@
-# Chapter 42: The Reading
+# Chapter 43: The Reading
+
+*March 12, 2025 — Pontifical Biblical Institute, Rome*
 
 ## Failed Twice Before
 

@@ -1,4 +1,6 @@
-# Chapter 39: Vatican Debates
+# Chapter 40: Vatican Debates
+
+*March 3–4, 2025 — Vatican Apostolic Palace, Rome*
 
 ## The Argument
 

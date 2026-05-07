@@ -1,8 +1,8 @@
-# Chapter 44: Roman Welcome
+# Chapter 45: Roman Welcome
+
+*March 5, 2025 — Pontifical Biblical Institute, Rome*
 
 ## The Commission
-
-*March 5, 2025 - Pontifical Biblical Institute, Rome*
 
 The commission met in a room that smelled of old paper and new carpet, which told Sarah something about the institution's priorities. Ancient manuscripts in the corridors, practical furniture in the working rooms. Cardinal Bertoli stood when she came in, which surprised her. So did three of the eight people around the table. The other five were already looking at their copies of her preprint.
 

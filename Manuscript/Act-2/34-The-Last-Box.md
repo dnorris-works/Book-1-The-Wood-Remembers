@@ -1,8 +1,8 @@
-# Chapter 33: The Last Box
+# Chapter 34: The Last Box
 
 ## The Letter That Was Already Written
 
-*December 28, 2024 - Cambridge, Massachusetts*
+*December 28, 2024 — Cambridge, Massachusetts*
 
 Patterson called at seven on a Sunday morning, which told her everything before he said a word.
 
@@ -28,7 +28,7 @@ She called Cardinal Bertoli's office from the airport two weeks later.
 
 ## The Last Box
 
-*February 18, 2025 - Harvard Divinity School, Cambridge*
+*February 18, 2025 — Harvard Divinity School, Cambridge*
 
 The office looked smaller empty.
 
@@ -120,7 +120,7 @@ Sarah had made her choice.
 
 ## The Long Walk
 
-*February 18, 2025 - Harvard Yard*
+*February 18, 2025 — Harvard Yard*
 
 The box wasn't heavy—just her father's photo, her grandmother's rosary, the Notre Dame mug—but Sarah's arms ached by the time she reached the edge of Harvard Yard.
 

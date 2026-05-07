@@ -1,4 +1,6 @@
-# Chapter 45: The Cardinal's Doubt
+# Chapter 46: The Cardinal's Doubt
+
+*March 8–9, 2025 — Vatican Apostolic Palace, Rome*
 
 ## Two A.M. in the Chapel
 

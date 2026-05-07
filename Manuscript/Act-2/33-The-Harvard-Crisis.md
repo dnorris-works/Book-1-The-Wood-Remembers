@@ -1,4 +1,6 @@
-# Chapter 32: The Harvard Crisis
+# Chapter 33: The Harvard Crisis
+
+*February 2, 2025 — Cambridge, Massachusetts*
 
 ## The Committee Meeting
 
@@ -21,8 +23,6 @@ Holloway nodded. Something in her expression went neutral — that particular st
 Sarah left the door open and walked back toward the elevator with her own cup, running through her opening remarks. She didn't look back.
 
 ## Academic Resistance
-
-*February 2, 2025 - Harvard University*
 
 The email had been waiting since 6 AM, its subject line like a blade to the heart: "Urgent: Department Meeting - Your Jerusalem Project."
 

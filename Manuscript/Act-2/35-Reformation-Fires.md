@@ -1,8 +1,8 @@
-# Chapter 34: Reformation Fires
+# Chapter 35: Reformation Fires
 
 ## Matter and Memory
 
-*February 22, 2025 - Vatican Conservation Laboratory, Rome*
+*February 22, 2025 — Vatican Conservation Laboratory, Rome*
 
 The conservation lab smelled of linseed oil and centuries. Sarah followed Father Kowalski through the climate-controlled space, past workbenches where restorers bent over manuscripts and paintings with tools that looked more surgical than artistic.
 

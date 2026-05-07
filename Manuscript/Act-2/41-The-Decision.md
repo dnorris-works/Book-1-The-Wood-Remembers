@@ -1,8 +1,10 @@
-# Chapter 40: The Decision
+# Chapter 41: The Decision
+
+*February 18, 2025 — Cambridge, Massachusetts*
 
 ## Personal Conviction
 
-*February 18, 2025 - St. Paul Catholic Church, Cambridge*
+*St. Paul Catholic Church*
 
 Sarah knelt in the back pew of St. Paul's, staring at the crucifix above the altar. Two weeks of morning visits, and still she wasn't ready to receive Communion—the gap between intellectual belief and spiritual surrender too wide to bridge with good intentions alone.
 
@@ -92,7 +94,7 @@ The decision was made. The real journey was just beginning.
 
 ## After the Leak
 
-*Early March, 2025 — Cambridge*
+*March 5, 2025 — Cambridge, Massachusetts*
 
 The apartment was a different apartment by then — same walls, same window, but the air in it had changed. Rome had receded into the flight she hadn't yet booked. The *Skeptical Inquiry* piece had run. The security report had been filed. Webb had been in her lab for three years and would not be in her lab again.
 

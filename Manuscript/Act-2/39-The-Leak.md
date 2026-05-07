@@ -1,6 +1,8 @@
-# Chapter 38: The Leak
+# Chapter 39: The Leak
 
-## Five Days Later — Cambridge
+## The Email
+
+*March 3, 2025 — Cambridge, Massachusetts*
 
 The subject line read: *Your MEMORIA Data in Tomorrow’s Issue — Skeptical Inquiry.*
 

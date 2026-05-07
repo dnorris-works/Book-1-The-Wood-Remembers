@@ -1,4 +1,6 @@
-# Chapter 43: The Fractal Analysis
+# Chapter 44: The Fractal Analysis
+
+*March 15, 2025 — Pontifical Biblical Institute, Rome*
 
 Three days later, Chen called Sarah back into the lab at seven in the morning without explaining why.
 

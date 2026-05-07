@@ -1,4 +1,6 @@
-# Chapter 47: The Community Divides
+# Chapter 48: The Community Divides
+
+*March 2026 — ongoing*
 
 What followed over the next year was not consensus. It was something more interesting: real argument at scale.
 

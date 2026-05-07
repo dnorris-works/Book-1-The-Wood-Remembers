@@ -1,6 +1,6 @@
-# Chapter 41: The Night Before
+# Chapter 42: The Night Before
 
-*March 11, 2025 — Pontifical Biblical Institute, Rome — 11:47 PM*
+*March 11, 2025 — Pontifical Biblical Institute, Rome*
 
 The email from Singapore had arrived at 4:15 that afternoon.
 

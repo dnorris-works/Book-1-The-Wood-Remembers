@@ -1,8 +1,8 @@
-# Chapter 35: Modern Silence
+# Chapter 36: Modern Silence
 
 ## The Equation of Love
 
-*February 25, 2025 - Vatican Physics Laboratory, Rome*
+*February 25, 2025 — Vatican Physics Laboratory, Rome*
 
 Chen finally set down his coffee, spread the printed sheets across the bench in what she suspected he believed was an organized fashion, and turned. His expression was the particular kind of controlled that takes effort to maintain. "Dr. Davidson. I've reviewed your MEMORIA data three times." A pause. "The coherence patterns you're detecting should not exist."
 

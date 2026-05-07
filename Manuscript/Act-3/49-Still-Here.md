@@ -1,4 +1,6 @@
-# Chapter 48: Still Here
+# Chapter 49: Still Here
+
+*Easter Sunday, April 5, 2026 — Jerusalem / Rome*
 
 ## Return to Jerusalem
 

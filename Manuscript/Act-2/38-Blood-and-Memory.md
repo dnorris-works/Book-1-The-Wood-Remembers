@@ -1,8 +1,8 @@
-# Chapter 37: Blood and Memory
+# Chapter 38: Blood and Memory
 
-## The Family Secret (Feb 25, 2025)
+## The Family Secret
 
-*February 25, 2025 - Sarah's Apartment, Rome - 8:47 PM*
+*February 25, 2025 — Sarah's Apartment, Rome*
 
 Sarah's laptop screen flickered, then resolved into Babcia's kitchen in South Bend. The same kitchen where Sarah had spent summers as a child, where the Polish parish calendar had hung on the wall for four decades, where three generations had gathered around a table her great-grandfather had built with his own hands.
 
@@ -134,7 +134,7 @@ Now Sarah knew it too.
 
 ## The Chain Continues
 
-*February 26, 2025 - Vatican Archives, Rome*
+*February 26, 2025 — Vatican Archives, Rome*
 
 Sarah laid the two photographs side by side on the archive reading table.
 

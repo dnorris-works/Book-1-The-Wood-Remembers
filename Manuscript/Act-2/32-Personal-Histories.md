@@ -1,8 +1,8 @@
-# Chapter 31: Personal Histories
+# Chapter 32: Personal Histories
+
+*January 12, 2025 — Jerusalem, afternoon*
 
 ## Sarah's Background
-
-*January 12, 2025 - Afternoon - Jerusalem Excavation Site*
 
 The afternoon heat had driven them deeper into the limestone cave, where centuries of Christian pilgrims had carved prayers into stone walls. Sarah sat on a camp stool, sharing her field lunch with Father Kowalski while the fragments rested safely in their protective case nearby.
 

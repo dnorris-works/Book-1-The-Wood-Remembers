@@ -1,4 +1,4 @@
-# Chapter 36: The Printer's Hands
+# Chapter 37: The Printer's Hands
 
 ## The Shopkeeper's Choice (1629)
 

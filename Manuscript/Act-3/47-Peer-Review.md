@@ -1,4 +1,6 @@
-# Chapter 46: Peer Review
+# Chapter 47: Peer Review
+
+*April 2025 — March 2026 — Rome*
 
 ## The Congregation Responds
 

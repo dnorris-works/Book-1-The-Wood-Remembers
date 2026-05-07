@@ -1,8 +1,8 @@
-# Chapter 30: Second Light (Discovery)
+# Chapter 31: Second Light (Discovery)
+
+*January 12, 2025 — Jerusalem*
 
 ## The Initial Find
-
-*January 12, 2025 - Archaeological Site, Jerusalem*
 
 She had come to Jerusalem anyway.
 
