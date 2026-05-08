@@ -30,6 +30,8 @@ What I read in the step was not peace. Or not only peace. Something more complex
 
 I held this. I added it to what I was already holding. I grew in the spring and slowed in the summer and put on another ring in autumn and waited for the thing that the pressure was building toward.
 
+In the autumn of that year the second kind of visitor became visible in a way that left no room for misreading. A group arrived mid-morning: four soldiers and two men in civilian clothes whose bearing was still entirely military, carrying tablets and measuring instruments. They walked the perimeter of my hillside in a systematic pattern, noting positions, testing sight lines. One of them stood at my base and looked southeast toward the Temple Mount for a long time without moving. Then they sat under me and the conversation was the flat-voiced coordinating kind — the sound of logistics. Not the questioning voices of the followers. Pure arrangement. Schedule. Specification.
+
 ## The Thirty-Second Year
 
 By the thirty-second year, Jerusalem had changed in ways I could read from my hillside.
