@@ -56,7 +56,7 @@ She let herself think it: *survivable*. For the first time since she'd walked th
 
 ## The Ultimatum
 
-"I've run the decoherence calculations." Park pulled up equations on his tablet. "Even with optimal conditions — near-zero temperature, completely isolated system — quantum coherence in complex organic molecules decays in microseconds. You're claiming preservation for two thousand years. That's sixty-three billion seconds. The theoretical objections aren't just significant, Sarah — they're devastating."
+"I've run the decoherence calculations." Park pulled up equations on his tablet. "Even with optimal conditions — near-zero temperature, completely isolated system — quantum coherence in complex organic molecules decays in microseconds. You're claiming preservation for two thousand years. That's sixty-three trillion seconds. The theoretical objections aren't just significant, Sarah — they're devastating."
 
 Sarah felt her stomach drop. "So you think I'm wrong?"
 
