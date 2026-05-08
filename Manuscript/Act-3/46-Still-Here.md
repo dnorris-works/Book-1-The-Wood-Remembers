@@ -1,4 +1,4 @@
-# Chapter 45: Still Here
+# Chapter 46: Still Here
 
 *Easter Sunday, April 5, 2026 — Jerusalem / Rome*
 
@@ -78,7 +78,7 @@ She took the job because Bertoli asked her to, and because she believed in the w
 
 The Institute occupied three floors of a building near the Vatican Museums that had previously housed an administrative archive. Her office looked onto a small courtyard where a fountain ran in summer. In winter the courtyard was gray stone and wet light and she liked it better that way.
 
-Bertoli came on Friday afternoons, usually without an appointment. He sat in the chair across from her desk and asked questions he'd been holding all week — *If the encoding nodes differ between fragments, can you reconstruct a composite account, or only parallel individual testimonies? When Tanaka says the Kyoto fragment's nodal structure suggests a different temporal window, what does that actually mean for what was experienced?* And once, near the end of the first year: *Do you think you'll ever be able to read it? Not map it. Actually read it.*
+Bertoli came on Friday afternoons. He scheduled the appointments himself, which in his diary meant they appeared in the margins between things — a habit his secretary had stopped questioning after the third week. He sat in the chair across from her desk and asked questions he'd been holding all week — *If the encoding nodes differ between fragments, can you reconstruct a composite account, or only parallel individual testimonies? When Tanaka says the Kyoto fragment's nodal structure suggests a different temporal window, what does that actually mean for what was experienced?* And once, near the end of the first year: *Do you think you'll ever be able to read it? Not map it. Actually read it.*
 
 She told him most of the truth: she didn't know. That decoding — moving from structure to content, from the architecture of memory to its meaning — was probably a generation's work, and might never be complete.
 

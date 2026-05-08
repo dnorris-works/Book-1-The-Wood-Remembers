@@ -4,6 +4,8 @@
 
 ## The Commission
 
+She had thought about Antonelli's face a hundred times since — the moment his assessment of her shifted, the writing on his copy that wasn't dismissive. The commission had been a week before the reading. It felt longer ago than that.
+
 The commission met in a room that smelled of old paper and new carpet, which told Sarah something about the institution's priorities. Ancient manuscripts in the corridors, practical furniture in the working rooms. Cardinal Bertoli stood when she came in, which surprised her. So did three of the eight people around the table. The other five were already looking at their copies of her preprint.
 
 Bertoli introduced the commission in the order he'd seated them: Dr. Antonelli from particle physics, who had published on quantum decoherence in biological systems and had been, Bertoli mentioned carefully, "initially skeptical of the MEMORIA methodology." Sister Mary Catherine from archaeological chemistry, who'd been in the field for thirty years and had the hands to prove it. Father Kowalski on video from Jerusalem, his connection slightly degraded. Four others whose names Sarah registered and whose faces she read quickly: two were waiting to be convinced, one had already decided, one was watching her rather than the preprint.
