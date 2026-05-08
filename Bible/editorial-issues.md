@@ -20,9 +20,9 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 4 | Act 1 — Generic section titles in chs 16–18 | 🟢 Low | ✅ Done |
 | 5 | Act 1 — Ch 21 veil moment slightly over-explained | 🟡 Medium | ✅ Done |
 | 6 | Act 2 — Ch 24 transition jolt inside chapter | 🟡 Medium | ✅ Done |
-| 7 | Act 2 — Ch 25/26 repeated closing line | 🟡 Medium | Open |
-| 8 | Act 2 — Ch 27 four sections orbiting same beat | 🔴 High | Open |
-| 9 | Act 2 — Father backstory told twice (chs 28 + 29) | 🟡 Medium | Open |
+| 7 | Act 2 — Ch 25/26 repeated closing line | 🟡 Medium | ✅ Done |
+| 8 | Act 2 — Ch 27 four sections orbiting same beat | 🔴 High | ✅ Done |
+| 9 | Act 2 — Father backstory told twice (chs 28 + 29) | 🟡 Medium | ✅ Done |
 | 10 | Act 2 — Ch 29 Holloway setup with no payoff | 🟡 Medium | Open |
 | 11 | Act 2 — Ch 30 flashback needs temporal framing | 🟢 Low | Open |
 | 12 | Act 2 — Ch 31 espresso close undercuts weight | 🟢 Low | Open |

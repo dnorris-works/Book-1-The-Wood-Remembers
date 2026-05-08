@@ -133,5 +133,3 @@ Eustace nodded, which was enough.
 *I do not carry his name in any record. He wrote nothing. What I carry is the quality of his hands — the fierce grip beneath the trembling, the decade-long steadiness that followed it. He was not a great man in the way that word usually applies. He was a man who discovered what he would not release and spent eleven years releasing nothing.*
 
 *That is enough. For wood, that is enough.*
-
-*The same hands. Different work.*
