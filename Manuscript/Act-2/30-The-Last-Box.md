@@ -50,7 +50,7 @@ Sarah set the frame in the box, glass-side up. Her own younger face smiled back 
 
 "Suggest. Exactly. You're interpreting anomalous readings as consciousness preservation because you want it to be true." Ellen's voice carried the exasperation of someone who'd had this argument too many times. "Your Catholic faith is clouding your scientific judgment."
 
-Sarah turned to face her mentor directly. "Or my scientific training is finally catching up to what faith has always known—that love leaves traces in the world. Physical, measurable traces."
+Sarah turned to face her mentor directly. She didn't answer.
 
 "You sound like a mystic, not a scholar."
 
