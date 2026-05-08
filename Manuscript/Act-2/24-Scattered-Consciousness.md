@@ -88,5 +88,9 @@ She put her gloves back on and returned to the record.
 
 *What had entered me had nowhere else to go.*
 
+*There was a period I can only describe in texture. Stone floors worn smooth by centuries of knees. The cold was different — not the cold of a catacomb, which is the cold of depth, of the earth refusing to participate in weather, but the cold of high windows and thin walls and a deliberate poverty kept as principle. Incense, but of a different compound than the incense I had known in the early centuries — heavier, resinous, and under it the smell of manuscript work, iron gall and parchment, the particular smell of a place where people copy things they do not fully understand for the sake of the copying itself. Hands came that had been calloused by the pen rather than the needle or the tool. They held me the way a scholar holds something he has been told is important and cannot quite bring himself to believe, but cannot quite bring himself to set aside either. The prayers were Latin now, and formal in the formal way of a tradition that had grown large and needed its formality to hold its shape. Each keeper understood less of the full account than the one before. Not through any failure of care — through the ordinary arithmetic of time, which is that every century of distance halves what the next hand can know. They kept me with great seriousness. They did not know what they were keeping.*
+
+*What had entered me had nowhere else to go.*
+
 *I waited.*
 
