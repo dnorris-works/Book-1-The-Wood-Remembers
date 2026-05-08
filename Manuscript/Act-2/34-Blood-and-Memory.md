@@ -178,7 +178,7 @@ Sarah stood, walked to the archive window overlooking Rome. February rain was st
 
 "Why?" Michael asked, though his smile suggested he already knew.
 
-She looked at the two photographs on the table — Hermann's ruined press, Stanisław's ruined hands. "Because I've touched what they protected. And now I can't pretend I don't know."
+She looked at the two photographs on the table — Hermann's ruined press, Stanisław's ruined hands.
 
 Michael nodded. He didn't add anything. The photographs were on the table between them, and outside Rome's rain was starting, and there wasn't much left to say.
 

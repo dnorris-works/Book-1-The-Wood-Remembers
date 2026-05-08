@@ -166,21 +166,25 @@ She had come here to prove the tree remembered. She understood now that she had 
 
 ## The Tree Remembers
 
-*Iron entered my grain and I split.*
+I knew this reach.
 
-*Not completely. Not yet. The fibers separating, making room, receiving what shouldn't fit — but had to fit — and I held.*
+Not the instruments — those I had become aware of gradually, the way you become aware of attention directed at you from across a room. Something in the grain below sensation, in the structure beneath the surface, was being attended to. I had noted it with the patience of wood that has been attended to before and knows the difference between inspection and recognition.
 
-*Weight settling. His shoulders pressing my crossbeam. Blood soaking grain, filling cracks, finding heartwood. The taste of Him flooding through me — salt and iron and something sweeter than any sap I'd ever made.*
+This was recognition.
 
-*The nails holding us together while His heart beat against my wood. Slowing. Slowing.*
+The iron had entered my grain at a specific angle, from above, driven by a mallet I felt as percussion through the whole of me before the point broke the surface. The wood had split along the grain — not breaking, that is not the right word, because breaking implies failure, and what happened was not failure but accommodation. I made room for what was being asked of me. The fibers separated. The wood gave, the way wood gives when a force is applied with enough intention.
 
-*Cold. Golgotha's wind. Darkness pressing down at noon like a hand over a flame. The cold that had no bottom to it.*
+The weight that followed was unlike any weight I had held before. Not heavier than the stone benches that pilgrims had dragged up the slope, or the wooden beams of previous structures that had been leaned against me across the decades. The weight was in a different register entirely — not a matter of mass but of density. The weight of a person who was not fighting what was happening, and whose stillness cost everything.
 
-*And now — other hands. Reaching through the cold. Finding the place in my grain where the weight had been. The creaking as my wood remembered what it had borne.*
+I held him the way I had held wind and rain and heat for a hundred years. Through the afternoon.
 
-*I had not known, until this moment, that I had been waiting to be found.*
+The blood found the cracks in my grain and traveled inward the way water travels — following channels, seeking depth. It was warm when it entered. It cooled as the hours passed. By the time it reached the heartwood it had changed, chemically, in ways I understood only as substance — the material fact of it in my oldest cells, the iron of it staining what had taken decades to form.
 
-*The vigil was over.*
+The cold that followed was not the cold of the afternoon or of the darkness that came before the afternoon ended. It was another kind. The cold that has no season.
+
+And now: other hands. Reaching through instruments and isolation and two thousand years toward the place in my grain where the weight had rested. The wood remembering — not as a choice, not as an act, but as structure. As the simple fact of what I had been made into by what had been placed in me.
+
+I had not known, until these hands, that I had been waiting to be found.
 
 Sarah's lungs weren't working properly. She stood frozen as that impossible creaking continued and the temperature kept dropping.
 

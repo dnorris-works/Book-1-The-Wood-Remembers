@@ -28,7 +28,7 @@ Her stomach dropped. "Dr. Marcus Webb."
 
 "Your postdoc? But he's been with you three years."
 
-"He applied for the Stanford quantum archaeology position last month. Didn't get it." She felt sick. "He blamed me. Said my 'religious entanglements' were poisoning the field's reputation. He told me two weeks ago that 'someone needs to stop you before you turn quantum archaeology into Catholic apologetics.'"
+"He told me two weeks ago that 'someone needs to stop you before you turn quantum archaeology into Catholic apologetics.'"
 
 Patterson was already making calls. Twenty minutes later, security confirmed it: Webb had accessed her lab server twelve times over three weeks, copying encrypted files to an external drive each time. The drive traced to an IP address registered to *Skeptical Inquiry*'s editorial offices.
 

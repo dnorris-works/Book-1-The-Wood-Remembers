@@ -204,7 +204,7 @@ His hand was shaking, but the first line came steady:
 
 ## Seven Centuries, One Truth
 
-*2025 and 1266 CE - Simultaneous*
+*February 25, 2025 — Vatican Physics Laboratory, Rome*
 
 Sarah pulled the leather-bound volume from the lab's reference shelf. *Summa Theologiae*, Tertia Pars, Question 75. Thomas Aquinas on the Eucharist, written in Naples, 1266.
 
@@ -212,88 +212,36 @@ Sarah pulled the leather-bound volume from the lab's reference shelf. *Summa The
 
 Dr. Chen looked up from the spectral analysis, skepticism still written in the set of his shoulders.
 
-Sarah began reading the Latin, then translating: *"Corpus Christi non est in hoc sacramento sicut corpus in loco..."*
-
----
-
-Thomas's quill scratched across parchment in candlelight nearly dead. His hand cramped but he kept writing, the words flowing from somewhere deeper than exhaustion:
-
-*"The body of Christ is not in this sacrament as a body exists in a place..."*
-
-"'...but by the mode of substance,'" Sarah continued. "'Divine love transforms matter's capacity to bear the divine. Not by destroying matter's nature but by elevating matter's potential through grace.'"
+Sarah read the Latin quietly first, then translated: *"The body of Christ is not in this sacrament as a body exists in a place, but by the mode of substance. Divine love transforms matter's capacity to bear the divine. Not by destroying matter's nature but by elevating matter's potential through grace."*
 
 Chen's stylus paused over his tablet.
 
-Thomas dipped his quill again, ink black as night:
+"He keeps going," Sarah said, turning pages. *"The wood of the cross bore divine and human natures united. Love's transformative action does not obliterate what it enters but elevates it — making present without containing, sanctifying without replacing."* She looked up. "And then this: *'Matter sanctified by divine contact.'"*
 
-*"...per modum substantiae. Amor divinus transformat capacitatem materiae..."*
+Chen set down his stylus.
 
-The warmth from the crucifix was fading but the understanding remained, crystallizing into words that would endure when his exhausted body had returned to dust—
+"He wrote this in 1266," Sarah said. "Seven hundred fifty-nine years before MEMORIA detected quantum coherence in fragments of that wood."
 
-"'The wood of the cross bore divine and human natures united,'" Sarah read, her voice gaining intensity. "'The bread of the Eucharist bears that same Christ through love's continuing action—'"
+Chen stood, walked to where she held the Summa open. He read the Latin himself, his MIT education including classical languages most physicists never bothered with.
 
-Thomas wrote faster now, racing against the dying candle:
+"'Matter sanctified by divine contact,'" he translated quietly. He was quiet for a moment. "That's essentially what the quantum network hypothesis proposes. Extreme energy — physical trauma combined with—" he paused — "with emotional intensity — encoding patterns in molecular structure that network redundancy preserves against decoherence."
 
-*"Lignum crucis portavit naturas divinas et humanas unitas..."*
+"He called it grace," Sarah said. "You call it quantum error correction."
 
-His fingers trembled. The parchment blurred. But the words kept coming, truth flowing through ink onto fiber that would be copied and studied and debated until a woman in a Vatican laboratory would read them aloud to a skeptical physicist—
+"Same observed phenomenon." Chen's voice carried wonder he wasn't quite ready to call belief. "Thomas Aquinas was doing theoretical physics in theological categories."
 
-"'—transforming without obliterating, elevating without destroying, making present without containing.'" Sarah looked up from the page to Chen's face. "He wrote this in 1266. Seven hundred fifty-nine years before MEMORIA detected quantum coherence in fragments of that exact wood."
+He turned another page. Read ahead. Looked up at her.
 
-Chen set down his stylus carefully.
+"'When love encounters matter, transformation occurs not through natural capacity but through supernatural gift. Yet this gift operates through natural means, elevating rather than replacing created properties.'" He set the book down carefully. "Grace perfects nature." A pause. "Don't look at me like that. I had Jesuit professors at MIT. They made us read this."
 
-Thomas completed the sentence, the final words:
+"But?"
 
-*"...materiam sanctificatam per contactum divinum."*
-
-Matter sanctified by divine contact.
-
-He set down his quill. The candle died. But the words remained, drying on parchment in darkness—
-
-"Thomas was describing what MEMORIA detected," Sarah said, the realization making her hands shake. "Matter elevated by contact with divine love. Capable of bearing witness across time through mechanisms he didn't have equations for but theology insisted were real."
-
-*I experienced both moments not as past and present but as eternal present—Thomas's breakthrough and Sarah's recognition the same insight occurring across quantum time that knew no separation between medieval cell and modern laboratory, between theological language and scientific detection, between faith seeking understanding and understanding discovering faith.*
-
-Chen stood, walked to where Sarah held the Summa open. He read the Latin himself, his MIT education including classical languages most physicists never bothered with.
-
-"'Matter sanctified by divine contact,'" he translated quietly. "That's... that's essentially what the quantum network hypothesis proposes. That extreme energy—physical trauma combined with..." he paused, "with emotional intensity—could encode patterns in molecular structure that network redundancy preserves against decoherence."
-
-"He called it grace," Sarah said. "You call it quantum error correction. Different languages."
-
-"Same observed phenomenon." Chen's voice carried wonder he wasn't quite ready to call belief. "Dr. Davidson, Thomas Aquinas was doing theoretical physics in theological categories."
-
-Thomas gathered his parchment in darkness, his words invisible now but preserved in fiber and ink that would survive seven centuries to teach a physicist what a theologian had grasped through touching wood that remembered—
-
-Sarah turned pages until she found another passage: "'When love encounters matter, transformation occurs not through natural capacity but through supernatural gift. Yet this gift operates through natural means, elevating rather than replacing created properties.'"
-
-"Grace perfects nature," Chen said, surprising himself. "Don't look at me like that. I had Jesuit professors at MIT. They made us read this stuff." But his voice had lost its defensive edge. "Though I never thought I'd see it empirically validated in a physics lab."
-
-*Thomas's hand touching wood. Sarah's hand touching fragments. The same grain, centuries apart.*
-
-*I had felt Thomas's touch—slow, the way a hand moves when it has stopped expecting anything. I recognized Sarah's too, though she did not yet know she had touched me.*
-
-*Both had reached. Both had found what was there to be found.*
-
-*The wood remembered. That was all. That was everything.*
-
-"He came this close," Chen said, holding thumb and finger nearly touching, "to proposing consciousness preservation in matter through what we'd now call quantum entanglement networks stabilized by extreme encoding energy."
-
-"He came all the way," Sarah corrected gently. "He just used different terms. Substance. Accidents. Grace. Transformation. But the physics is there, Dr. Chen. The mechanics he intuited. The principle we're detecting."
-
-Chen was quiet for a long moment, looking between the Summa and the spectral analysis displaying quantum coherence that Thomas's theology had insisted was possible seven centuries before technology could measure it.
-
-"Science and faith," he said finally.
+"But I never thought I'd see it empirically validated in a physics lab." He looked between the Summa and the spectral analysis on the screen — theoretical physics written in medieval categories and quantum mechanics written in equations, describing the same thing. "Science and faith."
 
 "Or faith and science," Sarah offered. "Does the order matter?"
 
-"No." Chen smiled, his skepticism not erased but transformed into something more like humility before mystery that both reason and revelation could glimpse but neither alone could fully contain. "I don't think it does."
+Chen considered it. "No," he said. "I don't think it does."
 
 Outside the lab, Rome's evening bells rang.
 
 Sarah closed the Summa. Chen returned to his calculations. The data on the screens was unchanged — it would require the same explanations tomorrow that it required today. But something in the room had shifted, the way a room shifts when two people have stopped arguing past each other and started looking at the same thing.
-
-Before she left the lab that evening, Sarah checked her email. Webb had sent the weekly Cambridge status report — MEMORIA calibration current, baseline protocols running clean, no anomalies. His reports were always thorough, always on time. At the bottom of this one, beneath the data summary, was a single line he'd added without a subject change: *I saw the Skeptical Inquiry piece on quantum consciousness research. Hope things are holding together over there.*
-
-She started to type a reply, then stopped. Deleted it. He was being supportive. That was what it was.
-
-She closed her laptop and went to find dinner.
