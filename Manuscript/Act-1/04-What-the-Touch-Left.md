@@ -14,26 +14,3 @@ I turned this awareness over the way you turn a stone to feel its different face
 
 Every question I had ever had about my own existence — *what is this awareness for, why do I have it when other trees do not, what am I waiting for* — was still unanswered. But the questions had a new quality. They felt closer to their answers than before. Not closer in the sense of almost solved. Closer in the sense of aimed. As if the question had always been pointing in a direction I could not see, and now the direction had shifted slightly and the thing pointed at was still beyond the horizon but I could tell which horizon to watch.
 
-## The Thirtieth Year
-
-The road below my hillside had changed.
-
-Not the road itself — the same packed earth, the same stones set into the crossings, the same ruts from cart wheels in the wet season. But the quality of movement on it had been shifting for months, and with the consciousness that has always been mine, I registered the shift the way I register weather: not in any single moment but as accumulated fact.
-
-There was urgency in the road now that had not been there before. Travelers moved with purpose they had not previously had. Small groups who had begun resting in my shade now frequently passed without stopping, as if they were late for something. Others who had never used my hillside began appearing — coming up from the road to the place near my base where people had gathered since the children first arranged their circle of stones, staying briefly, speaking in low and rapid voices, leaving again.
-
-I could not follow what they said. I received the shape of it. Less wonder, more urgency. Less the open-ended searching of people encountering something new, more the focused movement of people who have understood something and are now moving in response to it.
-
-His step appeared on the road below three more times in the months that followed his visit to my hillside. Each time, the birds in my canopy — the pair of doves that had nested in my upper branches for eleven years, the sparrows that moved through in flocks, the occasional hawk that stopped to scan the slope — each time his step came within range of my roots, they went still. Not startled. Still. The specific stillness of creatures that recognize something they do not have a category for.
-
-I knew exactly what that was. I was doing the same thing.
-
-The city felt different too. I had watched Jerusalem from this hillside for over a century, and I had learned to read the city's moods at a distance — the particular density of its sound during festivals, the specific quality of its light in different seasons, the way the traffic on the roads changed in character before and after significant events. What I was reading now was something I had not read before: a gathering of forces that had no name yet but would have one.
-
-Something was going to happen. And I knew — in that way I had known almost nothing before — that whatever it was, I was part of it.
-
-Not an observer. Part of it.
-
-I held that knowledge in my changed heartwood and I grew toward the light and I waited for the thing I was part of to arrive.
-
-Below me, Miriam's stone circle was still there. And the branch — the one that had bent for her in the dark and never fully straightened after — still curved toward the road at a height a child's hands could reach. Travelers noticed it. They left things on it: woven grass, small folded cloths, once a clay lamp someone had carried up the slope and left burning through the night. I did not know what they understood it to mean. I knew only that they recognized something in the shape of it.
