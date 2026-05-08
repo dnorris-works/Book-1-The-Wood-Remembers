@@ -12,9 +12,9 @@
 
 *I had been carrying something. I was still carrying it.*
 
-*Then a woman put on white cotton gloves and sat down at a table in Rome.*
-
 ## February 23, 2025 — Vatican Apostolic Archive
+
+A woman put on white cotton gloves and sat down at a table in Rome.
 
 Sarah had been reading the custody record for an hour when she stopped and sat back from the table.
 
