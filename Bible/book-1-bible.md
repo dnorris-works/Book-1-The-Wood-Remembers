@@ -19,7 +19,7 @@ This bible was compiled in April 2026 from the working outline (`book-1-The-Quan
 **Subtitle (KDP):** *A Novel: A Harvard Archaeologist Reads a 2,000-Year-Old Witness to the Crucifixion—and Must Choose Between Data That Makes Her Career and Testimony That Remakes Her*
 **Series field (KDP):** The Quantum Witness Series — Book 1 of 3
 **Series position:** Book 1 of 3
-**Genre:** Christian literary fiction
+**Genre:** Christian Suspense & Thriller / Religious Thriller
 **Status:** Published. 71,483 words. 46 chapters. AI-detector and continuity passes complete.
 
 **One-sentence summary:** *A Harvard archaeologist reads a 2,000-year-old witness to the Crucifixion and must choose between data that makes her career and testimony that remakes her.*
@@ -242,13 +242,13 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 ## 9. PUBLICATION & KDP METADATA
 
-**Publication status:** Published — D2D (all channels) and KDP Direct.
+**Publication status:** Published — KDP Direct / KDP Select.
 
 **Word count:** 71,483 (as of Session 25, pre-continuity pass; pass did not alter word count significantly).
 
-**Format:** eBook and print (5.5×8.5 trim, cream paper, matte cover). KDP Select explicitly rejected (D2D exclusivity conflict).
+**Distribution:** KDP Select (Kindle exclusive). KDP Select enrolled — term May 7–August 5, 2026. D2D distribution discontinued.
 
-**Pipeline:** Markdown → Pandoc (`--from markdown+smart`) → Vellum 4.1 → epub/PDF → D2D + KDP.
+**Pipeline:** Markdown → Pandoc (`--from markdown+smart`) → Vellum 4.1 → epub/PDF → KDP Direct only.
 
 **Vellum docx:** `Book-1-The-Quantum-Cross/publish/The-Quantum-Cross-Vellum.docx`
 
@@ -259,20 +259,19 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 **Imprint:** Deep Field Press
 
-**KDP categories (recommended):**
-- FIC042000 — Fiction / Christian / General
-- FIC019000 — Fiction / Literary
-- FIC042040 — Fiction / Christian / Futuristic *(secondary)*
+**KDP categories (confirmed):**
+- Kindle Books › Literature & Fiction › Contemporary Fiction
+- Kindle Books › Religion & Spirituality › Christian Books & Bibles › Christian Fiction
+- Kindle Books › Mystery, Thriller & Suspense › Thrillers
 
 **KDP keywords (7 slots):**
-*(Confirm before upload — not finalized in current files)*
-1. `olive tree testimony`
-2. `quantum consciousness novel`
-3. `archaeological faith thriller`
-4. `Christian literary fiction series`
-5. `sacred witness testimony`
-6. `Harvard archaeologist faith`
-7. `quantum archaeology`
+1. `quantum archaeology fiction`
+2. `Christian thriller Vatican`
+3. `faith and science novel`
+4. `religious artifact thriller`
+5. `Harvard archaeologist thriller`
+6. `consciousness and faith fiction`
+7. `crucifixion historical fiction`
 
 **Post-publication fixes applied:**
 - U+2060 Word Joiner stripped from all three epub variants (Generic, Kindle, Apple). Standing rule: scan every Vellum epub export before upload.
