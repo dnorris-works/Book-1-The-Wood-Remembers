@@ -16,7 +16,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 |---|----------|----------|--------|
 | 1 | Act 1 — Ch 4 redundant holding chapter | 🟡 Medium | ✅ Done |
 | 2 | Act 1 — Ch 5/6 structural overlap | 🟡 Medium | ✅ Done |
-| 3 | Act 1 — Levi continuity error in ch 8 | 🔴 High | Open |
+| 3 | Act 1 — Levi continuity error in ch 8 | 🔴 High | ✅ Done |
 | 4 | Act 1 — Generic section titles in chs 16–18 | 🟢 Low | Open |
 | 5 | Act 1 — Ch 21 veil moment slightly over-explained | 🟡 Medium | Open |
 | 6 | Act 2 — Ch 24 transition jolt inside chapter | 🟡 Medium | Open |

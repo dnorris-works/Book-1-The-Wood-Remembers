@@ -4,7 +4,7 @@
 
 He came up the slope alone the evening before, in the last hour of light, and I knew his step before I saw him.
 
-I had recorded it not long before, on the morning he walked away from my hillside and left Miriam and Benjamin at my roots. The specific weight of a man who moves with authority — not the authority of rank, though he had that, but the authority of a person who has decided what everything is for before he arrives at it. Decimus Varro. Centurion. The man who had tied Levi to my trunk and the man who had ordered the soldiers down the hill when there was nothing left to do.
+I had recorded it not long before, on the morning he walked away from my hillside and left Miriam and Benjamin at my roots. The specific weight of a man who moves with authority — not the authority of rank, though he had that, but the authority of a person who has decided what everything is for before he arrives at it. Decimus Varro. Centurion. The man who had stood at my base the previous autumn and looked southeast toward the Temple Mount for a long time without moving, while his men took their measurements and noted their positions.
 
 He stood at the edge of my shade and looked at me the way he had looked at me before: not at a tree but at a problem that had not yet been solved to his satisfaction.
 
