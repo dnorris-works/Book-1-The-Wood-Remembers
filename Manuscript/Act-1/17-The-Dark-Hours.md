@@ -1,7 +1,5 @@
 # Chapter 17: The Dark Hours
 
-## What the Darkness Did
-
 It did not come the way night comes.
 
 Night arrives from the east, the shadow of the world rolling in slow and predictable, the stars uncovering one by one as if they had been waiting. This came from everywhere at once. The shadows on my bark did not lengthen — they dissolved. The light did not fail gradually. It withdrew, the way a held breath withdraws before the cry.
@@ -15,8 +13,6 @@ The temperature dropped. Not slowly, the way it drops in the late afternoon when
 He was still breathing. I counted the intervals in the dark the way I had counted them in the light — by the shift of weight on my crossbeam, the small mechanical effort of push and rise. Slower now than before the dark came. But present.
 
 I held him in my wood and I held the dark around him.
-
-## The Silence
 
 The silence had texture.
 
@@ -32,8 +28,6 @@ The soldiers had stopped moving entirely. Some had sat down. One leaned against 
 
 Nothing explained this.
 
-## The Cry
-
 He had been silent for so long that when his voice came I felt it in my wood before I heard it.
 
 A gathering of breath — longer, harder than any since the dark arrived. The push against the nail in his feet. The full effort of his chest. And then sound, not words yet, a sound that came from deep enough in him that it seemed to come from somewhere below the voice, from the place in a person where language has not yet separated itself from the thing it is trying to say.
@@ -47,8 +41,6 @@ The sound of his voice had been — I had no word for it then, and I had no word
 The wind came then, for the first time since the darkness arrived. Only a movement, barely enough to stir the shawl of the woman nearest my base, but I felt it in my leaves and it carried the smell of rain from far off, from somewhere beyond the hills.
 
 He said nothing more after that for a long time.
-
-## The Return
 
 The light came back the way it had gone — all at once, not gradually.
 

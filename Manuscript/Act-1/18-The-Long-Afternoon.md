@@ -1,7 +1,5 @@
 # Chapter 18: The Long Afternoon
 
-## After the Dark
-
 The light came back the way it had gone — not gradually, not with the slow brightening of cloud cover clearing, but as a fact: present when it had not been present a moment before. The crowd made a sound I hadn't heard from them all day. Not mockery, not weeping — something that had no good name. The sound of people who had been standing in the dark for three hours and now found themselves in full afternoon light and didn't know what to do with either.
 
 Many of them left.
@@ -18,8 +16,6 @@ Each breath was an effort I could measure through the wood. The push against the
 
 The blood from his wrists had darkened in my grain, moving from red toward brown in the lines where it had followed the wood. The warmth of it was less than it had been.
 
-## The Soldiers
-
 The soldiers had settled into the long patience of extended assignments. Two of them sat on the stone some distance from my base doing something with their hands — dicing, I thought, from the sound. One stood watching the crowd. The centurion who had been in charge of the detail walked the perimeter at intervals, stopped, looked up at what I held, walked on.
 
 His face when he looked up was not the face from earlier in the day. These men were trained against readable expressions. But I had watched human faces from my hillside for over a century and I knew the difference between a man performing indifference and a man who had arrived at something he hadn't expected to arrive at. The centurion was not indifferent.
@@ -31,8 +27,6 @@ From the city the sounds of Passover preparation came up the slope in pieces: vo
 The women at my base had not moved.
 
 I had been aware of them all day, their nearness, the specific stillness they held. Now in the returned light I was aware of them differently — not just as presences but as a fact about this afternoon. They had decided that being here was itself what they had to do, and they were doing it completely.
-
-## The Descent
 
 His shadow fell toward the east as the sun declined. The shadow of the crossbeam lay across the stone in a shape I recognized as my own, the shape I had been made into, thrown flat against the pale rock.
 

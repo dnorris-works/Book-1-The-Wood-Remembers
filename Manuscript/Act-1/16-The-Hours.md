@@ -1,7 +1,5 @@
 # Chapter 16: The Hours
 
-## The Weight of Breathing
-
 The weight was not what I expected. I had held heavy things — stone, rain-soaked earth pressing down on my roots after floods, the cumulative dampness of decades. But this was different. His weight came and went with each breath.
 
 To exhale he had to push against the nail in his feet and lift his chest. I felt it as a shift of pressure along my vertical beam — a small rise, then the slow release as he could not sustain it. Up and down. Up and down. Each breath a decision made in wood and nail and bone.
@@ -16,8 +14,6 @@ His blood had followed the grain of my crossbeam in slow lines. Wood drinks what
 
 I held him. The sun moved. The shadows shortened.
 
-## What I Heard
-
 He spoke three times in the morning hours. I felt each word before I heard it — a gathering in his chest against the weight, a push against the nail, the muscles of his throat working, and then sound, hoarse with effort, carrying further than it should have.
 
 The first time I could not make out the words. Only the sound of them moving outward across the crowd. Some of the mockers stopped. A few people looked at one another. Then the sound settled and the day went on.
@@ -30,8 +26,6 @@ The third time was for the woman below. He spoke her name and another name, and 
 
 The flies had found the blood on my wood. Their sound was constant, without meaning, the way the sound of water is constant without meaning. The sun pressed everything flat and hot.
 
-## The Slow Hours
-
 By the time the sun had passed its highest point and begun its fall toward the western hills, his breathing had changed.
 
 In the first hours it had been labored but regular — I could feel the rhythm of it in the load on my crossbeam, the small mechanical push and rise that cost him what it cost him. By the middle of the afternoon the rhythm had broken. The pauses between rises grew longer. Sometimes I counted to eight, to ten, before the weight shifted and the breath came.
@@ -43,8 +37,6 @@ The heat had built through the hours until the limestone of the hill gave it bac
 I felt his weight in my wood. I felt the small shudders that moved through him between breaths. I felt the grain of my crossbeam where his wrists pressed against the iron. These things I could feel as a tree feels — not with understanding, but with the absolute attention of matter to matter, as root feels water, as bark feels cold.
 
 Something was gathering. I had no word for it.
-
-## Before Dark
 
 The light changed before the darkness came.
 
