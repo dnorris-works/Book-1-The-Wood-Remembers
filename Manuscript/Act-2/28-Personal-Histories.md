@@ -152,8 +152,4 @@ Father Kowalski's smile was gentle. "I think your father would be proud that you
 
 Sarah looked at the fragments one more time. "Then let's take them to Rome. Let's see what MEMORIA finds."
 
-"Even if it costs you everything?"
-
-"Especially if it costs me everything." Sarah stood up, feeling something she hadn't felt in years—not certainty, but trust. "Because if *Babcia* and Dad taught me anything, it's that the things worth having are usually the things that cost everything."
-
 As they prepared to leave the cave, Sarah touched the rosary hanging from her kit. Whatever had happened on the stone outside, she found she was ready to go.
