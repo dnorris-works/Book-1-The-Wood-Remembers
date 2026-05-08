@@ -72,11 +72,9 @@ It was time to choose faithfulness.
 
 She sent both emails with swift clicks that felt like stepping off a cliff. Then she knelt beside her coffee table where her grandmother's rosary lay next to her Harvard faculty ID—two symbols of different worlds that had shaped her but could no longer contain her.
 
-She picked up the rosary and began to pray, the first time in years that prayer felt less like petition and more like homecoming. The Hail Mary came back to her in Polish, the way *Babcia* had taught her, the words carrying the weight of seventy years of immigrant faith that had somehow survived Harvard skepticism and academic pressure to bloom again in a Cambridge apartment at the moment when choosing faith meant choosing everything that mattered most.
+She picked up the rosary and began to pray.
 
 "*Zdrowaś Maryjo, łaski pełna, Pan z Tobą...*"
-
-The familiar rhythm of the prayer connected her across time and space to her grandmother's kitchen in South Bend, where a little girl had learned that some truths were too large for understanding but not too large for trust.
 
 ---
 

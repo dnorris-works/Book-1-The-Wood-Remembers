@@ -138,16 +138,6 @@ She didn't say anything. Didn't shape words. There was the rosary in her hands, 
 
 She sat with it for a few minutes. Then she clipped the rosary back to her kit and went inside.
 
-As afternoon shadows lengthened across the cave floor, Sarah felt her grandmother's influence more strongly than she had in years. *Babcia* had understood something about material objects carrying spiritual significance—not because of magic, but because of love.
-
-"Michael, can I ask you something?"
-
-"Of course."
-
-"Do you think my father would be proud of what we've found here?"
-
-Father Kowalski's smile was gentle. "I think your father would be proud that you're asking better questions instead of settling for easy answers."
-
 ## Preparing for Rome
 
 Sarah looked at the fragments one more time. "Then let's take them to Rome. Let's see what MEMORIA finds."
