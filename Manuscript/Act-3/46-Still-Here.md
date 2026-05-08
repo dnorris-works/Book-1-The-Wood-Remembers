@@ -64,7 +64,7 @@ If information is conserved, then what was written into my grain that afternoon 
 
 Then perhaps love does not leave a mark only as metaphor. Perhaps witness is not a spiritual concept that borrows language from physical experience, but a physical fact that theology has been trying to name for two thousand years with the vocabulary available to it.
 
-I do not know. I am not claiming certainty. I am reporting what remains when I hold the memory of that afternoon against everything I have observed in the interval since, and find that
+I do not know. I am not claiming certainty. I am reporting what remains when I hold the memory of that afternoon against everything I have observed in the interval since, and find that —
 
 The weight was real. The dying was real. The love was real.
 
