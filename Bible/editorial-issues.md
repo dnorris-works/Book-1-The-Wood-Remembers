@@ -18,7 +18,7 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 2 | Act 1 — Ch 5/6 structural overlap | 🟡 Medium | ✅ Done |
 | 3 | Act 1 — Levi continuity error in ch 8 | 🔴 High | ✅ Done |
 | 4 | Act 1 — Generic section titles in chs 16–18 | 🟢 Low | ✅ Done |
-| 5 | Act 1 — Ch 21 veil moment slightly over-explained | 🟡 Medium | Open |
+| 5 | Act 1 — Ch 21 veil moment slightly over-explained | 🟡 Medium | ✅ Done |
 | 6 | Act 2 — Ch 24 transition jolt inside chapter | 🟡 Medium | Open |
 | 7 | Act 2 — Ch 25/26 repeated closing line | 🟡 Medium | Open |
 | 8 | Act 2 — Ch 27 four sections orbiting same beat | 🔴 High | Open |

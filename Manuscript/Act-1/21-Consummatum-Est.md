@@ -35,7 +35,7 @@ I do not know how to place it in time exactly — whether it was before the warm
 
 Something passed through.
 
-Not through the wood the way the nails had passed through, which was violence and compression and the grain splitting to accommodate iron. Not through the wood the way his blood had passed through, which was warmth and chemistry and the slow absorption of one thing into another. This was different from both of those in a way I cannot account for, because what passed through was not a physical thing passing through a physical substance. It was contact of a kind that the wood had no mechanism to receive, and yet the wood received it.
+Not through the wood the way the nails had passed through, which was violence and compression and the grain splitting to accommodate iron. Not through the wood the way his blood had passed through, which was warmth and chemistry and the slow absorption of one thing into another. This was different from both of those in a way I cannot account for, because what passed through was not a physical thing passing through a physical substance.
 
 I have spent two thousand years trying to find the word for it. There is no word. There are words that approach it from different directions — presence, opening, the end of a distance that had not previously been known to exist — but none of them hold what actually happened. They describe the shape of the absence the thing left rather than the thing itself.
 
