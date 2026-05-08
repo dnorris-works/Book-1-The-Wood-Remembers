@@ -4,35 +4,15 @@
 
 ## The Committee Meeting
 
-The morning of the tribunal, Sarah brought coffee.
+The email had been waiting since 6 AM, its subject line like a blade: "Urgent: Department Meeting - Your Jerusalem Project."
 
-She'd done it for three years — shown up at Dr. Holloway's office door with two cups from the cart near the elevator whenever something significant was happening. It was a small ritual, maybe a superstition. Holloway had been her mentor since her first year of postdoctoral work, the one who'd argued for the MEMORIA proposal when Patterson called it theoretical overreach, and bringing coffee felt like honoring that.
+Sarah read it standing at her desk, still in her coat from the walk in. Three weeks since she'd sent preliminary findings to the Vatican, and somehow word had leaked. In academia, secrets lasted about as long as snow in Boston. She'd been planning to brief Patterson herself — she'd actually been looking forward to it, had been running through how to frame the implications in a way the committee could get excited about. The email made clear that hadn't been necessary.
 
-Holloway answered the door already in her jacket. Her laptop was closed on the desk, notes stacked with unusual neatness at the corner. She took the cup without quite meeting Sarah's eyes.
+Her desk phone rang. Patterson's name on the screen.
 
-"I thought you might need this before the meeting," Sarah said. "I'm actually looking forward to it — don't you think they'll be excited about the implications?"
+"Sarah, we need to talk. My office, ten minutes."
 
-Holloway looked at her then, a brief and careful look Sarah couldn't quite read. "Just be prepared for skepticism," she said. "Hard questions."
-
-"I am." Sarah smiled. "The methodology is sound. The data speaks for itself."
-
-Holloway nodded. Something in her expression went neutral — that particular stillness Sarah had seen on faculty faces in the middle of difficult arguments, a person choosing their words from behind glass.
-
-"Of course," Holloway said.
-
-Sarah left the door open and walked back toward the elevator with her own cup, running through her opening remarks. She didn't look back.
-
-## Academic Resistance
-
-The email had been waiting since 6 AM, its subject line like a blade to the heart: "Urgent: Department Meeting - Your Jerusalem Project."
-
-Sarah stared at her computer screen, coffee growing cold in her Notre Dame mug—a relic from undergraduate days when faith and scholarship seemed naturally compatible. Three weeks since she'd sent preliminary findings to the Vatican, and somehow word had leaked. In academia, secrets lasted about as long as snow in Boston.
-
-Her desk phone rang. Dr. Patterson's name flashed on the screen.
-
-"Sarah, we need to talk. My office, ten minutes." The line went dead.
-
-She grabbed her grandmother's rosary from her desk drawer—a habit that had returned since Jerusalem, much to her own surprise. The carved bone beads from Kraków felt warm against her palm as she walked down the hallway lined with photos of Harvard's archaeological triumphs. None of them had ever triggered a departmental crisis.
+She grabbed her grandmother's rosary from her desk drawer — a habit that had returned since Jerusalem, much to her own surprise — and walked.
 
 The Archaeology Department occupied the third floor of the Peabody Museum, its corridors lined with artifacts that had built careers and destroyed theories in equal measure. Sarah had walked these halls for six years, but today they felt like a gauntlet.
 

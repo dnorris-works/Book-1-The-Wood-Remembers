@@ -4,7 +4,7 @@
 
 *December 28, 2024 — Cambridge, Massachusetts*
 
-Patterson called at seven on a Sunday morning, which told her everything before he said a word.
+Three weeks before she went to Jerusalem, Patterson called at seven on a Sunday morning, which told her everything before he said a word.
 
 "Sarah." His voice carried the particular gentleness of someone delivering news they'd rehearsed. "I want you to hear this from me before the formal notification arrives."
 

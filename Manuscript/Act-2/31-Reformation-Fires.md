@@ -232,10 +232,4 @@ Maria waited, silent, the way a woman waits who has seen other people understand
 
 Sarah pressed her hands flat against the table until they stilled. She looked at Theophilus's destroyed icon, at the frame he'd cut open, at everything he had dismantled to preserve what was inside. She thought about what kind of faith that required — not the faith of certainty, but the faith that destroys what you love because you believe something survives the destruction.
 
-Maria set two cups of espresso on the bench beside the examination table.
-
-"Drink," she said. "Better to think with coffee."
-
-Sarah drank. The espresso was bitter and exactly right.
-
 Outside, Rome traffic hummed at its midday register. Inside, the fragments sat under the examination lamp, ordinary-looking, waiting for nothing.

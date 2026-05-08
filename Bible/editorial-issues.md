@@ -23,9 +23,9 @@ Claude can read this file and know exactly what needs fixing without re-reading 
 | 7 | Act 2 — Ch 25/26 repeated closing line | 🟡 Medium | ✅ Done |
 | 8 | Act 2 — Ch 27 four sections orbiting same beat | 🔴 High | ✅ Done |
 | 9 | Act 2 — Father backstory told twice (chs 28 + 29) | 🟡 Medium | ✅ Done |
-| 10 | Act 2 — Ch 29 Holloway setup with no payoff | 🟡 Medium | Open |
-| 11 | Act 2 — Ch 30 flashback needs temporal framing | 🟢 Low | Open |
-| 12 | Act 2 — Ch 31 espresso close undercuts weight | 🟢 Low | Open |
+| 10 | Act 2 — Ch 29 Holloway setup with no payoff | 🟡 Medium | ✅ Done |
+| 11 | Act 2 — Ch 30 flashback needs temporal framing | 🟢 Low | ✅ Done |
+| 12 | Act 2 — Ch 31 espresso close undercuts weight | 🟢 Low | ✅ Done |
 | 13 | Act 2 — Ch 32 Aquinas parallel better sequential than interleaved | 🟡 Medium | Open |
 | 14 | Act 2 — Ch 34 setup over-explains what coda earns | 🟢 Low | Open |
 | 15 | Act 2 — Ch 35 Stanford motivation shrinks Webb | 🟡 Medium | Open |
