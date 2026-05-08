@@ -78,18 +78,6 @@ She picked up the rosary and began to pray, the first time in years that prayer 
 
 The familiar rhythm of the prayer connected her across time and space to her grandmother's kitchen in South Bend, where a little girl had learned that some truths were too large for understanding but not too large for trust.
 
-Outside, Cambridge slept peacefully, unaware that a decision made in a small apartment might determine how the world understood the relationship between faith and reason for generations to come. Inside, a scholar was becoming something more than a scholar—not less rigorous, but more faithful; not less intelligent, but more trusting; not less human, but more willing to let mystery be mystery while still pursuing truth with everything she had.
-
-Her phone chimed with the first response—an automated receipt from Cardinal Bertoli's office: "Thank you for your communication. His Eminence will respond personally within 24 hours."
-
-Then another chime—Dr. Harper's reply: "Sarah, I'm sorry to hear of your decision. Your final paperwork will be processed within the week. We wish you well in your future endeavors."
-
-No anger, no recrimination. Just the careful neutrality of an institution protecting itself from association with someone who had chosen truth over convenience.
-
-Sarah smiled, feeling lighter than she had in months. She was unemployed, professionally controversial, and facing an uncertain future in a foreign country. But for the first time since Jerusalem, she felt like herself again.
-
-The decision was made. The real journey was just beginning.
-
 ---
 
 ## After the Leak
