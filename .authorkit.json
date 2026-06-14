@@ -1,0 +1,87 @@
+{
+  "storyFolder": "/Users/norris/Documents/projects/writing/Stories/Faithful Witness Series/Book-1-The Quantum Cross",
+  "storyFiles": [
+    "Bible/book-1-bible.md"
+  ],
+  "genres": {
+    "apple": [
+      "FICTION / Christian / Suspense",
+      "FICTION / Technological"
+    ],
+    "kdp": [
+      "FICTION / Christian / Suspense",
+      "FICTION / Technological",
+      "FICTION / Religious"
+    ],
+    "kobo": [
+      "Fiction / Christian / Suspense",
+      "Fiction / Technological",
+      "Fiction / Religious"
+    ],
+    "google": []
+  },
+  "genreRationale": "A Harvard archaeologist uses quantum technology to read memories from crucifixion cross fragments in a Vatican-backed investigation, blending Christian faith themes with advanced scientific concepts in a suspenseful narrative.",
+  "keywords": [
+    {
+      "term": "quantum archaeology",
+      "rationale": "Sarah Davidson is a Harvard quantum archaeologist who develops the MEMORIA protocol to read quantum memory from ancient organic material"
+    },
+    {
+      "term": "Harvard archaeologist",
+      "rationale": "Dr. Sarah Davidson is explicitly described as a Harvard quantum archaeologist, appearing in the subtitle"
+    },
+    {
+      "term": "crucifixion witness",
+      "rationale": "The olive tree is described as a direct witness to Christ's crucifixion in 33 CE, holding 2,000-year-old testimony"
+    },
+    {
+      "term": "Vatican conspiracy",
+      "rationale": "Marcus Webb steals Sarah's data believing religion corrupts science, and the Vatican Archive contains the custody records"
+    },
+    {
+      "term": "ancient fragments",
+      "rationale": "The story centers on fragments of the original cross stored in a cedar box beneath the City of David"
+    },
+    {
+      "term": "quantum memory reading",
+      "rationale": "The MEMORIA protocol is specifically described as a quantum memory-reading system based on molecular imprinting"
+    },
+    {
+      "term": "olive tree consciousness",
+      "rationale": "The olive tree is described as having God-given consciousness from germination and serves as co-protagonist"
+    },
+    {
+      "term": "Christian archaeological thriller",
+      "rationale": "The genre is listed as Christian Suspense & Thriller with Vatican involvement and religious themes throughout"
+    },
+    {
+      "term": "MEMORIA protocol",
+      "rationale": "MEMORIA is the specific quantum memory-reading system Sarah develops, central to the plot"
+    },
+    {
+      "term": "faith versus science",
+      "rationale": "Sarah's arc involves choosing between data that makes her career and testimony that remakes her"
+    },
+    {
+      "term": "Vatican archaeologist",
+      "rationale": "Father Michael Kowalski is described as a Jesuit priest and archaeologist working with the Vatican"
+    },
+    {
+      "term": "Jerusalem excavation",
+      "rationale": "The fragments are located in a cave beneath the City of David, Jerusalem"
+    },
+    {
+      "term": "carbon nanotube technology",
+      "rationale": "The MEMORIA protocol uses carbon nanotube architecture to sustain quantum entanglement for reading ancient material"
+    },
+    {
+      "term": "custody chain mystery",
+      "rationale": "The canonical custody chain spans seven custodians across two millennia, from Prisca in 34 CE to Sarah"
+    },
+    {
+      "term": "molecular imprinting",
+      "rationale": "The scientific basis involves intense experience creating molecular imprinting in organic grain that can be quantum-read"
+    }
+  ],
+  "updatedAt": "2026-05-25T07:52:49.894Z"
+}

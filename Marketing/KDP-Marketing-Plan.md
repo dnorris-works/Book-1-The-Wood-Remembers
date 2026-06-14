@@ -1,31 +1,43 @@
-# KDP Marketing Plan: The Quantum Cross (Book 1)
+# KDP Marketing Plan: The Faithful Witness Series (Books 1 & 2)
 
-**Last Updated:** April 20, 2026  
-**Status:** ⚠️ ZERO SALES — 2 Weeks Post-Launch  
+**Last Updated:** May 20, 2026  
+**Status:** Both books published on KDP — ebook + paperback  
 **Budget:** $0 — Zero Paid Advertising  
-**Strategy:** Emergency Visibility Reset + KDP Select Rescue
+**Strategy:** Series visibility — two books live, read-through opportunity active
+
+## SERIES PUBLICATION STATUS
+
+| Book | Title | Ebook | Paperback | Platform |
+|------|-------|-------|-----------|----------|
+| Book 1 | The Quantum Cross | ✅ Published | ✅ Published | KDP only (removed from D2D) |
+| Book 2 | The Judas Rope | ✅ Published | ✅ Published | KDP only (never on D2D) |
+| Book 3 | The Holding | Manuscript complete | — | Not yet published |
 
 ---
 
-## 🚨 EMERGENCY RESCUE PLAN (Do This This Week)
+## 🚨 UPDATED PRIORITY PLAN (May 2026)
 
-**Situation:** Published 2 weeks ago. Zero sales. Currently on KDP + Draft2Digital (wide).
+**Situation:** Both books published on KDP (ebook + paperback). Not on D2D. No KDP Select enrollment confirmed.
 
-**Diagnosis:** Your book is invisible. Wide distribution without platform-specific marketing on each store means nobody is finding it anywhere.
+**New Advantage:** Two books live means read-through is now possible — a reader who finishes Book 1 can buy Book 2 immediately. This is a significant asset.
 
-**The Fix:** Abandon wide immediately. Go KDP Select. Run Free Book Promotion ASAP.
+**The Fix:** Enroll both books in KDP Select. Run Free Book Promotion on Book 1 to drive series discovery. Ensure Book 1 back matter links directly to Book 2.
 
 ---
 
-### Day 1-2: Switch to KDP Select (Emergency Mode)
+### Step 1 — Enroll Both Books in KDP Select
 
-**Action:** Unpublish the ebook from Draft2Digital TODAY.
+1. Confirm neither ebook appears on any non-Amazon platform (D2D removed ✅)
+2. Enroll Book 1 in KDP Select (90-day term)
+3. Enroll Book 2 in KDP Select (90-day term)
+4. Both books now eligible for Kindle Unlimited and Free Book Promotions
 
-1. ✅. **Log into D2D:** Unpublish the ebook (keep print if you want)
-2. **Wait period:** May take 24-72 hours to clear from Apple/B&N/Kobo
-3. **Enroll in KDP Select:** Once confirmed clear, enroll in KDP Select (90 days)
+**Why:** With zero ad budget, KU page reads and Free Book Promotions are your primary revenue and visibility tools. Having two KU books means a reader who borrows Book 1 and finishes it may immediately borrow Book 2 — page reads on both.
 
-**Why:** Wide distribution only works if you market on EACH platform. With zero budget and zero sales, you need Amazon's algorithm boost — and that requires KDP Select.
+### Step 2 — Verify Book 1 Back Matter
+
+- Back matter must include: excerpt from Book 2 Ch 1, direct Amazon link to Book 2, newsletter signup CTA
+- This is your single highest-leverage action — a reader who finishes Book 1 needs a frictionless path to Book 2
 
 ---
 
@@ -70,7 +82,7 @@
 
 ## Executive Summary
 
-This marketing plan leverages **free marketing tactics only**—no paid advertising. We rely on KDP Select's built-in promotional tools, organic social media, content marketing, community engagement, and strategic use of free book promotion sites to build visibility for *The Quantum Cross* (Book 1 of The Quantum Witness Series).
+This marketing plan leverages **free marketing tactics only**—no paid advertising. We rely on KDP Select's built-in promotional tools, organic social media, content marketing, community engagement, and strategic use of free book promotion sites to build visibility for *The Quantum Cross* (Book 1 of The Faithful Witness Series).
 
 **Key 2026 Context:**
 - KDP Select Global Fund paid $69.3 million to authors (March 2026)

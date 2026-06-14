@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>iTunes Connect — The Quantum Cross</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', sans-serif;
+    font-size: 14px; background: #f5f5f7; color: #1d1d1f;
+    padding: 28px 20px 80px;
+  }
+  .outer { max-width: 880px; margin: 0 auto; }
+
+  /* Instructions */
+  .instructions {
+    background: #0071e3; color: #fff;
+    border-radius: 10px 10px 0 0;
+    padding: 12px 24px; font-size: 13px; line-height: 1.5;
+  }
+  .instructions a { color: #a8d4ff; }
+
+  /* Header */
+  .itc-header {
+    background: #1d1d1f; color: #f5f5f7;
+    padding: 14px 24px; display: flex; align-items: center; gap: 12px;
+  }
+  .itc-header h1 { font-size: 15px; font-weight: 600; color: #f5f5f7; }
+  .itc-header .badge {
+    margin-left: auto; background: #0071e3; color: #fff;
+    font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 20px;
+  }
+
+  /* Body */
+  .itc-body {
+    background: #fff; border-radius: 0 0 10px 10px;
+    border: 1px solid #d2d2d7; border-top: none;
+    overflow: hidden; margin-bottom: 24px;
+  }
+  .section { border-bottom: 1px solid #e5e5ea; padding: 22px 28px; }
+  .section:last-child { border-bottom: none; }
+  .section-title {
+    font-size: 12px; font-weight: 700; color: #6e6e73;
+    text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 18px;
+  }
+
+  /* Form layout */
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 18px; }
+  .form-row.single { grid-template-columns: 1fr; }
+  .form-row.triple { grid-template-columns: 1fr 1fr 1fr; }
+  .form-row:last-child { margin-bottom: 0; }
+  .form-group { display: flex; flex-direction: column; gap: 4px; }
+
+  label {
+    font-size: 11.5px; font-weight: 600; color: #6e6e73;
+    display: flex; align-items: center; gap: 5px;
+  }
+  label .req { color: #ff3b30; font-size: 10px; }
+
+  /* Fields */
+  .field-value {
+    background: #f5f5f7; border: 1px solid #d2d2d7; border-radius: 6px;
+    padding: 8px 11px; font-size: 13.5px; color: #1d1d1f;
+    line-height: 1.5; min-height: 36px; word-break: break-word;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .field-value.empty { color: #aeaeb2; font-style: italic; }
+  .field-value.placeholder { color: #ff9500; font-style: italic; }
+  .field-value.copyable { cursor: pointer; position: relative; }
+  .field-value.copyable:hover { background: #e8f0fe; border-color: #0071e3; }
+  .field-value.copyable:hover::after {
+    content: 'Click to copy'; position: absolute;
+    top: -24px; right: 8px; background: #1d1d1f; color: #fff;
+    font-size: 10px; padding: 2px 7px; border-radius: 4px;
+    white-space: nowrap; pointer-events: none;
+  }
+  .field-value.copied { background: #e8fef0; border-color: #34c759; }
+  .field-value.textarea { min-height: 150px; white-space: pre-wrap; font-size: 13px; }
+  .field-note { font-size: 11px; color: #6e6e73; line-height: 1.4; margin-top: 2px; }
+
+  /* Word count badge */
+  .wc-badge {
+    display: inline-block; font-size: 10px; font-weight: 700;
+    padding: 1px 7px; border-radius: 8px; margin-left: 6px;
+    color: #fff; background: #34c759;
+  }
+
+  /* BISAC code badge */
+  .bisac-code {
+    display: inline-block; font-family: 'SF Mono', Menlo, monospace;
+    font-size: 11px; background: #e5e5ea; border-radius: 4px;
+    padding: 1px 6px; margin-right: 5px; color: #6e6e73;
+    pointer-events: none; user-select: none;
+  }
+
+  /* Checkbox instruction */
+  .checkbox-field {
+    display: flex; align-items: center; gap: 10px;
+    background: #f5f5f7; border: 1px solid #d2d2d7; border-radius: 6px;
+    padding: 8px 11px; font-size: 13.5px;
+  }
+  .checkbox-visual {
+    width: 16px; height: 16px; border: 2px solid #d2d2d7;
+    border-radius: 3px; flex-shrink: 0;
+  }
+  .checkbox-visual.checked { background: #0071e3; border-color: #0071e3; }
+
+  /* Competition table */
+  .comp-toggle {
+    background: none; border: none; cursor: pointer;
+    font-size: 12px; color: #0071e3; font-weight: 600;
+    padding: 0; margin-bottom: 12px; display: flex; align-items: center; gap: 4px;
+  }
+  .competition-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  .competition-table th {
+    text-align: left; padding: 7px 11px;
+    background: #f5f5f7; border-bottom: 2px solid #d2d2d7;
+    font-weight: 600; font-size: 11px; color: #6e6e73;
+    text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  .competition-table td {
+    padding: 8px 11px; border-bottom: 1px solid #f0f0f5; vertical-align: top;
+  }
+  .competition-table tr:last-child td { border-bottom: none; }
+  .competition-table tr:hover td { background: #fafafa; }
+  .level-badge { display: inline-block; font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 8px; }
+  .level-Low      { background: #d1fae5; color: #065f46; }
+  .level-Moderate { background: #fef3c7; color: #92400e; }
+  .level-High     { background: #fee2e2; color: #991b1b; }
+
+  /* Signal phrases */
+  .signal-phrase {
+    display: inline-block; background: #e8f0fe; color: #1a56db;
+    border-radius: 4px; padding: 2px 7px; font-size: 11.5px; margin: 2px 2px;
+  }
+
+  /* Recommendations panel */
+  .rec-panel {
+    background: #fff; border-radius: 10px; border: 2px solid #0071e3;
+    overflow: hidden; margin-bottom: 20px;
+  }
+  .rec-header {
+    background: #0071e3; color: #fff; padding: 13px 22px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .rec-header h2 { font-size: 14px; font-weight: 700; }
+  .rec-header .rec-sub { font-size: 11.5px; opacity: 0.85; }
+  .rec-body { padding: 18px 22px; }
+  .rec-strategy {
+    font-size: 13px; line-height: 1.6; color: #3c3c43;
+    background: #f0f7ff; border-left: 4px solid #0071e3;
+    padding: 10px 13px; border-radius: 0 6px 6px 0; margin-bottom: 18px;
+  }
+  .rec-final { margin-bottom: 18px; }
+  .rec-final label {
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.06em; color: #6e6e73; margin-bottom: 5px; display: block;
+  }
+  .rec-groups { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; }
+  .rec-group h3 {
+    font-size: 10.5px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.06em; margin-bottom: 7px; padding-bottom: 5px; border-bottom: 2px solid;
+  }
+  .rec-group.use h3     { color: #065f46; border-color: #34c759; }
+  .rec-group.caution h3 { color: #92400e; border-color: #f59e0b; }
+  .rec-group.avoid h3   { color: #991b1b; border-color: #ef4444; }
+  .rec-item { padding: 7px 9px; border-radius: 5px; margin-bottom: 5px; font-size: 12px; line-height: 1.4; }
+  .rec-group.use    .rec-item { background: #d1fae5; }
+  .rec-group.caution .rec-item { background: #fef3c7; }
+  .rec-group.avoid  .rec-item { background: #fee2e2; }
+  .rec-item-term { font-weight: 700; margin-bottom: 1px; }
+  .rec-item-meta { font-size: 10.5px; opacity: 0.65; margin-bottom: 2px; }
+  .rec-item-reason { font-size: 11px; color: #3c3c43; }
+
+  /* Footer */
+  .itc-footer { text-align: center; font-size: 11px; color: #aeaeb2; padding-top: 10px; }
+
+  /* Toast */
+  #copy-toast {
+    position: fixed; bottom: 28px; right: 28px;
+    background: #1d1d1f; color: #fff; padding: 9px 16px;
+    border-radius: 8px; font-size: 12px; font-weight: 600;
+    opacity: 0; transition: opacity 0.2s; pointer-events: none; z-index: 999;
+  }
+  #copy-toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+<div class="outer">
+
+<!-- Instructions -->
+<div class="instructions">
+  <strong>How to use:</strong>
+  Click any field to copy it, then paste into iTunes Connect at
+  <a href="https://authors.apple.com" target="_blank">authors.apple.com</a>.
+  Fields marked <span style="color:#ffd60a">★</span> are required.
+  Orange italic values are placeholders you must fill in manually.
+</div>
+
+<!-- Header -->
+<div class="itc-header">
+  <span style="font-size:18px">&#63743;</span>
+  <h1>iTunes Connect — Book Metadata</h1>
+  <span class="badge">AuthorKit May 25, 2026</span>
+</div>
+
+<!-- Keyword Recommendations -->
+
+<div class="rec-panel" style="margin-top:0;border-top:none;border-radius:0;">
+  <div class="rec-header">
+    <div>
+      <h2>🎯 Keyword Recommendations</h2>
+      <div class="rec-sub">Based on Apple Books competition data</div>
+    </div>
+  </div>
+  <div class="rec-body">
+    <div class="rec-strategy">Focus on the highly specific scientific and archaeological terms that have virtually no competition, as these will help your book stand out in a crowded thriller market. The combination of quantum science terminology with archaeological settings gives you a unique positioning that readers interested in techno-thrillers can easily discover.</div>
+    <div class="rec-final">
+      <label>Final 5 Keywords — click to copy, paste into iTunes Connect keyword field</label>
+      <div class="field-value copyable" onclick="copyText(this)"
+        style="background:#e8f5e9;border-color:#34c759;font-weight:600;">carbon nanotube technology, custody chain mystery, Harvard archaeologist, Jerusalem excavation, molecular imprinting</div>
+    </div>
+    <div class="rec-groups">
+      <div class="rec-group use">
+        <h3>✅ Use (8)</h3>
+        
+    <div class="rec-item">
+      <div class="rec-item-term">carbon nanotube technology</div>
+      <div class="rec-item-meta">1 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Virtually no competition with highly specific scientific terminology that matches your book&#39;s tech elements.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">custody chain mystery</div>
+      <div class="rec-item-meta">28 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Low competition with a specific mystery subgenre that fits your archaeological thriller perfectly.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Harvard archaeologist</div>
+      <div class="rec-item-meta">14 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Minimal competition for this specific character type that likely matches your protagonist.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Jerusalem excavation</div>
+      <div class="rec-item-meta">6 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Very low competition for this specific archaeological setting.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">molecular imprinting</div>
+      <div class="rec-item-meta">0 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Zero competition for this highly technical term that appears central to your story&#39;s science.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">olive tree consciousness</div>
+      <div class="rec-item-meta">9 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Unique concept with minimal competition that sounds specific to your story&#39;s premise.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">quantum archaeology</div>
+      <div class="rec-item-meta">10 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Low competition for this innovative blend of quantum physics and archaeology.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">quantum memory reading</div>
+      <div class="rec-item-meta">28 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Low competition for this specific sci-fi concept that seems core to your plot.</div>
+    </div>
+      </div>
+      <div class="rec-group caution">
+        <h3>⚠️ Caution (6)</h3>
+        
+    <div class="rec-item">
+      <div class="rec-item-term">ancient fragments</div>
+      <div class="rec-item-meta">50 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Moderate competition but could work if ancient fragments are central to your plot.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Christian archaeological thriller</div>
+      <div class="rec-item-meta">56 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Higher competition but accurately describes your book&#39;s genre blend.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">crucifixion witness</div>
+      <div class="rec-item-meta">41 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Moderate competition but very specific to Christian historical elements.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">faith versus science</div>
+      <div class="rec-item-meta">32 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Common theme with moderate competition that may describe your book&#39;s conflict.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Vatican archaeologist</div>
+      <div class="rec-item-meta">52 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Moderate competition for this character type in religious thrillers.</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Vatican conspiracy</div>
+      <div class="rec-item-meta">69 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Popular thriller theme with moderate competition.</div>
+    </div>
+      </div>
+      <div class="rec-group avoid">
+        <h3>❌ Avoid (1)</h3>
+        
+    <div class="rec-item">
+      <div class="rec-item-term">MEMORIA protocol</div>
+      <div class="rec-item-meta">88 results · avg 0 reviews</div>
+      <div class="rec-item-reason">High competition suggests this term is already widely used in existing books.</div>
+    </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="itc-body">
+
+  <!-- Book Information -->
+  <div class="section">
+    <div class="section-title">Book Information</div>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Title <span class="req">★</span></label>
+        <div class="field-value copyable " onclick="copyText(this)">The Quantum Cross</div>
+      </div>
+      <div class="form-group">
+        <label>Subtitle</label>
+        <div class="field-value copyable" onclick="copyText(this)">
+          A Harvard Archaeologist Reads a 2,000-Year-Old Witness to the Crucifixion—and Must Choose Between Data That Makes Her Career and Testimony That Remakes Her
+        </div>
+      </div>
+    </div>
+
+    <div class="form-row triple">
+      <div class="form-group">
+        <label>Series Name</label>
+        <div class="field-value copyable" onclick="copyText(this)">
+          The Quantum Witness Series
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Series Number</label>
+        <div class="field-value copyable" onclick="copyText(this)">
+          1
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Display Text</label>
+        <div class="field-value empty">Book (default)</div>
+        <div class="field-note">Change only if you want "Volume", "Prequel", etc.</div>
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label>Author Name <span class="req">★</span></label>
+        <div class="field-value copyable " onclick="copyText(this)">D. Allen Norris</div>
+      </div>
+      <div class="form-group">
+        <label>Publisher <span class="req">★</span></label>
+        <div class="field-value copyable " onclick="copyText(this)">Deep Field Press</div>
+      </div>
+    </div>
+
+    <div class="form-row triple">
+      <div class="form-group">
+        <label>Book Language <span class="req">★</span></label>
+        <div class="field-value copyable" onclick="copyText(this)">English</div>
+      </div>
+      <div class="form-group">
+        <label>Contains Explicit Content</label>
+        <div class="checkbox-field">
+          <div class="checkbox-visual "></div>
+          <span style="font-size:13px">
+            Leave <strong>unchecked</strong> in iTunes Connect
+          </span>
+        </div>
+        <div class="field-note">This is a toggle in iTunes Connect — not a text field.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Description -->
+  <div class="section">
+    <div class="section-title">
+      Description <span style="color:#ff3b30;font-size:10px;font-weight:700;margin-left:4px">★ Required</span>
+      <span class="wc-badge">210 words</span>
+    </div>
+    <div class="form-group">
+      <label>Book Description</label>
+      <div class="field-value textarea copyable" onclick="copyText(this)">When quantum archaeologist Dr. Sarah Davidson discovers fragments of the original cross in a hidden cave beneath Jerusalem, she believes she&#39;s found the ultimate test case for her revolutionary MEMORIA protocol.
+
+Using cutting-edge quantum memory reading technology, Sarah can extract molecular-level imprints from ancient organic material—turning wood and bone into witnesses to history. But these fragments hold more than data. For two thousand years, an olive tree has carried testimony of the Crucifixion, waiting to be found. As Sarah&#39;s instruments probe deeper into the quantum grain of the wood, she encounters something that cannot be measured: the consciousness of a tree that stood witness to Christ&#39;s final moments.
+
+But Sarah isn&#39;t the only one interested in her discovery. When her data is stolen by a colleague who believes faith has no place in science, she must choose between protecting her career and defending what the fragments truly hold. With a Vatican commission breathing down her neck and her life&#39;s work hanging in the balance, Sarah faces an impossible decision: treat the cross as archaeological evidence, or receive it as living testimony.
+
+Experience the boundary where quantum science meets ancient faith, where measurement gives way to mystery, and where one woman must learn the difference between extracting data and receiving truth.</div>
+      <div class="field-note">
+        Plain text only — no HTML tags. Paragraph breaks copy correctly.
+        Apple recommends 150–250 words. Do not add keyword lists or hashtags — Apple will reject them.
+        You can add bold/italic directly in the iTunes Connect text editor after pasting.
+      </div>
+    </div>
+    
+    <div class="form-group" style="margin-top:14px">
+      <label>Phrases from top Apple Books results — weave these naturally into your description if not already present</label>
+      <div style="padding:8px 0;"><span class="signal-phrase">quantum archaeologist</span> <span class="signal-phrase">Jerusalem cave discovery</span> <span class="signal-phrase">Vatican commission investigation</span></div>
+    </div>
+  </div>
+
+  <!-- Subject Categories -->
+  <div class="section">
+    <div class="section-title">Subject Categories <span style="color:#ff3b30;font-size:10px;font-weight:700;margin-left:4px">★ Required — min 2</span></div>
+    <p class="field-note" style="margin-bottom:14px">
+      Select from the Subject Category dropdown in iTunes Connect.
+      Click a field to copy the category path, then find it in the dropdown.
+      The grey code is for reference only and is not entered into iTunes Connect.
+    </p>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Primary Subject Category <span class="req">★</span></label>
+        <div class="field-value copyable" onclick="copyText(this, "FICTION / Christian / Suspense")">
+          <span class="bisac-code">FIC042060</span>FICTION / Christian / Suspense
+        </div>
+        <div class="field-note">The story combines Christian themes with suspense elements centered on archaeological discovery and scientific controversy.</div>
+      </div>
+      <div class="form-group">
+        <label>Secondary Subject Category <span class="req">★</span></label>
+        <div class="field-value copyable" onclick="copyText(this, "FICTION / Science Fiction / Hard Science Fiction")">
+          <span class="bisac-code">FIC028070</span>FICTION / Science Fiction / Hard Science Fiction
+        </div>
+        <div class="field-note">The quantum archaeology technology and scientific methodology are central to the plot and grounded in real quantum physics concepts.</div>
+      </div>
+    </div>
+    
+      <div class="form-group" style="margin-top:14px">
+        <label>Additional Category 1</label>
+        <div class="field-value copyable" onclick="copyText(this, "FICTION / Action &amp; Adventure")">
+          <span class="bisac-code">FIC002000</span>FICTION / Action &amp; Adventure
+        </div>
+        <div class="field-note">The custody chain mystery and data theft create adventure elements driving the narrative tension.</div>
+      </div>
+  </div>
+
+  <!-- Keywords -->
+  <div class="section">
+    <div class="section-title">Keywords &amp; Phrases</div>
+    <div class="form-group">
+      <label>Keywords / Phrases (max 5, comma-separated)</label>
+      <div class="field-value copyable" onclick="copyText(this)">crucifixion witness, Vatican archaeologist, quantum archaeology, Christian archaeological thriller, Harvard archaeologist</div>
+      <div class="field-note">
+        Apple Books accepts a maximum of 5 keyword phrases. Enter as a comma-separated list.
+        Do not repeat your BISAC category names — Apple indexes those separately.
+        The Keyword Recommendations panel above shows the research behind these choices.
+      </div>
+    </div>
+  </div>
+
+  <!-- Competition Analysis (collapsible) -->
+  <div class="section">
+    <button class="comp-toggle" onclick="toggleComp()">
+      <span id="comp-arrow">▶</span> Raw Competition Data
+    </button>
+    <div id="comp-table" style="display:none">
+      <p class="field-note" style="margin-bottom:10px">
+        Apple Books search results for each keyword researched. The Recommendations panel
+        above summarizes this data into actionable choices.
+      </p>
+      <table class="competition-table">
+        <thead>
+          <tr><th>Keyword</th><th>Results</th><th>Avg Reviews</th><th>Level</th><th>Notes</th></tr>
+        </thead>
+        <tbody><tr>
+    <td><strong>crucifixion witness</strong></td>
+    <td>41</td>
+    <td>0</td>
+    <td><span class="level-badge level-Low">Low</span></td>
+    <td>Limited competition with most titles having no reviews, presenting good visibility opportunity.</td>
+  </tr>
+<tr>
+    <td><strong>Vatican archaeologist</strong></td>
+    <td>52</td>
+    <td>0</td>
+    <td><span class="level-badge level-Low">Low</span></td>
+    <td>Moderate result count but low engagement metrics suggest room for a well-crafted entry to stand out.</td>
+  </tr>
+<tr>
+    <td><strong>quantum archaeology</strong></td>
+    <td>10</td>
+    <td>0</td>
+    <td><span class="level-badge level-Very Low">Very Low</span></td>
+    <td>Very niche term with minimal competition, ideal for readers seeking science-based archaeological fiction.</td>
+  </tr>
+<tr>
+    <td><strong>Christian archaeological thriller</strong></td>
+    <td>56</td>
+    <td>0</td>
+    <td><span class="level-badge level-Low">Low</span></td>
+    <td>Higher result count but established genre with reader demand and low review engagement from competitors.</td>
+  </tr>
+<tr>
+    <td><strong>Harvard archaeologist</strong></td>
+    <td>14</td>
+    <td>0</td>
+    <td><span class="level-badge level-Very Low">Very Low</span></td>
+    <td>Limited competition in this specific academic thriller niche with strong character positioning opportunity.</td>
+  </tr></tbody>
+      </table>
+    </div>
+  </div>
+
+</div><!-- end itc-body -->
+
+<div class="itc-footer">
+  Generated by AuthorKit &nbsp;·&nbsp; Apple iTunes Search API &nbsp;·&nbsp; Claude (Anthropic) &nbsp;·&nbsp;
+  May 25, 2026
+</div>
+
+</div><!-- end outer -->
+<div id="copy-toast">Copied ✓</div>
+
+<script>
+  function copyText(el, overrideText) {
+    if (el.classList.contains('empty') || el.classList.contains('placeholder') && !overrideText) {
+      // Still copy placeholders so author can see what to fill in
+    }
+    const text = overrideText !== undefined
+      ? overrideText
+      : (el.innerText || el.textContent || '').trim();
+
+    navigator.clipboard.writeText(text).then(() => {
+      el.classList.add('copied');
+      setTimeout(() => el.classList.remove('copied'), 1200);
+      const t = document.getElementById('copy-toast');
+      t.classList.add('show');
+      setTimeout(() => t.classList.remove('show'), 1800);
+    }).catch(() => {
+      const range = document.createRange();
+      range.selectNodeContents(el);
+      const sel = window.getSelection();
+      if (sel) { sel.removeAllRanges(); sel.addRange(range); }
+    });
+  }
+
+  function toggleComp() {
+    const t = document.getElementById('comp-table');
+    const a = document.getElementById('comp-arrow');
+    if (t.style.display === 'none') {
+      t.style.display = 'block';
+      a.textContent = '▼';
+    } else {
+      t.style.display = 'none';
+      a.textContent = '▶';
+    }
+  }
+</script>
+</body>
+</html>

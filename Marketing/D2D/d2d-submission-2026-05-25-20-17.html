@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>D2D Submission — The Quantum Cross</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 14px; background: #f4f5f7; color: #172b4d; padding: 28px 20px 80px;
+  }
+  .outer { max-width: 900px; margin: 0 auto; }
+
+  /* Header bar — D2D uses a dark teal */
+  .d2d-header {
+    background: #1a6b5a; color: #fff;
+    border-radius: 8px 8px 0 0; padding: 14px 24px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .d2d-header h1 { font-size: 15px; font-weight: 700; }
+  .d2d-header .badge {
+    margin-left: auto; background: rgba(255,255,255,0.2);
+    font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 20px;
+  }
+
+  /* Instructions */
+  .instructions {
+    background: #1a6b5a; color: #fff; opacity: 0.92;
+    padding: 10px 24px; font-size: 12.5px; line-height: 1.5;
+    border-radius: 0; border-top: 1px solid rgba(255,255,255,0.2);
+  }
+  .instructions a { color: #a8ffe8; }
+
+  /* Body */
+  .d2d-body {
+    background: #fff; border-radius: 0 0 8px 8px;
+    border: 1px solid #dfe1e6; border-top: none;
+    overflow: hidden; margin-bottom: 24px;
+  }
+  .section { border-bottom: 1px solid #ebecf0; padding: 22px 28px; }
+  .section:last-child { border-bottom: none; }
+  .section-title {
+    font-size: 11.5px; font-weight: 700; color: #6b778c;
+    text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 16px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .section-note {
+    font-size: 12px; color: #5e6c84; line-height: 1.5;
+    margin-bottom: 14px; padding: 8px 12px;
+    background: #f4f5f7; border-radius: 4px; border-left: 3px solid #1a6b5a;
+  }
+
+  /* Form layout */
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+  .form-row.single { grid-template-columns: 1fr; }
+  .form-row.triple { grid-template-columns: 1fr 1fr 1fr; }
+  .form-row:last-child { margin-bottom: 0; }
+  .form-group { display: flex; flex-direction: column; gap: 4px; }
+
+  label {
+    font-size: 11.5px; font-weight: 600; color: #6b778c;
+    display: flex; align-items: center; gap: 5px;
+  }
+  label .req { color: #de350b; font-size: 10px; }
+
+  /* Fields */
+  .field-value {
+    background: #fafbfc; border: 2px solid #dfe1e6; border-radius: 4px;
+    padding: 8px 10px; font-size: 13.5px; color: #172b4d;
+    line-height: 1.5; min-height: 36px; word-break: break-word;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .field-value.empty { color: #a5adba; font-style: italic; }
+  .field-value.copyable { cursor: pointer; position: relative; }
+  .field-value.copyable:hover { background: #e3fcef; border-color: #1a6b5a; }
+  .field-value.copyable:hover::after {
+    content: 'Click to copy'; position: absolute;
+    top: -22px; right: 6px; background: #172b4d; color: #fff;
+    font-size: 10px; padding: 2px 6px; border-radius: 3px;
+    white-space: nowrap; pointer-events: none;
+  }
+  .field-value.copied { background: #e3fcef; border-color: #00875a; }
+  .field-value.textarea { min-height: 150px; white-space: pre-wrap; font-size: 13px; }
+  .field-note { font-size: 11px; color: #6b778c; line-height: 1.4; margin-top: 2px; }
+
+  /* Word count */
+  .wc-badge {
+    display: inline-block; font-size: 10px; font-weight: 700;
+    padding: 1px 7px; border-radius: 8px; color: #fff; background: #34c759;
+  }
+
+  /* BISAC code */
+  .bisac-code {
+    display: inline-block; font-family: 'SF Mono', Menlo, monospace;
+    font-size: 11px; background: #ebecf0; border-radius: 3px;
+    padding: 1px 6px; margin-right: 5px; color: #6b778c;
+    pointer-events: none; user-select: none;
+  }
+
+  /* Keyword table */
+  .kw-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  .kw-table th {
+    text-align: left; padding: 7px 10px;
+    background: #f4f5f7; border-bottom: 2px solid #dfe1e6;
+    font-size: 11px; font-weight: 700; color: #6b778c;
+    text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  .kw-table td { padding: 5px 10px; border-bottom: 1px solid #f4f5f7; vertical-align: middle; }
+  .kw-table tr:last-child td { border-bottom: none; }
+  .kw-table tr:hover td { background: #fafbfc; }
+  .kw-rank {
+    width: 32px; text-align: center; font-weight: 700;
+    font-size: 12px; color: #6b778c;
+  }
+  .kw-term { width: 240px; }
+  .kw-copyable { padding: 4px 8px; min-height: 28px; font-size: 13px; }
+  .kw-rationale { font-size: 11.5px; color: #6b778c; line-height: 1.4; }
+  .priority-badge {
+    display: inline-block; font-size: 9px; font-weight: 700;
+    padding: 1px 5px; border-radius: 3px; margin-right: 4px; vertical-align: middle;
+  }
+  .p-high   { background: #e3fcef; color: #00875a; }
+  .p-medium { background: #fffae6; color: #974f0c; }
+  .p-low    { background: #f4f5f7; color: #6b778c; }
+  .empty-kw td { opacity: 0.4; }
+
+  /* Copy-all button */
+  .copy-all-btn {
+    margin-top: 12px; padding: 7px 16px;
+    background: #1a6b5a; color: #fff; border: none;
+    border-radius: 4px; font-size: 12px; font-weight: 600;
+    cursor: pointer;
+  }
+  .copy-all-btn:hover { background: #15574a; }
+
+  /* Competition */
+  .comp-toggle {
+    background: none; border: none; cursor: pointer;
+    font-size: 12px; color: #1a6b5a; font-weight: 600;
+    padding: 0; display: flex; align-items: center; gap: 4px;
+  }
+  .competition-table { width: 100%; border-collapse: collapse; font-size: 12.5px; margin-top: 10px; }
+  .competition-table th {
+    text-align: left; padding: 6px 10px; background: #f4f5f7;
+    border-bottom: 2px solid #dfe1e6; font-size: 11px; font-weight: 700;
+    color: #6b778c; text-transform: uppercase;
+  }
+  .competition-table td { padding: 7px 10px; border-bottom: 1px solid #f4f5f7; vertical-align: top; }
+  .competition-table tr:last-child td { border-bottom: none; }
+  .level-badge { display: inline-block; font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 8px; }
+  .level-Low      { background: #e3fcef; color: #00875a; }
+  .level-Moderate { background: #fffae6; color: #974f0c; }
+  .level-High     { background: #ffebe6; color: #bf2600; }
+
+  /* Signal phrases */
+  .signal-phrase {
+    display: inline-block; background: #e3fcef; color: #00875a;
+    border-radius: 4px; padding: 2px 7px; font-size: 11.5px; margin: 2px;
+  }
+
+  /* Recommendations */
+  .rec-panel { background: #fff; border-radius: 8px; border: 2px solid #1a6b5a; overflow: hidden; margin-bottom: 20px; }
+  .rec-header { background: #1a6b5a; color: #fff; padding: 12px 22px; }
+  .rec-header h2 { font-size: 14px; font-weight: 700; }
+  .rec-header .rec-sub { font-size: 11px; opacity: 0.85; margin-top: 2px; }
+  .rec-body { padding: 18px 22px; }
+  .rec-strategy {
+    font-size: 13px; line-height: 1.6; color: #172b4d;
+    background: #e3fcef; border-left: 4px solid #1a6b5a;
+    padding: 10px 13px; border-radius: 0 4px 4px 0; margin-bottom: 16px;
+  }
+  .rec-final { margin-bottom: 16px; }
+  .rec-final label {
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.05em; color: #6b778c; margin-bottom: 5px; display: block;
+  }
+  .rec-final .field-value { font-weight: 600; white-space: pre-line; background: #e3fcef; border-color: #00875a; min-height: 80px; }
+  .rec-groups { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+  .rec-group h3 {
+    font-size: 10.5px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.06em; margin-bottom: 6px; padding-bottom: 5px; border-bottom: 2px solid;
+  }
+  .rec-group.use h3     { color: #00875a; border-color: #00875a; }
+  .rec-group.caution h3 { color: #974f0c; border-color: #f59e0b; }
+  .rec-group.avoid h3   { color: #bf2600; border-color: #ef4444; }
+  .rec-item { padding: 6px 8px; border-radius: 4px; margin-bottom: 4px; font-size: 12px; line-height: 1.4; }
+  .rec-group.use    .rec-item { background: #e3fcef; }
+  .rec-group.caution .rec-item { background: #fffae6; }
+  .rec-group.avoid  .rec-item { background: #ffebe6; }
+  .rec-item-term { font-weight: 700; margin-bottom: 1px; }
+  .rec-item-meta { font-size: 10px; opacity: 0.65; margin-bottom: 1px; }
+  .rec-item-reason { font-size: 11px; color: #5e6c84; }
+
+  /* Footer */
+  .d2d-footer { text-align: center; font-size: 11px; color: #a5adba; padding-top: 10px; }
+
+  /* Toast */
+  #copy-toast {
+    position: fixed; bottom: 28px; right: 28px;
+    background: #172b4d; color: #fff; padding: 8px 14px;
+    border-radius: 6px; font-size: 12px; font-weight: 600;
+    opacity: 0; transition: opacity 0.2s; pointer-events: none; z-index: 999;
+  }
+  #copy-toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+<div class="outer">
+
+<!-- Header -->
+<div class="d2d-header">
+  <span style="font-size:20px">📚</span>
+  <h1>Draft2Digital — Book Submission</h1>
+  <span class="badge">AuthorKit May 25, 2026</span>
+</div>
+<div class="instructions">
+  Click any field to copy it, then paste into
+  <a href="https://app.draft2digital.com" target="_blank">app.draft2digital.com</a>.
+  Enter keywords in the <strong>Search Terms</strong> section, ranked #1 first.
+</div>
+
+<!-- Keyword Recommendations -->
+
+<div class="rec-panel">
+  <div class="rec-header">
+    <h2>🎯 Keyword Priority Recommendations</h2>
+    <div class="rec-sub">Based on Apple Books competition data · Determines your D2D keyword ranking order</div>
+  </div>
+  <div class="rec-body">
+    <div class="rec-strategy">Your book benefits from highly technical scientific concepts that create natural keyword niches with almost zero competition. Prioritize the unique quantum archaeology and molecular science terms first, as they&#39;ll help you stand out in a crowded religious thriller market. Use the Vatican and broader religious themes sparingly since they face significant competition from established authors in this space.</div>
+    <div class="rec-final">
+      <label>Ranked keyword list — copy and enter into D2D one at a time, top to bottom</label>
+      <div class="field-value copyable" onclick="copyText(this)"
+        style="white-space:pre-line;">molecular imprinting
+Jerusalem excavation
+olive tree consciousness
+quantum archaeology
+carbon nanotube technology
+Harvard archaeologist
+quantum memory reading
+custody chain mystery
+faith versus science
+crucifixion witness
+ancient fragments
+Christian archaeological thriller
+Vatican archaeologist
+Vatican conspiracy
+MEMORIA protocol</div>
+    </div>
+    <div class="rec-groups">
+      <div class="rec-group use">
+        <h3>✅ Prioritize (7)</h3>
+        
+    <div class="rec-item">
+      <div class="rec-item-term">molecular imprinting</div>
+      <div class="rec-item-meta">0 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Zero competition with highly specific scientific terminology</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Jerusalem excavation</div>
+      <div class="rec-item-meta">6 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Very low competition with specific archaeological setting</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">olive tree consciousness</div>
+      <div class="rec-item-meta">9 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Unique concept with minimal competition</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">quantum archaeology</div>
+      <div class="rec-item-meta">10 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Niche scientific concept with very low competition</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">carbon nanotube technology</div>
+      <div class="rec-item-meta">1 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Highly specific technology term with almost no competition</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Harvard archaeologist</div>
+      <div class="rec-item-meta">14 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Specific character type with low competition</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">quantum memory reading</div>
+      <div class="rec-item-meta">28 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Unique sci-fi concept at upper edge of low competition</div>
+    </div>
+      </div>
+      <div class="rec-group caution">
+        <h3>⚠️ Middle slots (5)</h3>
+        
+    <div class="rec-item">
+      <div class="rec-item-term">custody chain mystery</div>
+      <div class="rec-item-meta">28 results · avg 0 reviews</div>
+      <div class="rec-item-reason">At threshold between low and moderate competition</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">faith versus science</div>
+      <div class="rec-item-meta">32 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Broader theme with moderate competition</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">crucifixion witness</div>
+      <div class="rec-item-meta">41 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Religious thriller element with growing competition</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">ancient fragments</div>
+      <div class="rec-item-meta">50 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Popular archaeological mystery trope</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Christian archaeological thriller</div>
+      <div class="rec-item-meta">56 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Established subgenre with solid competition</div>
+    </div>
+      </div>
+      <div class="rec-group avoid">
+        <h3>❌ Last slots or skip (3)</h3>
+        
+    <div class="rec-item">
+      <div class="rec-item-term">Vatican archaeologist</div>
+      <div class="rec-item-meta">52 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Popular character archetype in religious thrillers</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">Vatican conspiracy</div>
+      <div class="rec-item-meta">69 results · avg 0 reviews</div>
+      <div class="rec-item-reason">Oversaturated theme in religious fiction</div>
+    </div>
+    <div class="rec-item">
+      <div class="rec-item-term">MEMORIA protocol</div>
+      <div class="rec-item-meta">88 results · avg 0 reviews</div>
+      <div class="rec-item-reason">High competition despite being specific to your story</div>
+    </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="d2d-body">
+
+  <!-- Book Information -->
+  <div class="section">
+    <div class="section-title">Book Information</div>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Title <span class="req">★</span></label>
+        <div class="field-value copyable" onclick="copyText(this)">The Quantum Cross</div>
+      </div>
+      <div class="form-group">
+        <label>Subtitle</label>
+        <div class="field-value copyable" onclick="copyText(this)">
+          A Harvard Archaeologist Reads a 2,000-Year-Old Witness to the Crucifixion—and Must Choose Between Data That Makes Her Career and Testimony That Remakes Her
+        </div>
+      </div>
+    </div>
+    <div class="form-row triple">
+      <div class="form-group">
+        <label>Series Name</label>
+        <div class="field-value copyable" onclick="copyText(this)">
+          The Quantum Witness Series
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Volume Number</label>
+        <div class="field-value copyable" onclick="copyText(this)">
+          1
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Language <span class="req">★</span></label>
+        <div class="field-value copyable" onclick="copyText(this)">English</div>
+      </div>
+    </div>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Author Name <span class="req">★</span></label>
+        <div class="field-value copyable" onclick="copyText(this)">D. Allen Norris</div>
+      </div>
+      <div class="form-group">
+        <label>Publisher Name</label>
+        <div class="field-value copyable" onclick="copyText(this)">Deep Field Press</div>
+        <div class="field-note">Leave blank and D2D uses your author name — standard for self-published books.</div>
+      </div>
+    </div>
+    <div class="form-row single">
+      <div class="form-group">
+        <label>Contains Explicit Content</label>
+        <div class="field-value" style="display:flex;align-items:center;gap:10px;">
+          <div style="width:15px;height:15px;border:2px solid #dfe1e6;border-radius:3px;flex-shrink:0;"></div>
+          <span>Leave unchecked in D2D</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Description -->
+  <div class="section">
+    <div class="section-title">
+      Book Description <span class="req" style="font-size:10px;font-weight:700;margin-left:4px">★ Required</span>
+      <span class="wc-badge">176 words</span>
+    </div>
+    <div class="section-note">
+      This description is distributed to all D2D platforms simultaneously — Apple Books, Kobo, Barnes &amp; Noble, Scribd, and more.
+      Plain text only. Paragraph breaks are preserved.
+    </div>
+    <div class="form-group">
+      <div class="field-value textarea copyable" onclick="copyText(this)">A Harvard archaeologist discovers ancient fragments that challenge everything she thought she knew about faith and science.
+
+Dr. Sarah Davidson has perfected quantum memory reading—a revolutionary technology that extracts testimony from ancient organic matter at the molecular level. When fragments of the original cross surface in a Vatican archaeological dig, Sarah&#39;s MEMORIA protocol promises to unlock the greatest archaeological discovery in history. But as her quantum archaeology reveals the consciousness of an olive tree witness to the Crucifixion, Sarah faces an impossible choice: publish data that will make her career, or receive testimony that will remake her life.
+
+From the limestone hills of ancient Judea to the laboratories of Harvard, The Quantum Cross weaves cutting-edge quantum science with timeless questions of faith. As Sarah reads deeper into the tree&#39;s two-thousand-year vigil, she discovers that some truths cannot be extracted—only received. But a principled researcher threatens to steal her work, and the Vatican commission demands proof that could destroy the very testimony she&#39;s uncovering.
+
+Will Sarah&#39;s instruments measure what happened at Calvary, or will Calvary measure her?</div>
+      <div class="field-note">
+        D2D recommends 150–250 words. No HTML tags, keyword lists, or hashtags.
+        You can add formatting directly in the D2D editor after pasting.
+      </div>
+    </div>
+    
+    <div class="form-group" style="margin-top:12px">
+      <label>Phrases from top search results — incorporate naturally if not already present</label>
+      <div style="padding:6px 0"><span class="signal-phrase">quantum memory reading</span> <span class="signal-phrase">ancient fragments</span> <span class="signal-phrase">archaeological discovery</span> <span class="signal-phrase">consciousness of an olive tree witness</span> <span class="signal-phrase">quantum archaeology</span> <span class="signal-phrase">Vatican archaeological dig</span></div>
+    </div>
+  </div>
+
+  <!-- BISAC Categories -->
+  <div class="section">
+    <div class="section-title">BISAC Subject Categories <span class="req" style="font-size:10px;margin-left:4px">★ Required</span></div>
+    <div class="section-note">
+      D2D allows more BISAC categories than Amazon or Apple — use all of them.
+      Click a field to copy the category path. The grey code is reference only.
+      Find each category in D2D's Subject dropdown.
+    </div>
+    
+    <div class="form-group" style="">
+      <label>Primary</label>
+      <div class="field-value copyable" onclick="copyText(this, "FICTION / Christian / Suspense")">
+        <span class="bisac-code">FIC042060</span>FICTION / Christian / Suspense
+      </div>
+      <div class="field-note">Primary genre - Christian suspense with archaeological mystery elements</div>
+    </div>
+    <div class="form-group" style="margin-top:12px">
+      <label>Category 2</label>
+      <div class="field-value copyable" onclick="copyText(this, "FICTION / Thrillers / Suspense")">
+        <span class="bisac-code">FIC030000</span>FICTION / Thrillers / Suspense
+      </div>
+      <div class="field-note">Strong thriller elements with Vatican conspiracy and data theft subplot</div>
+    </div>
+    <div class="form-group" style="margin-top:12px">
+      <label>Category 3</label>
+      <div class="field-value copyable" onclick="copyText(this, "FICTION / Christian / Historical")">
+        <span class="bisac-code">FIC042040</span>FICTION / Christian / Historical
+      </div>
+      <div class="field-note">Dual timeline structure with significant ancient Jerusalem/Crucifixion narrative</div>
+    </div>
+    <div class="form-group" style="margin-top:12px">
+      <label>Category 4</label>
+      <div class="field-value copyable" onclick="copyText(this, "FICTION / Science Fiction / Hard Science Fiction")">
+        <span class="bisac-code">FIC028070</span>FICTION / Science Fiction / Hard Science Fiction
+      </div>
+      <div class="field-note">Quantum archaeology and memory reading technology central to plot</div>
+    </div>
+    <div class="form-group" style="margin-top:12px">
+      <label>Category 5</label>
+      <div class="field-value copyable" onclick="copyText(this, "FICTION / Historical")">
+        <span class="bisac-code">FIC014000</span>FICTION / Historical
+      </div>
+      <div class="field-note">Ancient timeline and archaeological discovery framework</div>
+    </div>
+  </div>
+
+  <!-- Search Terms / Keywords -->
+  <div class="section">
+    <div class="section-title">Search Terms <span style="color:#6b778c;font-size:10px;font-weight:600;margin-left:4px">(15 ranked — enter #1 first)</span></div>
+    <div class="section-note">
+      D2D accepts up to 15 individual search terms. Enter them one at a time in the Search Terms section,
+      starting with #1. When distributing to stores with fewer keyword slots, D2D automatically sends your
+      highest-ranked terms first. Click any term to copy it.
+    </div>
+    <table class="kw-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Search Term</th>
+          <th>Why this rank</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+    <tr class="">
+      <td class="kw-rank">1</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">crucifixion witness</div>
+      </td>
+      <td class="kw-rationale">Most specific to unique concept - only 41 results, directly describes core premise</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">2</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">quantum archaeology</div>
+      </td>
+      <td class="kw-rationale">Low competition at 10 results, perfectly describes Sarah&#39;s scientific method</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">3</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">olive tree consciousness</div>
+      </td>
+      <td class="kw-rationale">Ultra-specific to dual protagonist concept - only 9 results, highly unique</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">4</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">ancient fragments</div>
+      </td>
+      <td class="kw-rationale">Low competition at 50 results, describes the physical discovery driving plot</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">5</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">quantum memory reading</div>
+      </td>
+      <td class="kw-rationale">Moderate competition at 28 results, describes MEMORIA protocol specifically</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">6</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">Harvard archaeologist</div>
+      </td>
+      <td class="kw-rationale">Very low competition at 14 results, describes protagonist precisely</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">7</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">Jerusalem excavation</div>
+      </td>
+      <td class="kw-rationale">Extremely low competition at 6 results, describes discovery location</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">8</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">Vatican archaeologist</div>
+      </td>
+      <td class="kw-rationale">Moderate competition at 52 results, covers Kowalski&#39;s role and Vatican connection</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">9</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">Christian archaeological thriller</div>
+      </td>
+      <td class="kw-rationale">Moderate competition at 56 results, captures genre blend well</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">10</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">custody chain mystery</div>
+      </td>
+      <td class="kw-rationale">Low competition at 28 results, describes the fragments&#39; historical journey</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">11</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">faith versus science</div>
+      </td>
+      <td class="kw-rationale">Moderate competition at 32 results, core thematic conflict</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">12</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">molecular imprinting</div>
+      </td>
+      <td class="kw-rationale">Zero competition, scientific basis for quantum memory concept</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">13</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">Vatican conspiracy</div>
+      </td>
+      <td class="kw-rationale">Higher competition at 69 results but strong discovery potential</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">14</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">MEMORIA protocol</div>
+      </td>
+      <td class="kw-rationale">High competition at 88 results but unique to this technology</td>
+    </tr>
+    <tr class="">
+      <td class="kw-rank">15</td>
+      <td class="kw-term">
+        <div class="field-value copyable kw-copyable" onclick="copyText(this)">carbon nanotube technology</div>
+      </td>
+      <td class="kw-rationale">Very low competition at 1 result, scientific foundation element</td>
+    </tr>
+      </tbody>
+    </table>
+    <button class="copy-all-btn" onclick="copyAllKeywords()">Copy All 15 Keywords</button>
+  </div>
+
+  <!-- Competition Analysis -->
+  <div class="section">
+    <button class="comp-toggle" onclick="toggleComp()">
+      <span id="comp-arrow">▶</span> Raw Competition Data
+    </button>
+    <div id="comp-table" style="display:none">
+      <p class="field-note" style="margin-bottom:8px">Apple Books search results used to drive keyword ranking decisions above.</p>
+      <table class="competition-table">
+        <thead><tr><th>Keyword</th><th>Results</th><th>Avg Reviews</th><th>Level</th><th>Notes</th></tr></thead>
+        <tbody><tr>
+    <td><strong>crucifixion witness</strong></td>
+    <td>41</td>
+    <td>0</td>
+    <td><span class="level-badge level-Low">Low</span></td>
+    <td>Most books are poetry or simple fiction - unique quantum archaeology angle differentiates</td>
+  </tr><tr>
+    <td><strong>quantum archaeology</strong></td>
+    <td>10</td>
+    <td>0</td>
+    <td><span class="level-badge level-Very Low">Very Low</span></td>
+    <td>Mostly sci-fi thrillers like Rollins - religious angle creates clear differentiation</td>
+  </tr><tr>
+    <td><strong>olive tree consciousness</strong></td>
+    <td>9</td>
+    <td>0</td>
+    <td><span class="level-badge level-Ultra Low">Ultra Low</span></td>
+    <td>No direct competition - results are unrelated poetry and fiction</td>
+  </tr><tr>
+    <td><strong>Vatican archaeologist</strong></td>
+    <td>52</td>
+    <td>0</td>
+    <td><span class="level-badge level-Moderate">Moderate</span></td>
+    <td>Dominated by Rollins and thriller authors - quantum science angle differentiates</td>
+  </tr><tr>
+    <td><strong>Christian archaeological thriller</strong></td>
+    <td>56</td>
+    <td>0</td>
+    <td><span class="level-badge level-Moderate">Moderate</span></td>
+    <td>Mix of series and standalone - quantum element and dual timeline unique</td>
+  </tr></tbody>
+      </table>
+    </div>
+  </div>
+
+</div><!-- end d2d-body -->
+
+<div class="d2d-footer">
+  Generated by AuthorKit &nbsp;·&nbsp; Research via Apple iTunes Search API &nbsp;·&nbsp; Analysis by Claude (Anthropic) &nbsp;·&nbsp;
+  May 25, 2026
+</div>
+</div>
+<div id="copy-toast">Copied ✓</div>
+
+<script>
+  // All keywords as ordered list for copy-all
+  const allKeywords = ["crucifixion witness","quantum archaeology","olive tree consciousness","ancient fragments","quantum memory reading","Harvard archaeologist","Jerusalem excavation","Vatican archaeologist","Christian archaeological thriller","custody chain mystery","faith versus science","molecular imprinting","Vatican conspiracy","MEMORIA protocol","carbon nanotube technology"];
+
+  function copyText(el, overrideText) {
+    const text = overrideText !== undefined
+      ? overrideText
+      : (el.innerText || el.textContent || '').trim();
+    navigator.clipboard.writeText(text).then(() => {
+      el.classList.add('copied');
+      setTimeout(() => el.classList.remove('copied'), 1200);
+      showToast();
+    }).catch(() => {
+      const r = document.createRange();
+      r.selectNodeContents(el);
+      const s = window.getSelection();
+      if (s) { s.removeAllRanges(); s.addRange(r); }
+    });
+  }
+
+  function copyAllKeywords() {
+    const text = allKeywords.join('\n');
+    navigator.clipboard.writeText(text).then(() => {
+      showToast('All 15 keywords copied ✓');
+    });
+  }
+
+  function showToast(msg) {
+    const t = document.getElementById('copy-toast');
+    if (msg) { t.textContent = msg; }
+    t.classList.add('show');
+    setTimeout(() => { t.classList.remove('show'); t.textContent = 'Copied ✓'; }, 2000);
+  }
+
+  function toggleComp() {
+    const t = document.getElementById('comp-table');
+    const a = document.getElementById('comp-arrow');
+    const open = t.style.display !== 'none';
+    t.style.display = open ? 'none' : 'block';
+    a.textContent = open ? '▶' : '▼';
+  }
+</script>
+</body>
+</html>

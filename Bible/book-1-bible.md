@@ -1,7 +1,7 @@
 # BOOK 1 — THE QUANTUM CROSS
 ## Story Bible — April 2026
 
-*Part of The Quantum Witness Series by D. Allen Norris / Deep Field Press*
+*Part of The Faithful Witness Series by D. Allen Norris / Deep Field Press*
 *For series-wide rules and characters see: `series-info/series-bible/series-bible.md`*
 *For craft rules see: `series-info/series-bible/prose-guide.md`*
 
@@ -17,7 +17,7 @@ This bible was compiled in April 2026 from the working outline (`book-1-The-Quan
 
 **Title:** The Quantum Cross
 **Subtitle (KDP):** *A Novel: A Harvard Archaeologist Reads a 2,000-Year-Old Witness to the Crucifixion—and Must Choose Between Data That Makes Her Career and Testimony That Remakes Her*
-**Series field (KDP):** The Quantum Witness Series — Book 1 of 3
+**Series field (KDP):** The Faithful Witness Series — Book 1 of 3
 **Series position:** Book 1 of 3
 **Genre:** Christian Suspense & Thriller / Religious Thriller
 **Status:** Published. 71,483 words. 46 chapters. AI-detector and continuity passes complete.
@@ -252,7 +252,25 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 **Vellum docx:** `Book-1-The-Quantum-Cross/publish/The-Quantum-Cross-Vellum.docx`
 
+Categories:
+
+**The two you enter at KDP upload:**
+
+1. `Kindle Store > Kindle eBooks > Religion & Spirituality > Christian Books & Bibles > Christian Fiction > Mystery & Suspense`
+2. `Kindle Store > Kindle eBooks > Religion & Spirituality > Christian Books & Bibles > Christian Fiction > Historical`
+
+**Additional categories to request via KDP support (email them with your ASIN after publishing):**
+
+1. `Kindle Store > Kindle eBooks > Literature & Fiction > Religious & Inspirational Fiction > Christian > Historical`
+2. `Kindle Store > Kindle eBooks > Literature & Fiction > Religious & Inspirational Fiction > Christian > Mystery & Suspense`
+3. `Kindle Store > Kindle eBooks > Religion & Spirituality > Christian Books & Bibles > Christian Fiction` (the parent shelf — worth having for visibility)
+
+
+
+
+
 **ISBNs:**
+
 - eBook: 979-8-9947832-0-7
 - Print: *(confirm from Bowker — not in current files)*
 - Hardcover: Requires separate Bowker ISBN. KDP pricing target $27.99–$29.99. Not yet submitted.
