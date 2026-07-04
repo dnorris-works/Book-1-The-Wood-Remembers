@@ -9,7 +9,7 @@
 
 | Book | Title | Ebook | Paperback | Platform |
 |------|-------|-------|-----------|----------|
-| Book 1 | The Quantum Cross | ✅ Published | ✅ Published | KDP only (removed from D2D) |
+| Book 1 | The Wood Remembers *(retitled from The Quantum Cross)* | ✅ Published *(KDP listing still shows old title — update pending)* | ✅ Published | KDP only (removed from D2D) |
 | Book 2 | The Judas Rope | ✅ Published | ✅ Published | KDP only (never on D2D) |
 | Book 3 | The Holding | Manuscript complete | — | Not yet published |
 
@@ -82,7 +82,7 @@
 
 ## Executive Summary
 
-This marketing plan leverages **free marketing tactics only**—no paid advertising. We rely on KDP Select's built-in promotional tools, organic social media, content marketing, community engagement, and strategic use of free book promotion sites to build visibility for *The Quantum Cross* (Book 1 of The Faithful Witness Series).
+This marketing plan leverages **free marketing tactics only**—no paid advertising. We rely on KDP Select's built-in promotional tools, organic social media, content marketing, community engagement, and strategic use of free book promotion sites to build visibility for *The Wood Remembers* (Book 1 of The Faithful Witness Series).
 
 **Key 2026 Context:**
 - KDP Select Global Fund paid $69.3 million to authors (March 2026)

@@ -1,4 +1,4 @@
-# BOOK 1 — THE QUANTUM CROSS
+# BOOK 1 — THE WOOD REMEMBERS
 ## Story Bible — April 2026
 
 *Part of The Faithful Witness Series by D. Allen Norris / Deep Field Press*
@@ -15,7 +15,7 @@ This bible was compiled in April 2026 from the working outline (`book-1-The-Quan
 
 ## 1. BOOK AT A GLANCE
 
-**Title:** The Quantum Cross
+**Title:** The Wood Remembers
 **Subtitle (KDP):** *A Novel: A Harvard Archaeologist Reads a 2,000-Year-Old Witness to the Crucifixion—and Must Choose Between Data That Makes Her Career and Testimony That Remakes Her*
 **Series field (KDP):** The Faithful Witness Series — Book 1 of 3
 **Series position:** Book 1 of 3
@@ -26,7 +26,9 @@ This bible was compiled in April 2026 from the working outline (`book-1-The-Quan
 
 **Series theme landing:** The boundary between the measurable and the sacred is a threshold, not a wall. Book 1 is the first crossing — a scientist learns that what she built to extract testimony must learn to receive it instead.
 
-**Title source:** The title refers to the crucifixion cross itself as a quantum artifact — its molecular grain structure preserving coherent quantum information across two millennia. The cross is both the instrument of execution and the medium of witness. "The Quantum Cross" names what it is scientifically and what it means theologically without explaining either.
+**Title source:** "The Wood Remembers" names the cross as living memory — its molecular grain structure preserving coherent quantum information across two millennia. The wood is both the instrument of execution and the medium of witness. The title carries the book's central claim (matter can hold testimony) without explaining the science behind it, and pairs with the planned sequel title, *The Judas Rope* — each book named for an object that bears witness.
+
+*(Retitled from "The Quantum Cross" — May 2026. "Quantum" read as sci-fi rather than literary/historical fiction to browsing readers; the new title leads with the tree/testimony hook instead of the science conceit.)*
 
 **Epigraph:** John 1:14 paired with the No-Hiding Theorem from quantum information theory (Braunstein and Pati, 2007). The book's argument in two lines before the first page: the Word became matter; quantum information cannot vanish from matter; therefore what the cross held cannot have been lost.
 
@@ -250,7 +252,7 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 **Pipeline:** Markdown → Pandoc (`--from markdown+smart`) → Vellum 4.1 → epub/PDF → KDP Direct only.
 
-**Vellum docx:** `Book-1-The-Quantum-Cross/publish/The-Quantum-Cross-Vellum.docx`
+**Vellum docx (pending manual rename in Vellum after retitle):** `Book-1-The Quantum Cross/publish/The Quantum Cross.vellum` — project file and folder still use the old title; rename manually in Vellum, then re-export and re-upload to KDP.
 
 Categories:
 

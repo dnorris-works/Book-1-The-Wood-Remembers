@@ -1,6 +1,7 @@
-# Back Matter — The Quantum Cross
+# Back Matter — The Wood Remembers
 # The Faithful Witness Series, Book 1
 *Last updated: May 20, 2026*
+*(Retitled from "The Quantum Cross" — update this file's filename/usage in Vellum after Book 1's Vellum project is retitled.)*
 
 ---
 
@@ -61,7 +62,7 @@ She closed the file.
 
 ## The Complete Series
 
-**The Quantum Cross** — Book 1 — *You just finished it*
+**The Wood Remembers** — Book 1 — *You just finished it*
 A quantum instrument reads a 2,000-year-old olive tree and finds something no one expected. A scientist must decide whether data and testimony are the same thing — or whether the difference matters more than her career.
 
 **The Judas Rope** — Book 2 — *Available now in ebook and paperback*

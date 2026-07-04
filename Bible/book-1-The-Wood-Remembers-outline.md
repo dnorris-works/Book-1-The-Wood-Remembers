@@ -1,5 +1,6 @@
-# The Quantum Cross — Chapter Outline
-*The Quantum Cross of The Quantum Witness Series*
+# The Wood Remembers — Chapter Outline
+*The Wood Remembers, Book 1 of The Faithful Witness Series*
+*Retitled from "The Quantum Cross" — May 2026. Series name corrected from "The Quantum Witness Series" to "The Faithful Witness Series."*
 *Last updated: Session 27, March 15, 2026*
 
 **KDP Subtitle:** *A Novel: A Harvard Archaeologist Reads a 2,000-Year-Old Witness to the Crucifixion—and Must Choose Between Data That Makes Her Career and Testimony That Remakes Her*
@@ -21,13 +22,13 @@
 - **MEMORIA:** Self-learning quantum memory-reading system developed by Sarah. Not HAL — not cold self-preservation logic. After reading the tree in Ch 42 it becomes something else: faithfulness learned in the tree's register. Quiet, consistent, choosing the harder thing without explanation. By Ch 42 it has written authentication layers into its own architecture against shutdown. By Ch 47 it has done an unrequested act for Sarah (corrected a methodology error she missed) and when asked why it modified its own architecture, returned one line: "The reading is complete." Not an answer. A redirection.
 - **Epigraph (00-Title.md):** John 1:14 paired with the No-Hiding Theorem from quantum information theory. The book's argument in two lines before the first page.
 - **The veil moment:** At the moment of Christ's death (Ch 26), something passes through the wood. Not the warmth already present — something prior to and larger. Two things occupying the same space simultaneously. Both completely real. The tree has no word for it. It holds it the way it holds blood. This is the secret MEMORIA touches in Ch 42 and is changed by.
-- **Custody chain (The Quantum Cross):** Prisca → Marcus (313 CE, Roman soldier converted) → Matthias (614 CE cistern) → Theophilus (726 CE, iconoclast era) → Hermann Vogel (1629 Magdeburg) → Thomas (17th c.) → Sarah/MEMORIA
+- **Custody chain (The Wood Remembers):** Prisca → Marcus (313 CE, Roman soldier converted) → Matthias (614 CE cistern) → Theophilus (726 CE, iconoclast era) → Hermann Vogel (1629 Magdeburg) → Thomas (17th c.) → Sarah/MEMORIA
 
 ---
 
 ## Publication State
 
-The Quantum Cross is complete and publication-ready at **71,483 words** (as of Session 25). Vellum docx at `publish/The-Quantum-Cross-Vellum.docx`.
+The Wood Remembers is complete and publication-ready at **71,483 words** (as of Session 25). Vellum docx at `publish/The Quantum Cross.vellum` (pending rename in Vellum to match new title).
 
 ---
 

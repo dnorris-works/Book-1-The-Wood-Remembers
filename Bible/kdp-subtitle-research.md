@@ -1,5 +1,6 @@
-# KDP Subtitle Research — The Quantum Cross
+# KDP Subtitle Research — The Wood Remembers
 *Session: May 24, 2026*
+*Note: Book retitled from "The Quantum Cross" to "The Wood Remembers" in a later session. The subtitle analysis below remains valid — it was written for the same underlying book and its Harvard-archaeologist/Crucifixion/testimony hook, independent of the main title's wording.*
 
 ## Sources Read
 - `Bible/book-1-bible.md` (canonical reference, April 2026)
