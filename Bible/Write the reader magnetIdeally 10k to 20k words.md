@@ -1,6 +1,6 @@
 1. **Write the reader magnet**
    - Ideally 10k to 20k words.
-   - Prequel, side story, or origin story tied to *The Quantum Cross*.
+   - Prequel, side story, or origin story tied to *The Wood Remembers*.
    - Do not give away the full KU/KDP Select book outside Amazon.
 2. **Set up MailerLite first**
    - Group: `Faithful Witness Reader Magnet`
@@ -11,7 +11,7 @@
    - Connect MailerLite.
    - Route subscribers into the MailerLite group.
    - Create reader magnet landing page.
-   - Create universal link for *The Quantum Cross*.
+   - Create universal link for *The Wood Remembers*.
 4. **Join group promos**
    - Look for Christian fiction, historical fiction, inspirational fiction, speculative fiction, science-faith, clean fiction, or literary fiction promos.
    - Start small and track subscriber quality.

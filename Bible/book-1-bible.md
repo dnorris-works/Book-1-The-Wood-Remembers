@@ -9,7 +9,7 @@
 
 ## STATUS NOTE
 
-This bible was compiled in April 2026 from the working outline (`book-1-The-Quantum-Cross-outline.md`) and session journal records. The manuscript is complete and published. All continuity issues identified across four cross-series passes have been fixed. This file supersedes `book-1-The-Quantum-Cross-outline.md` as the canonical reference document. The outline file is retained as a historical working document.
+This bible was compiled in April 2026 from the working outline (`book-1-The-Wood-Remembers-outline.md`) and session journal records. The manuscript is complete and published. All continuity issues identified across four cross-series passes have been fixed. This file supersedes `book-1-The-Wood-Remembers-outline.md` as the canonical reference document. The outline file is retained as a historical working document.
 
 ---
 
@@ -28,7 +28,7 @@ This bible was compiled in April 2026 from the working outline (`book-1-The-Quan
 
 **Title source:** "The Wood Remembers" names the cross as living memory — its molecular grain structure preserving coherent quantum information across two millennia. The wood is both the instrument of execution and the medium of witness. The title carries the book's central claim (matter can hold testimony) without explaining the science behind it, and pairs with the planned sequel title, *The Judas Rope* — each book named for an object that bears witness.
 
-*(Retitled from "The Quantum Cross" — May 2026. "Quantum" read as sci-fi rather than literary/historical fiction to browsing readers; the new title leads with the tree/testimony hook instead of the science conceit.)*
+*(Retitled from "The Wood Remembers" — May 2026. "Quantum" read as sci-fi rather than literary/historical fiction to browsing readers; the new title leads with the tree/testimony hook instead of the science conceit.)*
 
 **Epigraph:** John 1:14 paired with the No-Hiding Theorem from quantum information theory (Braunstein and Pati, 2007). The book's argument in two lines before the first page: the Word became matter; quantum information cannot vanish from matter; therefore what the cross held cannot have been lost.
 
@@ -252,7 +252,7 @@ MEMORIA's change: the twelve-second reading. The one frame at 0.003 seconds wher
 
 **Pipeline:** Markdown → Pandoc (`--from markdown+smart`) → Vellum 4.1 → epub/PDF → KDP Direct only.
 
-**Vellum docx (pending manual rename in Vellum after retitle):** `Book-1-The Quantum Cross/publish/The Quantum Cross.vellum` — project file and folder still use the old title; rename manually in Vellum, then re-export and re-upload to KDP.
+**Vellum docx (pending manual rename in Vellum after retitle):** `Book-1-The Wood Remembers/publish/The Wood Remembers.vellum` — project file and folder still use the old title; rename manually in Vellum, then re-export and re-upload to KDP.
 
 Categories:
 
@@ -302,6 +302,6 @@ Categories:
 
 ---
 
-*This bible is the canonical reference document for Book 1. All content reflects the published manuscript. The working outline (`book-1-The-Quantum-Cross-outline.md`) is retained as a historical session-record document.*
+*This bible is the canonical reference document for Book 1. All content reflects the published manuscript. The working outline (`book-1-The-Wood-Remembers-outline.md`) is retained as a historical session-record document.*
 
 *Last updated: April 25, 2026*

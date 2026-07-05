@@ -9,7 +9,7 @@
 
 | Book | Title | Ebook | Paperback | Platform |
 |------|-------|-------|-----------|----------|
-| Book 1 | The Wood Remembers *(retitled from The Quantum Cross)* | ✅ Published *(KDP listing still shows old title — update pending)* | ✅ Published | KDP only (removed from D2D) |
+| Book 1 | The Wood Remembers *(retitled from The Wood Remembers)* | ✅ Published *(KDP listing still shows old title — update pending)* | ✅ Published | KDP only (removed from D2D) |
 | Book 2 | The Judas Rope | ✅ Published | ✅ Published | KDP only (never on D2D) |
 | Book 3 | The Holding | Manuscript complete | — | Not yet published |
 

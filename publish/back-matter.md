@@ -1,7 +1,7 @@
 # Back Matter — The Wood Remembers
 # The Faithful Witness Series, Book 1
 *Last updated: May 20, 2026*
-*(Retitled from "The Quantum Cross" — update this file's filename/usage in Vellum after Book 1's Vellum project is retitled.)*
+*(Retitled from "The Wood Remembers" — update this file's filename/usage in Vellum after Book 1's Vellum project is retitled.)*
 
 ---
 

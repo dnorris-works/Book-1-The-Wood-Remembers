@@ -1,6 +1,6 @@
 # The Wood Remembers — Chapter Outline
 *The Wood Remembers, Book 1 of The Faithful Witness Series*
-*Retitled from "The Quantum Cross" — May 2026. Series name corrected from "The Quantum Witness Series" to "The Faithful Witness Series."*
+*Retitled from "The Wood Remembers" — May 2026. Series name corrected from "The Quantum Witness Series" to "The Faithful Witness Series."*
 *Last updated: Session 27, March 15, 2026*
 
 **KDP Subtitle:** *A Novel: A Harvard Archaeologist Reads a 2,000-Year-Old Witness to the Crucifixion—and Must Choose Between Data That Makes Her Career and Testimony That Remakes Her*
@@ -28,7 +28,7 @@
 
 ## Publication State
 
-The Wood Remembers is complete and publication-ready at **71,483 words** (as of Session 25). Vellum docx at `publish/The Quantum Cross.vellum` (pending rename in Vellum to match new title).
+The Wood Remembers is complete and publication-ready at **71,483 words** (as of Session 25). Vellum docx at `publish/The Wood Remembers.vellum` (pending rename in Vellum to match new title).
 
 ---
 
@@ -266,12 +266,12 @@ Jesuit priest and archaeologist, 48. El Salvador scar. Wire-rim glasses. Prays i
 Physicist. Sarah's co-investigator. The scientist who arrives at the edge of his framework and retreats to careful language — but the retreat is honest, not evasive. His glasses moment in Ch 43 is his epiphany.
 
 ### Cardinal Alessandro Bertoli
-The Vatican's long-view holder. Not an obstacle — a careful man. His dual-inheritance statement is the honest institutional reckoning The Quantum Cross builds to.
+The Vatican's long-view holder. Not an obstacle — a careful man. His dual-inheritance statement is the honest institutional reckoning The Wood Remembers builds to.
 
 ### Daniel Reeves (planted for Book 2)
 - Ch 32 interior beat: a third essential thing, no name, a possibility closed before Harvard
 - Ch 33: "He was ordained. Daniel Reeves. He writes about faith and science now. I haven't read his work." Kowalski does not press it.
-- The plant is complete and confirmed. He never appears in The Quantum Cross directly.
+- The plant is complete and confirmed. He never appears in The Wood Remembers directly.
 
 ---
 

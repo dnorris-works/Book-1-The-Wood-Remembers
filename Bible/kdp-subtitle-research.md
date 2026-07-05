@@ -1,10 +1,10 @@
 # KDP Subtitle Research — The Wood Remembers
 *Session: May 24, 2026*
-*Note: Book retitled from "The Quantum Cross" to "The Wood Remembers" in a later session. The subtitle analysis below remains valid — it was written for the same underlying book and its Harvard-archaeologist/Crucifixion/testimony hook, independent of the main title's wording.*
+*Note: Book retitled from "The Wood Remembers" to "The Wood Remembers" in a later session. The subtitle analysis below remains valid — it was written for the same underlying book and its Harvard-archaeologist/Crucifixion/testimony hook, independent of the main title's wording.*
 
 ## Sources Read
 - `Bible/book-1-bible.md` (canonical reference, April 2026)
-- `Bible/book-1-The-Quantum-Cross-outline.md` (working outline, Session 27)
+- `Bible/book-1-The-Wood-Remembers-outline.md` (working outline, Session 27)
 - `Bible/target-reader-profile.md`
 - `Manuscript/Act-1/01-First-Light.md` (first chapter, full read)
 - `Manuscript/Act-2/27-Second-Light-Discovery.md` (Sarah's introduction, full read)
